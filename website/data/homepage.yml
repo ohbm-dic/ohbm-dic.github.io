@@ -1,0 +1,43 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "**OHBM DIC:** diversity and inclusivity"
+  button:
+    contents: "Learn More"
+    url: "#"
+items:
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: About Us
+      icon: fa-paper-plane
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Symposia
+      icon: fa-pencil-alt
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Roundtable
+      icon: fa-wrench
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Kids Review
+      icon: fa-pencil-alt
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+  - type: heading
+    heading: Ensuring diversity and inclusivity at OHBM
+    contents: find out more about us here
+  - type: posts
+    #heading: Recent Posts
+    content_type: posts
+    max: 4
+  #- type: cta
+    #contents: Are you ready to continue your quest?
+    #button:
+      #contents: Insert Coin
+      #url: "#"
