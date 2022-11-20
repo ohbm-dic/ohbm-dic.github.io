@@ -8,7 +8,7 @@
     name = "Roundtable"
     weight = 30
 [[main]]
-    name = "Kids review"
+    name = "Kids Review"
     weight = 30    
 [[main]]
     name = "Publications"
@@ -20,30 +20,14 @@
     name = "Contact us"
     weight = 30   
 [[main]]
-    parent = "Dropdown"
-    name = "About us"
-    weight = 31
-[[main]]
-    parent = "Dropdown"
-    name = "Symposia"
-    weight = 32
-[[main]]
-    parent = "Dropdown"
-    name = "Roundtable"
-    weight = 33
-[[main]]
-    parent = "Dropdown"
-    name = "KidsReview"
-    weight = 34
-[[main]]
-    parent = "KidsReview"
+    parent = "Kids Review"
     name = "2020"
     weight = 35
 [[main]]
-    parent = "KidsReview"
+    parent = "Kids Review"
     name = "2021"
     weight = 36
 [[main]]
-    parent = "KidsReview"
+    parent = "Kids Review"
     name = "2022"
     weight = 37
