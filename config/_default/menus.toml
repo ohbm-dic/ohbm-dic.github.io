@@ -1,20 +1,20 @@
 [[main]]
-    name = "About us"
+    name = "About Us"
     weight = 30
 [[main]]
-    parent = "About us"
+    parent = "About Us"
     name = "Our Mission"
     weight = 45
 [[main]]
-    parent = "About us"
+    parent = "About Us"
     name = "Our team 2022-23"
     weight = 45    
 [[main]]
-    parent = "About us"
+    parent = "About Us"
     name = "Past members"
     weight = 45  
 [[main]]
-    parent = "About us"
+    parent = "About Us"
     name = "OHBM Code of Conduct"
     weight = 45  
 [[main]]
