@@ -29,6 +29,16 @@ items:
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+    - title: Projects
+      icon: fa-project-diagram
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+      - title: Photos
+      icon: fa-camera
+      content: >
+        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
+        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
   - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
     contents: find out more about us here
