@@ -3,43 +3,29 @@
     weight = 30
 [[main]]
     parent = "Dropdown"
-    name = "Lorem dolor"
+    name = "About us"
     weight = 31
 [[main]]
     parent = "Dropdown"
-    name = "Magna Phasellus"
+    name = "Symposia"
     weight = 32
 [[main]]
     parent = "Dropdown"
-    name = "Etiam sed tempus"
+    name = "Roundtable"
     weight = 33
 [[main]]
     parent = "Dropdown"
-    name = "Submenu"
+    name = "KidsReview"
     weight = 34
 [[main]]
-    parent = "Submenu"
-    name = "Lorem dolor"
-    identifier = "sub-lorem"
+    parent = "KidsReview"
+    name = "2020"
     weight = 35
 [[main]]
-    parent = "Submenu"
-    name = "Phasellus magna"
+    parent = "KidsReview"
+    name = "2021"
     weight = 36
 [[main]]
-    parent = "Submenu"
-    name = "Magna phasellus"
+    parent = "KidsReview"
+    name = "2022"
     weight = 37
-[[main]]
-    parent = "Submenu"
-    name = "Etiam nisl"
-    weight = 38
-[[main]]
-    parent = "Submenu"
-    name = "Veroeros feugiat"
-    identifier = "sub-veroeros"
-    weight = 39
-[[main]]
-    parent = "Dropdown"
-    name = "Veroeros feugiat"
-    weight = 40
