@@ -1,5 +1,5 @@
 ---
-title: The Fourth Thing
+title: The Fourth Post
 image: images/pic04.jpg
 date: "2020-01-04T00:00:00"
 tags:
