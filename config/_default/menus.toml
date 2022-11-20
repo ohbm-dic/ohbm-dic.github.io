@@ -1,6 +1,24 @@
 [[main]]
-    name = "Dropdown"
+    name = "About us"
     weight = 30
+[[main]]
+    name = "Symposia"
+    weight = 30
+[[main]]
+    name = "Roundtable"
+    weight = 30
+[[main]]
+    name = "Kids review"
+    weight = 30    
+[[main]]
+    name = "Publications"
+    weight = 30  
+[[main]]
+    name = "Links"
+    weight = 30   
+[[main]]
+    name = "Contact us"
+    weight = 30   
 [[main]]
     parent = "Dropdown"
     name = "About us"
