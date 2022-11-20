@@ -14,9 +14,6 @@
     name = "Publications"
     weight = 30  
 [[main]]
-    name = "Links"
-    weight = 30   
-[[main]]
     name = "Contact us"
     weight = 30   
 [[main]]
