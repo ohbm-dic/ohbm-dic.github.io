@@ -7,6 +7,7 @@ image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar1
+aliases: [/kidsreview/2020/]
 ---
 
 Watch on youtube at [coming soon]
