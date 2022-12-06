@@ -49,11 +49,13 @@
     weight = 33
 [[main]]
     name = "Kids Review"
-    weight = 30    
+    weight = 30   
+    url = "/kidsreview" 
 [[main]]
     parent = "Kids Review"
     name = "2020"
     weight = 31
+    url = "/kidsreview/2020"
 [[main]]
     parent = "Kids Review"
     name = "2021"
