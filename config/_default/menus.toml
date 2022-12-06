@@ -4,64 +4,64 @@
 [[main]]
     parent = "About Us"
     name = "Our Mission"
-    weight = 45
+    weight = 31
 [[main]]
     parent = "About Us"
     name = "Our team 2022-23"
-    weight = 45    
+    weight = 32    
 [[main]]
     parent = "About Us"
     name = "Past members"
-    weight = 45  
+    weight = 33  
 [[main]]
     parent = "About Us"
     name = "OHBM Code of Conduct"
-    weight = 45  
+    weight = 34  
 [[main]]
     name = "Symposia"
     weight = 30
 [[main]]
     parent = "Symposia"
     name = "2020"
-    weight = 35
+    weight = 31
 [[main]]
     parent = "Symposia"
     name = "2021"
-    weight = 35
+    weight = 32
 [[main]]
     parent = "Symposia"
     name = "2022"
-    weight = 35
+    weight = 33
 [[main]]
     name = "Roundtable"
     weight = 30
 [[main]]
     parent = "Roundtable"
     name = "2020"
-    weight = 35
+    weight = 31
 [[main]]
     parent = "Roundtable"
     name = "2021"
-    weight = 35
+    weight = 32
 [[main]]
     parent = "Roundtable"
     name = "2022"
-    weight = 35
+    weight = 33
 [[main]]
     name = "Kids Review"
     weight = 30    
 [[main]]
     parent = "Kids Review"
     name = "2020"
-    weight = 35
+    weight = 31
 [[main]]
     parent = "Kids Review"
     name = "2021"
-    weight = 35
+    weight = 32
 [[main]]
     parent = "Kids Review"
     name = "2022"
-    weight = 35
+    weight = 33
 [[main]]
     name = "Publications"
     weight = 30  
