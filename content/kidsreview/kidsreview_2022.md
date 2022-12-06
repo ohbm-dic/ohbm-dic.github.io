@@ -7,6 +7,7 @@ image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar1
+aliases: [/kidsreview/2022/]
 ---
 
 Watch on youtube at https://youtube.com/playlist?list=PLocwiMktiT-5w99sH6XGSWwsMyj2TMlm_
