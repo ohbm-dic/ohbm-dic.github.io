@@ -20,6 +20,7 @@
 [[main]]
     name = "Symposia"
     weight = 30
+    url = "/symposia"
 [[main]]
     parent = "Symposia"
     name = "2020"
