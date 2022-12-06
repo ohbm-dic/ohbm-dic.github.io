@@ -75,4 +75,6 @@
 [[main]]
     name = "Links"
     weight = 80   
-
+[[main]]
+    name = "Contact Us"
+    weight = 90   
