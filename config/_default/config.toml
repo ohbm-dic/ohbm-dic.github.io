@@ -62,25 +62,25 @@ copyright = "© Diversity and Inclusivity Committee, OHBM"
         [[params.footer.links]]
             header = "More Links"
         [[params.footer.links.links]]
-            title = "OHBM Open Science Special Interest Group"
+            title = "OHBM Open Science SIG"
             url = "https://ossig.netlify.app/"
         [[params.footer.links.links]]
-            title = "other"
+            title = "None"
             url = "#"
         [[params.footer.links.links]]
-            title = "Rutrum accumsan sed"
+            title = "None"
             url = "#"
         [[params.footer.links.links]]
-            title = "Mattis et sed accumsan"
+            title = "None"
             url = "#"
         [[params.footer.links.links]]
-            title = "Duis neque nisi sed"
+            title = "None"
             url = "#"
         [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
+            title = "None"
             url = "#"
         [[params.footer.links.links]]
-            title = "Rutrum amet varius"
+            title = "None"
             url = "#"
 
         [params.footer.contact_form]
