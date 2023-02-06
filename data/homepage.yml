@@ -4,7 +4,7 @@ banner:
   contents: "**OHBM DIC:** diversity and inclusivity"
   button:
     contents: "Learn More"
-    url: "#"
+    url: "/about_us"
 items:
   - type: highlights
     items_per_row: 3
