@@ -1,12 +1,10 @@
 ---
-title: The Second Post
+title: Results from the Survey on Inclusivity at OHBM: Summary and Future Directions
 image: images/pic02.jpg
-date: "2020-01-02T00:00:00"
+date: "2022-04-22"
 tags:
-  - example
-  - duis neque
+  - Lists
+  - Highlights
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
-<!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+We collected and analyzed the results from our survey on inclusivity at OHBM. Check out our summary and suggested future directions.
+https://www.ohbmbrainmappingblog.com/blog/results-from-the-survey-on-inclusivity-at-ohbm-summary-and-future-directions
