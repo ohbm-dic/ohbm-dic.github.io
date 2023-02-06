@@ -81,7 +81,8 @@
     url = "/kidsreview/2023/"
 [[main]]
     name = "Posts"
-    weight = 60  
+    weight = 60 
+    url = "https://ohbm-dic.github.io/tags/lists/"
 [[main]]
     name = "Publications"
     weight = 70  
