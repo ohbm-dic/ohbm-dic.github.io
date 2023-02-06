@@ -61,11 +61,6 @@
     url = "/kidsreview" 
 [[main]]
     parent = "Kids Review"
-    name = "2020"
-    weight = 54
-    url = "/kidsreview/2020/"
-[[main]]
-    parent = "Kids Review"
     name = "2021"
     weight = 53
     url = "https://youtube.com/playlist?list=PLocwiMktiT-6qUcqfP1qronR16EHLW3NM"
