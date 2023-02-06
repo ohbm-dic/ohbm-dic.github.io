@@ -1,7 +1,7 @@
 ---
-title: The Fourth Post
+title: Best practices for ensuring diversity of presenters at OHBM
 image: images/pic04.jpg
-date: "2020-01-04T00:00:00"
+date: "2022-12-01"
 tags:
   - Lists
   - Highlights
