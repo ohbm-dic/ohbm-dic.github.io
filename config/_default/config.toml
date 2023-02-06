@@ -56,16 +56,16 @@ copyright = "© Diversity and Inclusivity Committee, OHBM"
             title = "COBIDAS"
             url = "https://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf"
         [[params.footer.links.links]]
-            title = "OHBM Open Science Special Interest Group"
-            url = "https://ossig.netlify.app/"
+            title = "OHBM Tutorials"
+            url = "https://www.ohbmbrainmappingblog.com/tutorials.html"
 
         [[params.footer.links]]
-            header = "More Links to Stuff"
+            header = "More Links"
         [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
-            url = "#"
+            title = "OHBM Open Science Special Interest Group"
+            url = "https://ossig.netlify.app/"
         [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
+            title = "other"
             url = "#"
         [[params.footer.links.links]]
             title = "Rutrum accumsan sed"
