@@ -1,6 +1,7 @@
 [[main]]
     name = "About Us"
     weight = 20
+    url = "/about_us"
 [[main]]
     parent = "About Us"
     name = "Our Mission"
@@ -8,15 +9,18 @@
 [[main]]
     parent = "About Us"
     name = "Our team 2022-23"
-    weight = 22    
+    weight = 22
+    url = "/about_us/ourteam/"    
 [[main]]
     parent = "About Us"
     name = "Past members"
-    weight = 23  
+    weight = 23 
+    url = "/about_us/pastmembers/"    
 [[main]]
     parent = "About Us"
     name = "OHBM Code of Conduct"
-    weight = 24  
+    weight = 24 
+    url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912"    
 [[main]]
     name = "Symposia"
     weight = 30
@@ -59,17 +63,22 @@
     parent = "Kids Review"
     name = "2020"
     weight = 51
-    url = "/kidsreview/2020"
+    url = "/kidsreview/2020/"
 [[main]]
     parent = "Kids Review"
     name = "2021"
     weight = 52
-    url = "/kidsreview/2021"
+    url = "https://youtube.com/playlist?list=PLocwiMktiT-6qUcqfP1qronR16EHLW3NM"
 [[main]]
     parent = "Kids Review"
     name = "2022"
     weight = 53
-    url = "/kidsreview/2022"
+    url = "https://youtube.com/playlist?list=PLocwiMktiT-5w99sH6XGSWwsMyj2TMlm_"
+[[main]]
+    parent = "Kids Review"
+    name = "2023"
+    weight = 54
+    url = "/kidsreview/2023/"
 [[main]]
     name = "Posts"
     weight = 60  
