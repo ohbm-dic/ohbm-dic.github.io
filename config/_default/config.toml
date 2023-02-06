@@ -14,23 +14,23 @@ copyright = "© Diversity and Inclusivity Committee, OHBM"
     [[params.social]]
         title = "Twitter"
         icon = "fa-twitter"
-        url = "#"
+        url = "https://twitter.com/ohbm?lang=en"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
-        url = "#"
+        url = "https://www.facebook.com/humanbrainmapping.org/"
     [[params.social]]
-        title = "GitHub"
+        title = "DIC GitHub"
         icon = "fa-github"
-        url = "#"
+        url = "https://github.com/ohbmdic"
     [[params.social]]
         title = "LinkedIn"
         icon = "fa-linkedin-in"
-        url = "#"
+        url = "https://www.linkedin.com/company/organization-for-human-brain-mapping/about/"
     [[params.social]]
-        title = "Creative Commons"
-        icon = "fa-creative-commons"
-        url = "https://creativecommons.org/"
+        title = "YouTube"
+        icon = "fa-youtube"
+        url = "https://www.youtube.com/@OHBM"
 
 
     [params.footer]
@@ -65,8 +65,8 @@ copyright = "© Diversity and Inclusivity Committee, OHBM"
             title = "OHBM Open Science SIG"
             url = "https://ossig.netlify.app/"
         [[params.footer.links.links]]
-            title = "None"
-            url = "#"
+            title = "OHBN Potcast"
+            url = "https://www.youtube.com/watch?v=7birD1brLIo&list=PLEJ899jsgdRqhzWm2acsmIKFB1LO_JKwc"
         [[params.footer.links.links]]
             title = "None"
             url = "#"
