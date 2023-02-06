@@ -1,7 +1,7 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**OHBM DIC:** diversity and inclusivity"
+  contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
     contents: "Apply here"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform"
