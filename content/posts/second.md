@@ -1,5 +1,5 @@
 ---
-title: Results from the Survey on Inclusivity at OHBM: Summary and Future Directions
+title: Results from the Survey on Inclusivity at OHBM - Summary and Future Directions
 image: images/pic02.jpg
 date: "2022-04-22"
 tags:
