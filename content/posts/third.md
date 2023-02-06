@@ -1,12 +1,12 @@
 ---
-title: The Third Post
+title: Diversity and Inclusivity Events at the 2022 OHBM Annual Meeting
 image: images/pic03.jpg
-date: "2020-01-03T00:00:00"
+date: "2022-05-27"
 tags:
-  - example
-  - duis neque
+  - Lists
+  - Highlights
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Check out our latest OHBM post that reviews the events hosted by OHBM DIC in the annual meeting of OHBM published in May 27, 2022! 
+https://www.ohbmbrainmappingblog.com/blog/diversity-inclusivity-events-at-the-2022-ohbm-annual-meeting-if-you-want-to-go-far-go-together
 <!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+

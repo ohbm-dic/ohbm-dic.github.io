@@ -1,10 +1,10 @@
 banner:
   enable: true
   image: "images/banner.jpg"
-  contents: "**OHBM DIC:** diversity and inclusivity"
+  contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
-    contents: "Learn More"
-    url: "/about_us"
+    contents: "Apply here"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform"
 items:
   - type: highlights
     items_per_row: 3
@@ -12,26 +12,22 @@ items:
     - title: About Us
       icon: fa-paper-plane
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        We are a integrated team of OHBM members with diverse background and career stages working to improve the diversity of scientists and science itself.
     - title: Symposia
       icon: fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        The Diveristy and Inclusivity Committee at OHBM hosts the DIC symposium in the annual OHBM meetings. Find the invited speakers in our past events.
     - title: Roundtable
       icon: fa-wrench
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        We hosts the DIC roundtable in the annual OHBM beetings to cover different topics and share ideas.
     - title: Kids Review
       icon: fa-pencil-alt
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. Last year we had sessions in English, French, Italian, Japanese, Korean, Mandarin, Portuguese and Spanish. This year we seek participants in even more languages!
   - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
-    contents: find out more about us here
+    contents: To do more creative and productive science
   - type: posts
     #heading: Recent Posts
     content_type: posts

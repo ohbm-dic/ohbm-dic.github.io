@@ -1,12 +1,12 @@
 ---
-title: The Fourth Post
+title: Best practices for ensuring diversity of presenters at OHBM
 image: images/pic04.jpg
-date: "2020-01-04T00:00:00"
+date: "2022-12-01"
 tags:
-  - example
-  - lorem ipsum
+  - Lists
+  - Highlights
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Check out our OHBM blog post about "Best practices for ensuring diversity of presenters at OHBM" published in December 1, 2022!
+https://www.ohbmbrainmappingblog.com/blog/best-practices-for-ensuring-diversity-of-presenters-at-ohbm
 <!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+
