@@ -36,28 +36,28 @@ copyright = "© Diversity and Inclusivity Committee, OHBM"
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff"
+            header = "Links"
         [[params.footer.links.links]]
-            title = "Mattis et quis rutrum"
-            url = "#"
+            title = "OHBM Website"
+            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1"
         [[params.footer.links.links]]
-            title = "Suspendisse amet varius"
-            url = "#"
+            title = "OHBM Blog"
+            url = "https://www.ohbmbrainmappingblog.com/"
         [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
-            url = "#"
+            title = "OHBM OnDemand"
+            url = "https://www.pathlms.com/ohbm"
         [[params.footer.links.links]]
-            title = "Rutrum accumsan dolor"
-            url = "#"
+            title = "Aperture Neuro"
+            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4121"
         [[params.footer.links.links]]
-            title = "Mattis rutrum accumsan"
-            url = "#"
+            title = "OHBM Engage"
+            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3931"
         [[params.footer.links.links]]
-            title = "Suspendisse varius nibh"
-            url = "#"
+            title = "COBIDAS"
+            url = "https://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf"
         [[params.footer.links.links]]
-            title = "Sed et dapibus mattis"
-            url = "#"
+            title = "OHBM Open Science Special Interest Group"
+            url = "https://ossig.netlify.app/"
 
         [[params.footer.links]]
             header = "More Links to Stuff"
