@@ -82,7 +82,7 @@
 [[main]]
     name = "Posts"
     weight = 60 
-    url = "https://ohbm-dic.github.io/tags/lists/"
+    url = "/posts/"
 [[main]]
     name = "Publications"
     weight = 70  
