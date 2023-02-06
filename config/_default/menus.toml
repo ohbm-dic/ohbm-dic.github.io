@@ -62,26 +62,27 @@
 [[main]]
     parent = "Kids Review"
     name = "2020"
-    weight = 51
+    weight = 54
     url = "/kidsreview/2020/"
 [[main]]
     parent = "Kids Review"
     name = "2021"
-    weight = 52
+    weight = 53
     url = "https://youtube.com/playlist?list=PLocwiMktiT-6qUcqfP1qronR16EHLW3NM"
 [[main]]
     parent = "Kids Review"
     name = "2022"
-    weight = 53
+    weight = 52
     url = "https://youtube.com/playlist?list=PLocwiMktiT-5w99sH6XGSWwsMyj2TMlm_"
 [[main]]
     parent = "Kids Review"
     name = "2023"
-    weight = 54
+    weight = 51
     url = "/kidsreview/2023/"
 [[main]]
     name = "Posts"
-    weight = 60  
+    weight = 60 
+    url = "/posts/"
 [[main]]
     name = "Publications"
     weight = 70  
