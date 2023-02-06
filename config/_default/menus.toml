@@ -80,7 +80,8 @@
     url = "/posts/"
 [[main]]
     name = "Publications"
-    weight = 70  
+    weight = 70
+    url = "/publications/"
 [[main]]
     name = "Links"
     weight = 80   
