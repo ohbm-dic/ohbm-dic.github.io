@@ -7,4 +7,6 @@ tags:
   - Highlights
 ---
 We collected and analyzed the results from our survey on inclusivity at OHBM. Check out our summary and suggested future directions.
+
+<!-- more -->
 https://www.ohbmbrainmappingblog.com/blog/results-from-the-survey-on-inclusivity-at-ohbm-summary-and-future-directions
