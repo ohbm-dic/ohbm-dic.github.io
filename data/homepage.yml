@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "data/Session_recruitment_flyer.jpg"
+  image: "images/banner.jpg"
   contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
     contents: "Apply here"
