@@ -7,6 +7,6 @@ tags:
   - Highlights
 ---
 Check out our OHBM blog post about "Best practices for ensuring diversity of presenters at OHBM" published in December 1, 2022!
-https://www.ohbmbrainmappingblog.com/blog/best-practices-for-ensuring-diversity-of-presenters-at-ohbm
-<!-- more -->
 
+<!-- more -->
+https://www.ohbmbrainmappingblog.com/blog/best-practices-for-ensuring-diversity-of-presenters-at-ohbm

@@ -1,6 +1,6 @@
 baseURL = "https://ohbm-dic.github.io/"
 languageCode = "en-us"
-title = "Organization for Human Brain Mapping (OHBM): Diversity and Inclusivity Committee (DIC)"
+title = "OHBM DIC"
 theme = "hugo-arcana"
 copyright = "© OHBM DIC"
 
