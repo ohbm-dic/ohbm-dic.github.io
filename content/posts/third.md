@@ -7,6 +7,6 @@ tags:
   - Highlights
 ---
 Check out our latest OHBM post that reviews the events hosted by OHBM DIC in the annual meeting of OHBM published in May 27, 2022! 
-https://www.ohbmbrainmappingblog.com/blog/diversity-inclusivity-events-at-the-2022-ohbm-annual-meeting-if-you-want-to-go-far-go-together
-<!-- more -->
 
+<!-- more -->
+https://www.ohbmbrainmappingblog.com/blog/diversity-inclusivity-events-at-the-2022-ohbm-annual-meeting-if-you-want-to-go-far-go-together
