@@ -28,7 +28,7 @@
 [[main]]
     parent = "Symposia"
     name = "2020"
-    weight = 31
+    weight = 33
     url = "/symposia/2020"
 [[main]]
     parent = "Symposia"
@@ -38,7 +38,7 @@
 [[main]]
     parent = "Symposia"
     name = "2022"
-    weight = 33
+    weight = 31
     url = "/symposia/2022"
 [[main]]
     name = "Roundtable"
@@ -46,7 +46,7 @@
 [[main]]
     parent = "Roundtable"
     name = "2020"
-    weight = 41
+    weight = 43
 [[main]]
     parent = "Roundtable"
     name = "2021"
@@ -54,7 +54,7 @@
 [[main]]
     parent = "Roundtable"
     name = "2022"
-    weight = 43
+    weight = 41
 [[main]]
     name = "Kids Review"
     weight = 50   
