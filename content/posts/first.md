@@ -7,4 +7,6 @@ tags:
   - Highlights
 ---
 Here we describe what you can expect from our DIC events from the OHBM 2021 annual meeting! 
+
+<!-- more -->
 https://www.ohbmbrainmappingblog.com/blog/what-to-expect-from-the-diversity-and-inclusivity-committee-at-the-2021-ohbm-annual-meeting
