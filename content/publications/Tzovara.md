@@ -1,5 +1,5 @@
 ---
-title: Tzovara et al. Embracing diversity and inclusivity in an academic setting: Insights from the Organization for Human Brain Mapping
+title: Tzovara et al. Embracing diversity and inclusivity in an academic setting - Insights from the Organization for Human Brain Mapping
 image: images/pic01.jpg
 date: "2021-04-01"
 ---
