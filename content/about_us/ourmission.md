@@ -1,8 +1,5 @@
 ---
-title: "Our Mission"
-description: "OHBM DIC - our mission
-
-"
+title: "OHBM DIC: Our Mission"
 menu: About Us
 weight: 50
 aliases: [/about_us/ourmission/]
