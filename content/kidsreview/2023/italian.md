@@ -12,5 +12,16 @@ aliases: [/kidsreview/2023/italian/]
 
 La Multilingual Kids Review OHBM 2023 accetta proposte! Cerchiamo 2 moderatori e un relatore italiani. Per partecipare, scrivete a https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform?usp=sf_link specificando nominativi, informazioni di contatto, lingua della sessione e articolo scientifico da discutere!
 
-<!-- ### Title for this edition
-Written recap to this edition -->
+<!-- ## Presenters and organizers
+1. Name 1 ![Example image](/images/image.png)
+2. Name 2 ![Example image](/images/image.png)
+3. Name 3 ![Example image](/images/image.png)
+-->
+
+<!-- ## Message from organizers
+Message here
+-->
+
+<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
+{{< youtube w7Ft2ymGmfc >}}
+-->
