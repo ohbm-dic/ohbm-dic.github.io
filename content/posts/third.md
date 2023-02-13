@@ -1,6 +1,6 @@
 ---
 title: Diversity and Inclusivity Events at the 2022 OHBM Annual Meeting
-image: images/pic03.jpg
+image: images/ohbm2022_dicsymposium.jpg
 date: "2022-05-27"
 tags:
   - Lists

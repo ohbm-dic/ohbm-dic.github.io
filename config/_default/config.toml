@@ -2,13 +2,13 @@ baseURL = "https://ohbm-dic.github.io/"
 languageCode = "en-us"
 title = "OHBM DIC"
 theme = "hugo-arcana"
-copyright = "© OHBM DIC"
+copyright = "© 2023 Organization for Human Brain Mapping - Diversity and Inclusivity Committee. All rights reserved. | Contact OHBM-DIC"
 
 [taxonomies]
     tag = "tags"
 
 [params]
-    description = "A business/corporate style responsive site template."
+    description = "A website for the Diversity and Inclusivity Committee of the Organization for Human Brain Mapping."
     show_post_dates = false
 
     [[params.social]]
@@ -52,12 +52,7 @@ copyright = "© OHBM DIC"
         [[params.footer.links.links]]
             title = "OHBM Engage"
             url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3931"
-        [[params.footer.links.links]]
-            title = "COBIDAS"
-            url = "https://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf"
-        [[params.footer.links.links]]
-            title = "OHBM Tutorials"
-            url = "https://www.ohbmbrainmappingblog.com/tutorials.html"
+
 
         [[params.footer.links]]
             header = "More Links"
@@ -68,22 +63,14 @@ copyright = "© OHBM DIC"
             title = "OHBN Potcast"
             url = "https://www.youtube.com/watch?v=7birD1brLIo&list=PLEJ899jsgdRqhzWm2acsmIKFB1LO_JKwc"
         [[params.footer.links.links]]
-            title = "None"
-            url = "#"
+            title = "COBIDAS"
+            url = "https://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf"
         [[params.footer.links.links]]
-            title = "None"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "None"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "None"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "None"
-            url = "#"
+            title = "OHBM Tutorials"
+            url = "https://www.ohbmbrainmappingblog.com/tutorials.html"
+            
 
         [params.footer.contact_form]
             enabled = true
             header = "Get In Touch"
-            action = "ohbmdic@gmail.com"
+            action = "mailto:ohbmdic@gmail.com"
