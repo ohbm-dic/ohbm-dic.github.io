@@ -74,3 +74,11 @@ copyright = "© 2023 Organization for Human Brain Mapping - Diversity and Inclus
             enabled = true
             header = "Get In Touch"
             action = "mailto:ohbmdic@gmail.com"
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'

@@ -11,5 +11,17 @@ aliases: [/kidsreview/2023/english/]
 
 OHBM 2023 Multilingual Kids Review now accepts applications! Each language session requires 2 moderators and 1 presenter. Send the names/contact info of the team, language, and article(s) to be presented! https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform?usp=sf_link
 
-<!-- ### Title for this edition
-Written recap to this edition -->
+
+<!-- ## Presenters and organizers
+1. Name 1 ![Example image](/images/image.png)
+2. Name 2 ![Example image](/images/image.png)
+3. Name 3 ![Example image](/images/image.png)
+-->
+
+<!-- ## Message from organizers
+Message here
+-->
+
+<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
+{{< youtube w7Ft2ymGmfc >}}
+-->
