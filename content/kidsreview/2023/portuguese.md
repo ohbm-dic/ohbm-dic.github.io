@@ -3,7 +3,7 @@ title: "Kids Review: Portguese 2023"
 description: "The fourth Portguese edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/banner.jpg
+image: images/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
