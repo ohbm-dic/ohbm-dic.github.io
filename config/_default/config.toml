@@ -8,7 +8,7 @@ copyright = "© OHBM DIC"
     tag = "tags"
 
 [params]
-    description = "A business/corporate style responsive site template."
+    description = "A website for the Diversity and Inclusivity Committee of the Organization for Human Brain Mapping."
     show_post_dates = false
 
     [[params.social]]
