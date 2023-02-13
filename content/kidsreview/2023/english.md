@@ -2,7 +2,7 @@
 title: "Kids Review: English 2023"
 description: "The fourth English edition of our kids review"
 weight: 50
-image: images/banner.jpg
+image: images/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
