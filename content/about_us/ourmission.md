@@ -2,7 +2,7 @@
 title: "OHBM DIC: Our Mission"
 menu: About Us
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg.jpg
+image: images/ohbm_logo.png
 aliases: [/about_us/ourmission/]
 ---
 
