@@ -28,7 +28,7 @@ items:
   - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
     contents: Toward more creative and productive science
-    image: image: images/ohbm_logo.png
+    image: images/ohbm_logo.png
   - type: posts
     #heading: Recent Posts
     content_type: posts
