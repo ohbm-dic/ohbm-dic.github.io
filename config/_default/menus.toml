@@ -29,18 +29,23 @@
 [[main]]
     parent = "Symposia"
     name = "2020"
-    weight = 33
-    url = "/symposia/2020"
+    weight = 34
+    url = "/symposia/2020/"
 [[main]]
     parent = "Symposia"
     name = "2021"
-    weight = 32
-    url = "/symposia/2021"
+    weight = 33
+    url = "/symposia/2021/"
 [[main]]
     parent = "Symposia"
     name = "2022"
+    weight = 32
+    url = "/symposia/2022/"
+[[main]]
+    parent = "Symposia"
+    name = "2023"
     weight = 31
-    url = "/symposia/2022"
+    url = "/symposia/2023/"
 [[main]]
     name = "Roundtable"
     weight = 40
