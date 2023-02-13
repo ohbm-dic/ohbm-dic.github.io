@@ -5,9 +5,7 @@ description: "OHBM Code of Conduct
 "
 menu: About Us
 weight: 50
-image: images/banner.jpg
-image_alt: "Hello!"
-tags: ["examples", "content", "sidebar"]
+image: images/ohbm_logo.png
 sidebar_left: sidebar1
 aliases: [/about_us/codeofconduct/]
 ---
