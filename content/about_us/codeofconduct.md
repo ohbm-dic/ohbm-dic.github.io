@@ -1,8 +1,6 @@
 ---
 title: "Code of Conduct"
-description: "OHBM Code of Conduct
-
-"
+description: "OHBM Code of Conduct"
 menu: About Us
 weight: 50
 image: images/ohbm_logo.png

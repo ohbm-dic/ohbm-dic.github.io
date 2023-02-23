@@ -1,6 +1,6 @@
 ---
 title: "Kids Review: Italian 2023"
-description: "The fourth Italian edition of our kids review"
+description: "The Italian edition of our kids review"
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg

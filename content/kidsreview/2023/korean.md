@@ -1,6 +1,6 @@
 ---
-title: "Kids Review: Korean 2023"
-description: "The fourth Korean edition of our kids review"
+title: "Kids Review: Korean (한국어) 2023"
+description: "The Korean (한국어) edition of our kids review"
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg

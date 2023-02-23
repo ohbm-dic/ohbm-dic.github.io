@@ -25,12 +25,7 @@
 [[main]]
     name = "Symposia"
     weight = 30
-    url = "/symposia"
-[[main]]
-    parent = "Symposia"
-    name = "2020"
-    weight = 34
-    url = "/symposia/2020/"
+    url = "/symposia/"
 [[main]]
     parent = "Symposia"
     name = "2021"
