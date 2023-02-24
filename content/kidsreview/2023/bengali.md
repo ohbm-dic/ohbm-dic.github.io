@@ -1,6 +1,6 @@
 ---
 title: "Kids Review: Bengali 2023"
-description: "The fourth Bengali edition of our kids review"
+description: "The Bengali edition of our kids review"
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"

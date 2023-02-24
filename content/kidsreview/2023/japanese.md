@@ -1,6 +1,6 @@
 ---
 title: "Kids Review: Japanese 2023"
-description: "The fourth Japanese edition of our kids review"
+description: "The Japanese edition of our kids review"
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg

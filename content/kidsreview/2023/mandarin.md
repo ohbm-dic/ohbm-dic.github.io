@@ -1,6 +1,6 @@
 ---
 title: "Kids Review: Mandarin 2023"
-description: "The fourth Mandarin edition of our kids review"
+description: "The Mandarin edition of our kids review"
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg
