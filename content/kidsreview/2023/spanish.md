@@ -1,6 +1,6 @@
 ---
-title: "Kids Review: Spanish 2023"
-description: "The Spanish edition of our kids review - ¿Cómo la comida afecta a nuestro cerebro?"
+title: "Kids Review: Spanish 2023- ¿Cómo la comida afecta a nuestro cerebro?"
+description: "The Spanish edition of our kids review "
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg
