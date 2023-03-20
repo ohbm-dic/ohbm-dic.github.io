@@ -4,6 +4,15 @@ menu: main
 weight: 30
 ---
 
+---
+title: "OHBM DIC: Contact Us"
+menu: main
+weight: 50
+image: images/ohbm_logo.png
+aliases: [/contact_us/]
+---
+
+
 ## OHBM DIC E-mail:
 
 If you have any questions about our activities/events/projecs or if you are interested in joining our team, please <a href = "mailto: ohbmdic@gmail.com">Send Email</a>.
