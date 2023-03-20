@@ -25,10 +25,6 @@ items:
       icon: fa-pencil-alt
       content: >
         Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. Last year we had sessions in English, French, Italian, Japanese, Korean, Mandarin, Portuguese and Spanish. This year we seek participants in even more languages!
-    - title: About Us
-      icon: fa-paper-plane
-      content: >
-        Check our recent article Tzovara et al.
 - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
     contents: Toward more creative and productive science
