@@ -4,4 +4,10 @@ menu: main
 weight: 30
 ---
 
+## OHBM DIC E-mail:
 
+If you have any questions about our activities/events/projecs or if you are interested in joining our team, please <a href = "mailto: ohbmdic@gmail.com">Send Email</a>.
+
+## Reporting
+
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the OHBM Executive Director <a href = "mailto: tShomion@humanbrainmapping.org">Send Email to Trish Shomion</a>. Harassment reduces the value of our community for everyone. 
