@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-menu: main
+menu: Contact Us
 weight: 50
 image: images/ohbm_logo.png
 aliases: [/contactus/]
