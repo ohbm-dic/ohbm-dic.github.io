@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: Greek 2023"
+title: "Kids Review: Greek 2023 - Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί"
 description: "The Greek edition of our kids review"
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg
@@ -9,19 +9,38 @@ sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/greek/]
 ---
 
-OHBM 2023 Multilingual Kids Review now accepts applications! Each language session requires 2 moderators and 1 presenter. Send the names/contact info of the team, language, and article(s) to be presented! https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform?usp=sf_link
+# Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί 
 
+Έχεις μπει ποτέ στο σκοτεινό υπνοδωμάτιο σου με το φόβο ενός φαντάσματος στις σκιές; Σίγουρα ανακουφίζεσαι όταν ανάβεις τα φώτα και βρίσκεις μια στοίβα με ρούχα στην καρέκλα σου! Ασθενείς με άνοια ή Πάρκινσον κάνουν τέτοια λάθη αρκετά συχνά. Γιατί ο εγκέφαλος να σκαρφίζεται τρομακτικές εξηγήσεις όταν δεν είναι σίγουρος; Γιατί μερικές φορές να σκαρφίζεται πράγματα που δεν είναι εκεί;  
+  
+Αν θα ήθελες να μάθεις περισσότερα για το πώς ο εγκέφαλος μας βοηθά να καταλάβουμε αυτά που βλέπουν τα μάτια μας και γιατί μερικές φορές δεν λειτουργεί σωστά, έλα στην ομιλία μας Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί που οργανώνει το OHBM Multilingual Kids 2023! 
 
-<!-- ## Presenters and organizers
-1. Name 1 ![Example image](/images/image.png)
-2. Name 2 ![Example image](/images/image.png)
-3. Name 3 ![Example image](/images/image.png)
--->
+# Ghosts in the bedroom: seeing things that are not there 
 
-<!-- ## Message from organizers
-Message here
--->
+Have you ever walked into your dark bedroom fearing a ghost in the shadows only to turn the lights on and see a pile of clothes on your chair? Some patients affected by dementia or Parkinson's disease make such mistakes often. Why does the brain make up scary explanations when it is unsure? Why does it sometimes make up things that are not there?  
+  
+If you wish to learn more about how the brain helps us understand what our eyes are looking at and why sometimes things go wrong, come to our session "Ghosts in the bedroom: seeing things that are not there" organised by OHBM Multilingual Kids 2023! 
+
+### Presenter and organizers
+
+{{< gallery class="content-gallery" >}}
+    <figure>
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/AZarkali.jpeg" alt="Angeliki Zarkali, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/CAntoniades.jpeg" alt="JChrystalina Antoniades, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/PFrangou.jpeg" alt="Polytimi Frangou, Moderator" width="250">
+        <figcaption>
+            <b>Angeliki Zarkali</b><sup>1</sup>, Presenter and <b>Chrystalina Antoniades</b><sup>2</sup>, <b>Polytimi Frangou</b><sup>3</sup> as Moderators
+            <span style="font-size: 14px">
+                <p><sup>1</sup>University College London, Alzheimer's Research UK Postdoctoral Fellow; <sup>2</sup>University of Oxford, A/Professor of Neuroscience; <sup>3</sup>University of Oxford, Sir Henry Wellcome Postdoctoral Fellow.</p>
+            </span>
+        </figcaption>
+    </figure>
+{{< /gallery >}}
+
+<!-- <div class="row"> for future atempts of a inline gallery -->
+<!-- </div class="row"> -->
+
 
 <!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}
--->
+{{< youtube w7Ft2ymGmfc >}}-->
+
