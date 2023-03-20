@@ -17,15 +17,19 @@ items:
       icon: fa-pencil-alt
       content: >
         The Diveristy and Inclusivity Committee at OHBM hosts the DIC symposium in the annual OHBM meetings. Find the invited speakers in our past events.
-    - title: Kids Review
+    - title: Roundtable
       icon: fa-wrench
       content: >
-        Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. Last year we had sessions in English, French, Italian, Japanese, Korean, Mandarin, Portuguese and Spanish. This year we seek participants in even more languages!
-    - title: Roundtable
+        We hosts the DIC roundtable in the annual OHBM beetings to cover different topics and share ideas.
+    - title: Kids Review
       icon: fa-pencil-alt
       content: >
-        The Diveristy and Inclusivity Committee at OHBM hosts the DIC roundtable in the annual OHBM meetings.
-- type: heading
+        Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. Last year we had sessions in English, French, Italian, Japanese, Korean, Mandarin, Portuguese and Spanish. This year we seek participants in even more languages!
+    - title: Publications
+      icon: fa-paper-plane
+      content: > 
+        Check our recent publication in Neuroimage "Tzovara et al. Embracing diversity and inclusivity in an academic setting - Insights from the Organization for Human Brain Mapping"
+  - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
     contents: Toward more creative and productive science
   - type: posts
