@@ -1,11 +1,10 @@
 ---
-title: "OHBM DIC: Contact Us"
+title: "Contact Us"
 menu: main
 weight: 50
 image: images/ohbm_logo.png
 aliases: [/contactus/]
 ---
-
 
 ## OHBM DIC E-mail:
 
