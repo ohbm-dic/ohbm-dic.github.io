@@ -1,9 +1,9 @@
 banner:
   enable: true
-  image: "images/Session_recruitment_flyer_git.jpg"
+  image: "images/OHBM_2023_logo_horiz_2.jpg"
   contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
-    contents: "Apply here"
+    contents: "Application Closed"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform"
 items:
   - type: highlights
@@ -24,11 +24,11 @@ items:
     - title: Kids Review
       icon: fa-pencil-alt
       content: >
-        Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. Last year we had sessions in English, French, Italian, Japanese, Korean, Mandarin, Portuguese and Spanish. This year we seek participants in even more languages!
+        Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. This year (2023), we will have sessions in 12 different languages!
     - title: Publications
       icon: fa-paper-plane
       content: > 
-        Check our recent publication in Neuroimage "Tzovara et al. Embracing diversity and inclusivity in an academic setting - Insights from the Organization for Human Brain Mapping"
+        Check our recent publication in Neuroimage "Tzovara et al. (2021) Embracing diversity and inclusivity in an academic setting - Insights from the Organization for Human Brain Mapping"
   - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
     contents: Toward more creative and productive science
