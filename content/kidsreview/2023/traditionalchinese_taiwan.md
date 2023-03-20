@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: Traditional Chinese (Taiwan) 2023 - 李易儒、李易融、李明陽"
+title: "Kids Review: Traditional Chinese (Taiwan) 2023 - 跟著我們探索思覺失調症，解密變幻莫測的大腦活動！"
 description: "The Traditional Chinese (Taiwan) edition of our kids review"
 menu: Kids Review
 weight: 50
