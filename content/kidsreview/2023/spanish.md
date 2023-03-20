@@ -27,15 +27,15 @@ Food is our energy source, and thanks to it, we can do many activities during th
             <!-- <figcaption><b>Graciela Catalina Alatorre Cruz</b><sup>1,2</sup>, Presenter</figcaption> -->
         <!-- </figure>
         <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/JULIA_MARIA_ALATORRE_CRUZ.png" alt="Julia María Alatorre Cruz, Moderators" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/JULIA_MARIA_ALATORRE_CRUZ.png" alt="Julia María Alatorre Cruz, Moderator" width="250">
             <!-- <figcaption><b>Julia María Alatorre Cruz</b><sup>3</sup>, Moderator</figcaption> -->
         <!-- </figure>
         <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/RICARDO_CARRENO_LOPEZ.png" alt="Ricardo Carreño López, Moderators" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/RICARDO_CARRENO_LOPEZ.png" alt="Ricardo Carreño López, Moderator" width="250">
             <!-- <figcaption><b>Ricardo Carreño López</b><sup>3</sup>, Moderator</figcaption>
         </figure> -->
         <figcaption>
-            <b>Graciela Catalina Alatorre Cruz</b><sup>1,2</sup>, Presenter and <b>Julia María Alatorre Cruz</b><sup>3</sup>, <b>Ricardo Carreño López</b><sup>3</sup>, Moderators
+            <b>Graciela Catalina Alatorre Cruz</b><sup>1,2</sup>, Presenter and <b>Julia María Alatorre Cruz</b><sup>3</sup>, <b>Ricardo Carreño López</b><sup>3</sup> as Moderators
             <span style="font-size: 14px">
                 <p><sup>1</sup>University of Arkansas for Medical Sciences, Arkansas, US; <sup>2</sup>Arkansas Children’s Nutrition Center, Arkansas, US; <sup>3</sup>Benemérita Universidad Autónoma de Puebla, México</p>
             </span>
