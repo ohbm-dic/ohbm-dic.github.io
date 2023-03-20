@@ -21,6 +21,10 @@ items:
       icon: fa-wrench
       content: >
         Our signature project "Multilingual Kids Live Review" is taking place every year in both in-person and visual formats. Last year we had sessions in English, French, Italian, Japanese, Korean, Mandarin, Portuguese and Spanish. This year we seek participants in even more languages!
+    - title: Roundtable
+      icon: fa-pencil-alt
+      content: >
+        The Diveristy and Inclusivity Committee at OHBM hosts the DIC roundtable in the annual OHBM meetings.
 - type: heading
     heading: Ensuring diversity and inclusivity at OHBM
     contents: Toward more creative and productive science
