@@ -2,7 +2,7 @@ baseURL = "https://ohbm-dic.github.io/"
 languageCode = "en-us"
 title = "OHBM DIC"
 theme = "hugo-arcana"
-copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity Committee. All rights reserved. | Contact OHBM-DIC"
+copyright = "© 2023 Organization for Human Brain Mapping - Diversity and Inclusivity Committee. All rights reserved. | Contact OHBM-DIC"
 
 [taxonomies]
     tag = "tags"
