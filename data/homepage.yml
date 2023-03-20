@@ -1,9 +1,9 @@
 banner:
   enable: true
-  image: "images/Session_recruitment_flyer_git.jpg"
+  image: "images/OHBM_2023_logo_horiz_2.jpg"
   contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
-    contents: "Apply here"
+    contents: "Application Closed"
     url: "https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform"
 items:
   - type: highlights
