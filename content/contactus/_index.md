@@ -3,7 +3,7 @@ title: "OHBM DIC: Contact Us"
 menu: main
 weight: 50
 image: images/ohbm_logo.png
-aliases: [/contact_us/]
+aliases: [/contactus/]
 ---
 
 
