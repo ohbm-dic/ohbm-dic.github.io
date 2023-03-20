@@ -6,7 +6,7 @@ image: images/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/bengali/]
+aliases: [/kidsreview/2023/german/]
 ---
 
 <!-- ## Presenters and organizers
