@@ -1,10 +1,4 @@
 ---
-title: Contact Us
-menu: main
-weight: 30
----
-
----
 title: "OHBM DIC: Contact Us"
 menu: main
 weight: 50
