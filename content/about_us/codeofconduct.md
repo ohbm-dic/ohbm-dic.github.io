@@ -8,7 +8,9 @@ sidebar_left: sidebar1
 aliases: [/about_us/codeofconduct/]
 ---
 
-Check the OHBM Code of Conduct on https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912
+The OHBM Code of Conduct is outlined at
+
+https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3912
 
 
 <!-- ### Title for this edition
