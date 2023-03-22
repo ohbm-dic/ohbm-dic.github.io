@@ -5,7 +5,7 @@ weight: 50
 image: images/report_logo.png
 ---
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the OHBM Executive Director Trish Shomion: <p style="color:blue;">tShomion@humanbrainmapping.org</p>
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the OHBM Executive Director Beth Slater: <p style="color:blue;">bslater@humanbrainmapping.org</p>
 
 ## OHBM Code of Conduct:
 
