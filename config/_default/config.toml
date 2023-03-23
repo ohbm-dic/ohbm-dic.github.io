@@ -60,7 +60,7 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
             title = "OHBM Open Science SIG"
             url = "https://ossig.netlify.app/"
         [[params.footer.links.links]]
-            title = "OHBN Potcast"
+            title = "OHBM Potcast"
             url = "https://www.youtube.com/watch?v=7birD1brLIo&list=PLEJ899jsgdRqhzWm2acsmIKFB1LO_JKwc"
         [[params.footer.links.links]]
             title = "COBIDAS"
