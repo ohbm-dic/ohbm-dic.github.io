@@ -1,7 +1,6 @@
 ---
 title: "Reporting"
 menu: Contact Us
-weight: 50
 image: images/report_logo.png
 ---
 
