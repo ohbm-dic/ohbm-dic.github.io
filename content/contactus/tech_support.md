@@ -1,7 +1,6 @@
 ---
 title: "Technical Support"
 menu: Contact Us
-weight: 50
 image: images/it_logo.png
 ---
 
