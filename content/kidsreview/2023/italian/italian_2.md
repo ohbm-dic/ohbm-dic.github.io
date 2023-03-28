@@ -1,6 +1,6 @@
 ---
-title: "Kids Review: Italian 2023"
-description: "The Italian edition of our kids review"
+title: "Kids Review: Italian 2023 - Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
+# description: "Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg
@@ -8,7 +8,10 @@ image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/italian/]
+# summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
+
+<!-- ## Cos’è la memoria? E come la usiamo per imparare una nuova lingua -->
 
 Ciao!  
   
@@ -22,7 +25,8 @@ Partendo dalla storia di questo famoso paziente, Isotta ci parlerà di come cost
   
 E se abbiamo bisogno della memoria per imparare una nuova lingua, quanto è difficile impararla? Perché alcune persone imparano meglio e più velocemente di altre? Irene risponderà a queste domande, portandovi nel mondo del multilinguismo, dove possiamo trovare persone che non parlano una sola lingua, non due, ma addirittura più di dieci!  
 
-#### ------
+### What is memory and how do we use it to learn a new language?
+
 Hello!  
   
 We are Irene and Isotta and we are two neuroscientists studying brain functioning at the University of Geneva.  
@@ -35,15 +39,14 @@ Starting with the story of this famous patient, Isotta will talk about how we bu
   
 And if we need memory to learn a new language, how hard is it to learn a new one? Why can some people learn better and faster than others? Irene will answer these questions, taking you to the world of multilingualism, where we can find people who do not speak just one language, not two, but even more than ten!  
 
-
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}} 
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IR_photo.jpg" alt="Isotta Rigoni, Presenter" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IB_photo.JPG" alt="Irene Balboni, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IR_photo.jpg" alt="Isotta Rigoni, Moderator and Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IB_photo.JPG" alt="Irene Balboni, Moderator and Presenter" width="250">
         <figcaption>
-            <b>Isotta Rigoni</b><sup>1</sup> and <b>Irene Balboni</b><sup>1</sup>, Presenters
+            <b>Isotta Rigoni</b><sup>1</sup> and <b>Irene Balboni</b><sup>1</sup>, Presenters and Moderators.
             <span style="font-size: 14px">
                 <p><sup>1</sup>University of Geneva</p>
             </span>

@@ -1,6 +1,6 @@
 ---
 title: "Kids Review: Traditional Chinese (Taiwan) 2023 - 跟著我們探索思覺失調症，解密變幻莫測的大腦活動！"
-description: "The Traditional Chinese (Taiwan) edition of our kids review"
+# description: "The Traditional Chinese (Taiwan) edition of our kids review"
 menu: Kids Review
 weight: 50
 image: images/OHBM_2023_logo_horiz_2.jpg
@@ -8,9 +8,10 @@ image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/traditionalchinese_taiwan/]
+summary: "你知道我們的大腦是宇宙中最複雜的東西之一嗎？它像是超級電腦一樣運作，由許多零件組成，當我們思考或學習時，所有零件和諧地運作著。但是，精神疾病就好像大腦中某些零件遵循了不同的規律，使得大腦難以正常運作。在這次的演講中，我們將介紹科學家們如何使用功能性磁共振成像(fMRI)研究大腦，揭開思覺失調症大腦的複雜性。透過了解大腦如何運作，可以為精神疾患開發新的治療方法，並幫助患者更健康地生活##"
 ---
 
-# 揭開神秘的心靈：跟著我們探索思覺失調症，解密變幻莫測的大腦活動！
+<!-- # 揭開神秘的心靈：跟著我們探索思覺失調症，解密變幻莫測的大腦活動！ -->
 
 你知道我們的大腦是宇宙中最複雜的東西之一嗎？它像是超級電腦一樣運作，由許多零件組成，當我們思考或學習時，所有零件和諧地運作著。但是，精神疾病就好像大腦中某些零件遵循了不同的規律，使得大腦難以正常運作。在這次的演講中，我們將介紹科學家們如何使用功能性磁共振成像(fMRI)研究大腦，揭開思覺失調症大腦的複雜性。透過了解大腦如何運作，可以為精神疾患開發新的治療方法，並幫助患者更健康地生活。
 
@@ -23,7 +24,7 @@ aliases: [/kidsreview/2023/traditionalchinese_taiwan/]
 - 地點：台北市立圖書館總館11樓研習教室（106210 臺北市建國南路二段125號）
 
 
-# Journey into the Mysteries of the Mind: Understanding Schizophrenia and How Patterns in the Brain Can Change
+### Journey into the Mysteries of the Mind: Understanding Schizophrenia and How Patterns in the Brain Can Change
 
 Do you know that our brain is one of the most complex things in the universe? It works like a supercomputer, composed of many parts that work harmoniously when we think or learn. However, mental illnesses are like certain parts of the brain following different rules, making it difficult for the brain to function normally. In this speech, we will introduce how scientists use functional magnetic resonance imaging (fMRI) to study the complexity of the brain with schizophrenia. By understanding how the brain works, new treatment methods can be developed for mental illnesses, and help patients live healthier lives.
 
