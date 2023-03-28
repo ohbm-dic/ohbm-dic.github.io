@@ -36,15 +36,15 @@ To answer this question, we placed the mouse that lived alone in a new house whe
 
 ### Presenter and organizers
 
-{{< gallery class="content-gallery" >}} 
+{{< gallery class="content-gallery" >}}
     <figure> 
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_korean/GaonKim.jpg" alt="Gaon Kim, Presenter" width="250">
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250">
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_korean/Kwon.jpg" alt="Dr. Younghye Judy Kwon, Moderator" width="250">
         <figcaption>
-            <b>Gaon Kim</b><sup>1</sup>, Presenter and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and  <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators.
+            <b>Gaon Kim</b><sup>1</sup>, Presenter and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators.
             <span style="font-size: 14px">
-                <p><sup>1</sup>Yale University (Associate Research Scientist); <sup>2</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow); <sup>3</sup>University of Southern California (PhD Student). </p>
+                <p><sup>1</sup>Yale University (Associate Research Scientist); <sup>2</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow); <sup>3</sup>University of Southern California (PhD Student).</p>
             </span>
         </figcaption>
     </figure>
