@@ -3,7 +3,7 @@ title: "Kids Review: Italian 2023 - Cos’è la memoria? E come la usiamo per im
 # description: "Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023

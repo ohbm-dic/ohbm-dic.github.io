@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/OHBM_2023_logo_horiz_2.jpg"
+  image: "images/OHBM2023/OHBM_2023_logo_horiz_2.jpg"
   contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
     contents: "Application Closed"

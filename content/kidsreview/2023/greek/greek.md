@@ -2,7 +2,7 @@
 title: "Kids Review: Greek 2023 - Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί"
 #description: "The Greek edition of our kids review"
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
