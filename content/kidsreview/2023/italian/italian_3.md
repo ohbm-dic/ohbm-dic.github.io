@@ -3,7 +3,7 @@ title: "Kids Review: Italian 2023 - Leggere la mente usando le interazioni cereb
 # description: "The Italian edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -48,9 +48,9 @@ But don’t worry, he is not going to read your brain!! But he will introduce ho
 
 {{< gallery class="content-gallery" >}}
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_Guidotti/RobertoGuidotti_Photo.jpg" alt="Roberto Guidotti, Presenter" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_Guidotti/LauraMarzetti_Photo.jpg" alt="Laura Marzetti, Moderator" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_Guidotti/AnteaDAndrea_Photo.jpg" alt="Antea D'Andrea, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_Guidotti/RobertoGuidotti_Photo.jpg" alt="Roberto Guidotti, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_Guidotti/LauraMarzetti_Photo.jpg" alt="Laura Marzetti, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_Guidotti/AnteaDAndrea_Photo.jpg" alt="Antea D'Andrea, Moderator" width="250">
         <figcaption>
             <b>Roberto Guidotti</b><sup>1</sup>, Presenter and <b>Laura Marzetti</b><sup>2</sup> and <b>Antea D'Andrea</b><sup>3</sup> as Moderators.
             <span style="font-size: 14px">

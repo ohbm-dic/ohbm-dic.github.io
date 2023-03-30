@@ -2,7 +2,7 @@
 title: "Kids Review: Greek 2023 - Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί"
 #description: "The Greek edition of our kids review"
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -26,9 +26,9 @@ If you wish to learn more about how the brain helps us understand what our eyes 
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/AZarkali.jpeg" alt="Angeliki Zarkali, Presenter" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/CAntoniades.jpeg" alt="JChrystalina Antoniades, Moderator" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/PFrangou.jpeg" alt="Polytimi Frangou, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/greek/AZarkali.jpeg" alt="Angeliki Zarkali, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/greek/CAntoniades.jpeg" alt="JChrystalina Antoniades, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/greek/PFrangou.jpeg" alt="Polytimi Frangou, Moderator" width="250">
         <figcaption>
             <b>Angeliki Zarkali</b><sup>1</sup>, Presenter and <b>Chrystalina Antoniades</b><sup>2</sup>, <b>Polytimi Frangou</b><sup>3</sup> as Moderators
             <span style="font-size: 14px">

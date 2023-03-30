@@ -3,7 +3,7 @@ title: "Kids Review: Italian 2023 - Cos’è la memoria? E come la usiamo per im
 # description: "Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -43,8 +43,8 @@ And if we need memory to learn a new language, how hard is it to learn a new one
 
 {{< gallery class="content-gallery" >}} 
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IR_photo.jpg" alt="Isotta Rigoni, Moderator and Presenter" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IB_photo.JPG" alt="Irene Balboni, Moderator and Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_isotta/IR_photo.jpg" alt="Isotta Rigoni, Moderator and Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_isotta/IB_photo.JPG" alt="Irene Balboni, Moderator and Presenter" width="250">
         <figcaption>
             <b>Isotta Rigoni</b><sup>1</sup> and <b>Irene Balboni</b><sup>1</sup>, Presenters and Moderators.
             <span style="font-size: 14px">

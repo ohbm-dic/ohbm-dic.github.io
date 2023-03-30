@@ -3,7 +3,7 @@ title: "Kids Review: Mandarin 2023 - 绘制从儿童到老年大脑结构的变�
 # description: "The Mandarin edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -22,7 +22,7 @@ Our brain, which is the most complex organ in our body, changes its structure as
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}}
-  {{< figure src="/images/kidsreview_2023_mandarim_ruiyang/Picture1.png" width="800">}}
+  {{< figure src="/images/OHBM2023/kidsreview_2023/mandarim_ruiyang/Picture1.png" width="800">}}
 {{< /gallery >}}
 
 <!-- <div class="row"> for future atempts of a inline gallery -->

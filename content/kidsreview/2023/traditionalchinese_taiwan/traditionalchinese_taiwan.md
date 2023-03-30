@@ -3,7 +3,7 @@ title: "Kids Review: Traditional Chinese (Taiwan) 2023 - 跟著我們探索思�
 # description: "The Traditional Chinese (Taiwan) edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -40,9 +40,9 @@ This event is suitable for third graders and above, as well as anyone interested
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_mandarim_taiwan/YiJuLee.png" alt="Yi-Ju Lee (李易儒), Presenter" height="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_mandarim_taiwan/YiJungLee.png" alt="Yi-Jung Lee (李易融), Moderator" height="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_mandarim_taiwan/MingYangLee.png" alt="Ming-Yang Lee (李明陽), Moderator" height="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_taiwan/YiJuLee.png" alt="Yi-Ju Lee (李易儒), Presenter" height="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_taiwan/YiJungLee.png" alt="Yi-Jung Lee (李易融), Moderator" height="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_taiwan/MingYangLee.png" alt="Ming-Yang Lee (李明陽), Moderator" height="250">
         <figcaption>
             <b>Yi-Ju Lee (李易儒)</b><sup>1</sup>, Presenter, and <b>Yi-Jung Lee (李易融)</b><sup>2</sup>, <b>Ming-Yang Lee (李明陽)</b><sup>3</sup> as Moderators.
             <span style="font-size: 16px">

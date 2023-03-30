@@ -1,6 +1,6 @@
 ---
 title: Best practices for ensuring diversity of presenters at OHBM
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 date: "2022-12-01"
 tags:
   - Lists

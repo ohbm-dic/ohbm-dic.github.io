@@ -3,7 +3,7 @@ title: "Kids Review: Mandarin 2023 - 构筑彩巢、探密青春、关爱脑智"
 # description: "The Mandarin edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -24,9 +24,9 @@ aliases: [/kidsreview/2023/mandarin2/]
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_mandarim_Xi_Nian_Zuo/Xi_Nian_Zuo.jpg" alt="Xi-Nian Zuo, Presenter (演讲者：左西年 教授)" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_mandarim_Xi_Nian_Zuo/Qiuyu_Lu.jpg" alt="Qiuyu Lu (陆秋宇), Moderator" width="249">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_mandarim_Xi_Nian_Zuo/XinranGao_centered.png" alt="Xinran Gao (高欣然), Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_Xi_Nian_Zuo/Xi_Nian_Zuo.jpg" alt="Xi-Nian Zuo, Presenter (演讲者：左西年 教授)" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_Xi_Nian_Zuo/Qiuyu_Lu.jpg" alt="Qiuyu Lu (陆秋宇), Moderator" width="249">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_Xi_Nian_Zuo/XinranGao_centered.png" alt="Xinran Gao (高欣然), Moderator" width="250">
         <figcaption>
             <b>Xi-Nian Zuo, (演讲者)</b><sup>1</sup>, Presenter (左西年 教授), and <b>Qiuyu Lu (陆秋宇)</b><sup>2</sup>, <b>Xinran Gao (高欣然)</b><sup>3</sup> as Moderators.
             <span style="font-size: 16px">

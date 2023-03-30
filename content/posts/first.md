@@ -1,6 +1,6 @@
 ---
 title: What to expect from the DIC at the 2021 OHBM annual meeting
-image: images/ohbm2021_dicevents.png
+image: images/OHBM2021/ohbm2021_dicevents.png
 date: "2021-06-11"
 tags:
   - Lists

@@ -3,7 +3,7 @@ title: "Kids Review: Spanish 2023 - ¿Cómo la comida afecta a nuestro cerebro?"
 # description: "The Spanish edition of our kids review "
 menu: Kids Review
 weight: 50
-image: images/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
@@ -24,15 +24,15 @@ Food is our energy source, and thanks to it, we can do many activities during th
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/GRACIELA_CATALINA_ALATORRE_CRUZ.png" alt="Graciela Catalina Alatorre Cruz, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/spanish/GRACIELA_CATALINA_ALATORRE_CRUZ.png" alt="Graciela Catalina Alatorre Cruz, Presenter" width="250">
             <!-- <figcaption><b>Graciela Catalina Alatorre Cruz</b><sup>1,2</sup>, Presenter</figcaption> -->
         <!-- </figure>
         <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/JULIA_MARIA_ALATORRE_CRUZ.png" alt="Julia María Alatorre Cruz, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/spanish/JULIA_MARIA_ALATORRE_CRUZ.png" alt="Julia María Alatorre Cruz, Moderator" width="250">
             <!-- <figcaption><b>Julia María Alatorre Cruz</b><sup>3</sup>, Moderator</figcaption> -->
         <!-- </figure>
         <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_spanish/RICARDO_CARRENO_LOPEZ.png" alt="Ricardo Carreño López, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/spanish/RICARDO_CARRENO_LOPEZ.png" alt="Ricardo Carreño López, Moderator" width="250">
             <!-- <figcaption><b>Ricardo Carreño López</b><sup>3</sup>, Moderator</figcaption>
         </figure> -->
         <figcaption>
