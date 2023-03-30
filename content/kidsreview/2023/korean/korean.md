@@ -44,7 +44,7 @@ To answer this question, we placed the mouse that lived alone in a new house whe
         <figcaption>
             <b>Gaon Kim</b><sup>1</sup>, Presenter and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators.
             <span style="font-size: 14px">
-                <p><sup>1</sup>Yale University (Associate Research Scientist); <sup>2</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow); <sup>3</sup>University of Southern California (PhD Student).</p>
+                <p><sup>1</sup>University of Southern California (PhD Student); <sup>2</sup>Yale University (Associate Research Scientist); <sup>3</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow).</p>
             </span>
         </figcaption>
     </figure>
