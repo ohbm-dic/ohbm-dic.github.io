@@ -43,8 +43,8 @@ And if we need memory to learn a new language, how hard is it to learn a new one
 
 {{< gallery class="content-gallery" >}} 
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IR_photo.jpg" alt="Isotta Rigoni, Moderator and Presenter" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_isotta/IB_photo.JPG" alt="Irene Balboni, Moderator and Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/italian_isotta/IR_photo.jpg" alt="Isotta Rigoni, Moderator and Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/italian_isotta/IB_photo.JPG" alt="Irene Balboni, Moderator and Presenter" width="250">
         <figcaption>
             <b>Isotta Rigoni</b><sup>1</sup> and <b>Irene Balboni</b><sup>1</sup>, Presenters and Moderators.
             <span style="font-size: 14px">

@@ -24,8 +24,8 @@ Intanto, ecco qualche parola su di noi.
   
 {{< gallery class="content-gallery" >}}
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_rampinini/Rampinini.jpg" alt="Alessandra Rampinini, Presenter" width="250">
-            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/italian_rampinini/Rampinini.jpg" alt="Alessandra Rampinini, Presenter" width="250">
+            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
         <figcaption>
             <b>Alessandra Rampinini</b>, Presenter.
             <!-- and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators. -->
@@ -56,8 +56,8 @@ Here are a few words about us.
 
 {{< gallery class="content-gallery" >}}
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_italian_rampinini/Rampinini.jpg" alt="Alessandra Rampinini, Presenter" width="250">
-            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/italian_rampinini/Rampinini.jpg" alt="Alessandra Rampinini, Presenter" width="250">
+            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
         <figcaption>
             <b>Alessandra Rampinini</b>, Presenter.
             <!-- and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators. -->

@@ -26,9 +26,9 @@ If you wish to learn more about how the brain helps us understand what our eyes 
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/AZarkali.jpeg" alt="Angeliki Zarkali, Presenter" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/CAntoniades.jpeg" alt="JChrystalina Antoniades, Moderator" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023_greek/PFrangou.jpeg" alt="Polytimi Frangou, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/greek/AZarkali.jpeg" alt="Angeliki Zarkali, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/greek/CAntoniades.jpeg" alt="JChrystalina Antoniades, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/kidsreview_2023/greek/PFrangou.jpeg" alt="Polytimi Frangou, Moderator" width="250">
         <figcaption>
             <b>Angeliki Zarkali</b><sup>1</sup>, Presenter and <b>Chrystalina Antoniades</b><sup>2</sup>, <b>Polytimi Frangou</b><sup>3</sup> as Moderators
             <span style="font-size: 14px">

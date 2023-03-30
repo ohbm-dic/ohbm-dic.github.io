@@ -22,7 +22,7 @@ Our brain, which is the most complex organ in our body, changes its structure as
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}}
-  {{< figure src="/images/kidsreview_2023_mandarim_ruiyang/Picture1.png" width="800">}}
+  {{< figure src="/images/kidsreview_2023/mandarim_ruiyang/Picture1.png" width="800">}}
 {{< /gallery >}}
 
 <!-- <div class="row"> for future atempts of a inline gallery -->
