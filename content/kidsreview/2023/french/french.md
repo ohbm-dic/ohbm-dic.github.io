@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: French 2023"
+title: "Kids Review: French 2023 - MISSING TITLE IN FRENCH"
 description: "The French edition of our kids review"
 weight: 50
 image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
