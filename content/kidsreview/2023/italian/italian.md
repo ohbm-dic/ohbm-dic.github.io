@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: Italian 2023 [3] - [missing italian title]"
+title: "Kids Review: Italian 2023 - Quante lingue parli? Lo dice il tuo cervello!"
 # description: "The Italian edition of our kids review"
 menu: Kids Review
 weight: 50
@@ -37,7 +37,18 @@ Intanto, ecco qualche parola su di noi.
   
 Linguista di formazione, dopo essere cresciuta a Gallarate in Lombardia, mi sono laureata all’Università di Pisa, ho frequentato l’Università di Harvard e di Trento per la mia formazione scientifica e ho conseguito il dottorato di Ricerca a Pisa. Ho lavorato in Toscana come ricercatrice fino al 2020, dove insegnavo neuroscienze del linguaggio e svolgevo le mie ricerche tra Pisa e Lucca. Dalla seconda metà del 2020 mi sono trasferita a Ginevra dove continuo ad insegnare e a farmi domande su come e perché parliamo, come e perché pensiamo. Utilizzo la risonanza magnetica per osservare il funzionamento e la morfologia del cervello umano, studio canto al conservatorio di Ginevra e quasi ogni sera potete trovarmi a provare con qualche coro per un concerto o un’opera.
 
-#### Giulia Baracchini  
+{{< gallery class="content-gallery" >}}
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_rampinini/GB_headshotwider.jpg" alt="Giulia Baracchini, Moderator" width="250">
+            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
+        <figcaption>
+            <b>Giulia Baracchini</b>, Moderator.
+            <!-- and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators. -->
+            <!-- <p><sup>1</sup> </p> -->
+            <!-- <sup>2</sup>Yale University (Associate Research Scientist); <sup>3</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow). -->
+        </figcaption>
+    </figure>
+{{< /gallery >}}  
   
 Giulia si laurea presso l’Università di Padova e la FreieUniversität Berlin, e successivamente si specializza presso lo stesso Ateneo patavino e il Rotman Research Institute di Toronto. Oggi è una studentessa di dottorato di ricerca presso la McGill University in Canada. La sua ricerca si concentra sulla costruzione di modelli multimodali di neuroimmagine e di comportamento per prevedere le traiettorie dell'invecchiamento sano. Attualmente sta anche lavorando per ricavare potenziali biomarcatori di cambiamenti neuropatologici negli stadi preclinici dell'Alzheimer. Giulia è una sportiva che corre e pedala, ma soprattutto, si preoccupa di inclusività nella comunità scientifica e di relazioni con il grande pubblico. Fa parte della Women NeuroNet, una squadra di neuroscienziate che si occupano di questi temi per migliorare la collaborazione e l'eccellenza accademica tra le donne. Fa parte del Québec Bioimaging Network, che offre un blog dove i lettori del grande pubblico possono appassionarsi ai temi delle neuroscienze, ed è appassionata di divulgazione scientifica. Giulia è al suo terzo anno di partecipazione nelle attività di OHBM dedicate ai ragazzi.
  
@@ -69,6 +80,17 @@ Here are a few words about us.
   
 A linguist by training, after growing up in Gallarate in Lombardy, I graduated from the University of Pisa, attended Harvard University and Trento University for my scientific training, and received my PhD in Pisa. I worked in Tuscany as a researcher, where I taught language neuroscience and carried out my research between Pisa and Lucca. From the second half of 2020 I moved to Geneva where I continue to teach and ask questions about how and why we speak and how and why we think. I use MRI to observe the functioning and morphology of the human brain, I study singing at the Geneva Conservatory and almost every evening you can find me rehearsing with some choir for a concert or an opera. 
 
-#### Giulia Baracchini  
+{{< gallery class="content-gallery" >}}
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_rampinini/GB_headshotwider.jpg" alt="Giulia Baracchini, Moderator" width="250">
+            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
+        <figcaption>
+            <b>Giulia Baracchini</b>, Moderator.
+            <!-- and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators. -->
+            <!-- <p><sup>1</sup> </p> -->
+            <!-- <sup>2</sup>Yale University (Associate Research Scientist); <sup>3</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow). -->
+        </figcaption>
+    </figure>
+{{< /gallery >}}  
   
 Giulia graduated from the University of Padua and the FreieUniversität Berlin, and later specialised at the same university and the Rotman Research Institute in Toronto. Today she is a PhD student at McGill University in Canada. Her research focuses on building multimodal neuroimaging and behavioural models to predict the trajectories of healthy ageing. She is also currently working to derive potential biomarkers of neuropathological changes in the pre-clinical stages of Alzheimer's disease. Giulia is a sportswoman who runs and cycles, but above all, she is concerned about inclusivity in the scientific community and relations with the general public. She is part of the Women NeuroNet, a team of female neuroscientists working on these issues to improve collaboration and academic excellence among women. She is part of the Québec Bioimaging Network, which offers a blog where readers from the general public can get involved in neuroscience topics, and is passionate about popularising science. Giulia is in her third year of participation in OHBM's activities dedicated to children and teenagers.
