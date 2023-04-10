@@ -29,19 +29,58 @@ At this event, researchers will give a presentation in Japanese on brain researc
 
 ### Presenter and organizers
 
-講演者：竹村　浩昌（たけむら　ひろまさ）　
+{{< gallery class="content-gallery" >}}
+    <figure>
+        <!-- <figure> -->
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/japanese/TakemuraPhoto_JHBM.jpg" alt="Hiromasa Takemura, Presenter (講演者：竹村　浩昌" width="250">
+        <figcaption>
+            <b>Hiromasa Takemura, PhD (演讲者)</b>, Presenter (講演者).
+            <span style="font-size: 16px">
+                <p>National Institute for Physiological Sciences (生理学研究所)</p>
+            </span>
+        </figcaption>
+    </figure>
+{{< /gallery >}}
+
+講演者：竹村　浩昌（たけむら　ひろまさ）
 生理学研究所
 
 Speaker: Hiromasa Takemura, PhD (National Institute for Physiological Sciences)
   
-  
+
+{{< gallery class="content-gallery" >}}
+    <figure>
+        <!-- <figure> -->
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/japanese/MinagawaY.png" alt="Yasuyo Minagawa, PhD (皆川　泰代)" width="250">
+        <figcaption>
+            <b>Yasuyo Minagawa, PhD 皆川　泰代 (みながわ　やすよ)</b>, Moderator (モデレーター).
+            <span style="font-size: 16px">
+                <p>Department of Psychology, Keio University (慶應義塾大学　文学部　心理学専攻)</p>
+            </span>
+        </figcaption>
+    </figure>
+{{< /gallery >}}
+
 モデレーター：皆川　泰代 (みながわ　やすよ)
 慶應義塾大学　文学部　心理学専攻
 
 Moderator：Yasuyo Minagawa, PhD
 (Department of Psychology, Keio University)
   
-  
+
+{{< gallery class="content-gallery" >}}
+    <figure>
+        <!-- <figure> -->
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/japanese/YuriTerasawa.jpg" alt="Yuri Terasawa, PhD 寺澤　悠理（てらさわ　ゆうり）" width="250">
+        <figcaption>
+            <b>Yuri Terasawa, PhD 寺澤　悠理（てらさわ　ゆうり） </b>, Moderator (モデレーター).
+            <span style="font-size: 16px">
+                <p>Department of Psychology, Keio University (慶應義塾大学　文学部　心理学専攻)</p>
+            </span>
+        </figcaption>
+    </figure>
+{{< /gallery >}}
+
 モデレーター：寺澤　悠理（てらさわ　ゆうり） 
 (慶應義塾大学　文学部　心理学専攻)
 
