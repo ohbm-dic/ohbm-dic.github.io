@@ -53,7 +53,7 @@ Professor Zuo is the brain behind the “Chinese Color Nest Project (CCNP) -- Gr
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_Xi_Nian_Zuo/XinranGao_centered.png" alt="Xinran Gao (高欣然), Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/mandarim_Xi_Nian_Zuo/Xinran_Gao.jpg" alt="Xinran Gao (高欣然), Moderator" width="250">
         <figcaption>
             <b>Xinran Gao (高欣然)</b><sup>3</sup>, Moderator.
             <span style="font-size: 16px">
