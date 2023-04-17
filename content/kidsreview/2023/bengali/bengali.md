@@ -11,7 +11,8 @@ url: [/kidsreview/2023/bengali/]
 # summary: "INSERT SUMMARY TEXT HERE!"
 ---
 
-OHBM ২০২৩ বহুভাষী শিশু পুনঃমূল্যায়ন এখন আবেদন গ্রহন করছে! প্রত্তেক বৈঠক পিছু ২ জন মডারেটর,ও ১ জন প্রেসেন্টর চাই। অনুগ্রহ করে সদস্যদের নাম, যোগাযোগ তথ্য, ভাষা, এবঙ নির্বাচিত নিবন্ধhttps://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform?usp=sf_link এ পাঠান। 
+* Currently registrations are open for the sessions: French I, French II, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin II, Portuguese, Spanish and Traditional Chinese (Taiwan)
+* The following sessions are in preparation and the corresponding webpages are under construction: Bengali, English, German I, German II, Mandarin I, Marathi
 
 
 <!-- ## Presenters and organizers
