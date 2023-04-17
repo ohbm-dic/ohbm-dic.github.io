@@ -7,8 +7,8 @@ image: images/OHBM2023/thumbnails/Portuguese_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/portuguese/]
-url: [/kidsreview/2023/portuguese/]
+aliases: /kidsreview/2023/portuguese_session
+url: /kidsreview/2023/portuguese_session
 ---
 
 Quer ensinar mais sobre o cérebro e o corpo humano para seus filhos(as) ou alunos(as)?  

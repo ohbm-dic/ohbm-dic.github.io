@@ -7,8 +7,8 @@ image: images/OHBM2023/thumbnails/Taiwanese_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/traditionalchinese_taiwan/]
-url: [/kidsreview/2023/traditionalchinese_taiwan/]
+aliases: /kidsreview/2023/traditionalchinese_taiwan_session
+url: /kidsreview/2023/traditionalchinese_taiwan_session
 summary: "你知道我們的大腦是宇宙中最複雜的東西之一嗎？它像是超級電腦一樣運作，由許多零件組成，當我們思考或學習時，所有零件和諧地運作著。但是，精神疾病就好像大腦中某些零件遵循了不同的規律，使得大腦難以正常運作。在這次的演講中，我們將介紹科學家們如何使用功能性磁共振成像(fMRI)研究大腦，揭開思覺失調症大腦的複雜性。透過了解大腦如何運作，可以為精神疾患開發新的治療方法，並幫助患者更健康地生活##"
 ---
 
