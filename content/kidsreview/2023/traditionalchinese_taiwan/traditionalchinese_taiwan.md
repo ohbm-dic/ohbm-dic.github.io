@@ -3,7 +3,7 @@ title: "Kids Review: Traditional Chinese (Taiwan) 2023 - 跟著我們探索思�
 # description: "The Traditional Chinese (Taiwan) edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/thumbnails/Taiwanese_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023

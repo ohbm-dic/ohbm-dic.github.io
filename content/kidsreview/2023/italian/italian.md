@@ -3,7 +3,7 @@ title: "Kids Review: Italian 2023 - Quante lingue parli? Lo dice il tuo cervello
 # description: "The Italian edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/thumbnails/Italian1_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
