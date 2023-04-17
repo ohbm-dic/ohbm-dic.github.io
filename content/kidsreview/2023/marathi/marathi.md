@@ -10,7 +10,9 @@ aliases: [/kidsreview/2023/marathi/]
 url: [/kidsreview/2023/marathi/]
 ---
 
-OHBM 2023 Multilingual Kids Review now accepts applications! Each language session requires 2 moderators and 1 presenter. Send the names/contact info of the team, language, and article(s) to be presented! https://docs.google.com/forms/d/e/1FAIpQLSeNOYeh-ndeQkgeu78EArRvVX3mH2UGQEwXUaa_IZLkTN1-Fw/viewform?usp=sf_link
+
+* Currently registrations are open for the sessions: French I, French II, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin II, Portuguese, Spanish and Traditional Chinese (Taiwan)
+* The following sessions are in preparation and the corresponding webpages are under construction: Bengali, English, German I, German II, Mandarin I, Marathi
 
 
 <!-- ## Presenters and organizers
