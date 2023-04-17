@@ -50,8 +50,8 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
             title = "Aperture Neuro"
             url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4121"
         [[params.footer.links.links]]
-            title = "OHBM Engage"
-            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3931"
+            title = "Imaging Neuroscience"
+            url = "https://imaging-neuroscience.org/" 
 
 
         [[params.footer.links]]
@@ -68,6 +68,9 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
         [[params.footer.links.links]]
             title = "OHBM Tutorials"
             url = "https://www.ohbmbrainmappingblog.com/tutorials.html"
+        [[params.footer.links.links]]
+            title = "OHBM Engage"
+            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3931"
             
 
         [params.footer.contact_form]
