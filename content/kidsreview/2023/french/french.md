@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: French 2023 - MISSING TITLE IN FRENCH"
+title: "Kids Review: French 2023 - Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ?"
 description: "The French edition of our kids review"
 weight: 50
 image: images/OHBM2023/thumbnails/French1_session_logo.png
