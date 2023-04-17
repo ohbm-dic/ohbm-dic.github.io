@@ -34,7 +34,7 @@ At this event, researchers will give a presentation in Japanese on brain researc
         <!-- <figure> -->
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/japanese/TakemuraPhoto_JHBM.jpg" alt="Hiromasa Takemura, Presenter (講演者：竹村　浩昌" width="250">
         <figcaption>
-            <b>Hiromasa Takemura, PhD (演讲者)</b>, Presenter (講演者).
+            <b>Hiromasa Takemura, PhD (講演者)</b>, Presenter (講演者).
             <span style="font-size: 16px">
                 <p>National Institute for Physiological Sciences (生理学研究所)</p>
             </span>
