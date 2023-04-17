@@ -4,7 +4,7 @@ banner:
   contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
     contents: "Registration Open"
-    url: "https://ohbm-dic.github.io/kidsreview/2023/event_registration/"
+    url: "https://ohbm-dic.github.io/kidsreview/2023/registration/"
 items:
   - type: highlights
     items_per_row: 3
