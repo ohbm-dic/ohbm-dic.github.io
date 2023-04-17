@@ -1,5 +1,5 @@
 ---
-title: "OHBM 2023: Kids Review Registration"
+title: "Kids Review: 2023 - Event Registration"
 menu: Kids Review
 weight: 50
 image: images/OHBM2023/ohbm2023_kidsreview.png
