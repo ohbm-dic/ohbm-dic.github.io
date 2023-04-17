@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/OHBM2023/homepage_banner_kidsreview2.png"
+  image: "images/OHBM2023/homepage_banner_kidsreview.png"
   contents: "**OHBM DIC:** Multilingual Kids Live Review 2023 Event"
   button:
     contents: "Registration Open"
