@@ -3,6 +3,8 @@ title: "Kids Review: 2023 - Event Registration"
 menu: Kids Review:2023
 weight: 50
 sidebar_left: sidebar_kidsreviews2023
+aliases: /kidsreview/2023/registration
+url: /kidsreview/2023/registration
 ---
 
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
