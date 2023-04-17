@@ -7,10 +7,10 @@ weight: 50
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
 * Note that some language sessions are under construction.
 
-## Bengali 
+## Bengali [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSeTPJIjjuPtcWM7Z9CTDNADjKeF35I4BAUNPrvGl5qAor-tow/viewform?usp=sf_link
 
-## English 
+## English [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLScI1W3TmdJNuFuFI5DPV09Il3TMYlHEHSyUXFBvBl8VBy5jlg/viewform?usp=sf_link
 
 ## French I: Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ? [Registration OPEN] 
@@ -19,10 +19,10 @@ https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-
 ## French II: Les Commotions Cérébrales [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSf4mMMnMWliye-e4CsUuiCHZy0CrmVBJ6VpK3Mp8QVXGbGFzQ/viewform?usp=sf_link
 
-## German I
+## German I [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSe77eU0Xo-8U38FO3OJ-8-fXtaJqrAJZuZL0Z6nz_ZnhOcgug/viewform?usp=sf_link
 
-## German II
+## German II [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSccDPG5ZUykufOrNt3mgj4iFEZMGEI3TZkgVkLDtY-g-EXraQ/viewform?usp=sf_link
 
 ## Greek: Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί [Registration OPEN]
@@ -49,7 +49,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYb
 ## Mandarin II: 构筑彩巢、探密青春、关爱脑智 [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSeNzWnZd3H5nYhhhSSA1zjvZxZRqxXolJNNm0DnU-c5Bb0iuw/viewform?usp=sf_link
 
-## Marathi
+## Marathi [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSc7ct2yyNxeYV0gZoeSwv7kfnBeowxXM2tGwa4xIMRC614g4A/viewform?usp=sf_link
 
 ## Portuguese: O Cérebro e Nossos Movimentos [Registration OPEN]
