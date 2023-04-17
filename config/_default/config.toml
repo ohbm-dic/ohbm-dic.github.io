@@ -47,11 +47,11 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
             title = "OHBM OnDemand"
             url = "https://www.pathlms.com/ohbm"
         [[params.footer.links.links]]
-            title = "Aperture Neuro"
-            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4121"
+            title = "OHBM Tutorials"
+            url = "https://www.ohbmbrainmappingblog.com/tutorials.html"
         [[params.footer.links.links]]
-            title = "Imaging Neuroscience"
-            url = "https://imaging-neuroscience.org/" 
+            title = "OHBM Engage"
+            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3931"
 
 
         [[params.footer.links]]
@@ -66,11 +66,11 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
             title = "COBIDAS"
             url = "https://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf"
         [[params.footer.links.links]]
-            title = "OHBM Tutorials"
-            url = "https://www.ohbmbrainmappingblog.com/tutorials.html"
+            title = "Aperture Neuro"
+            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4121"
         [[params.footer.links.links]]
-            title = "OHBM Engage"
-            url = "https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3931"
+            title = "Imaging Neuroscience"
+            url = "https://imaging-neuroscience.org/"             
             
 
         [params.footer.contact_form]
