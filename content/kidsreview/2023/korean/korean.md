@@ -3,7 +3,7 @@ title: "Kids Review: Korean (한국어) 2023 - 우리는 왜 친구들과 사이
 description: "The Korean (한국어) edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/thumbnails/Korean_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
