@@ -6,8 +6,8 @@ image: images/OHBM2023/thumbnails/Greek_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/greek/]
-url: [/kidsreview/2023/greek/]
+aliases: /kidsreview/2023/greek_session
+url: /kidsreview/2023/greek_session
 summary: "Έχεις μπει ποτέ στο σκοτεινό υπνοδωμάτιο σου με το φόβο ενός φαντάσματος στις σκιές; Σίγουρα ανακουφίζεσαι όταν ανάβεις τα φώτα και βρίσκεις μια στοίβα με ρούχα στην καρέκλα σου! Ασθενείς με άνοια ή Πάρκινσον κάνουν τέτοια λάθη αρκετά συχνά. Γιατί ο εγκέφαλος να σκαρφίζεται τρομακτικές εξηγήσεις όταν δεν είναι σίγουρος; Γιατί μερικές φορές να σκαρφίζεται πράγματα που δεν είναι εκεί"
 ---
 
