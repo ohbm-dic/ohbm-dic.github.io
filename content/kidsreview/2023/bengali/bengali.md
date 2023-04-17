@@ -2,7 +2,7 @@
 title: "Kids Review: Bengali 2023"
 description: "The Bengali edition of our kids review"
 weight: 50
-image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/thumbnails/Bengali_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
