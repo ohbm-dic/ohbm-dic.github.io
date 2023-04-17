@@ -12,7 +12,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeTPJIjjuPtcWM7Z9CTDNADjKeF35I4BAUNPrvG
 ## English 
 https://docs.google.com/forms/d/e/1FAIpQLScI1W3TmdJNuFuFI5DPV09Il3TMYlHEHSyUXFBvBl8VBy5jlg/viewform?usp=sf_link
 
-## French I <p style="background-color:tomato;">[Registration OPEN]</p>
+## French I <p style="color:red;">[Registration OPEN]</p>
 https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-EkYgyS46Ig/viewform?usp=sf_link
 
 ## French II [Registration OPEN]
