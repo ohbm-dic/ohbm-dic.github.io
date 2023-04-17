@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: Portguese (Português) 2023"
+title: "Kids Review: Portguese (Português) 2023 - O Cérebro e Nossos Movimentos"
 description: "The Portguese (Português) edition of our kids review"
 menu: Kids Review
 weight: 50
