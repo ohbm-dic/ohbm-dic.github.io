@@ -5,6 +5,7 @@ weight: 50
 sidebar_left: sidebar_kidsreviews2023
 ---
 
+* No registration fee.
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
 * Currently registrations are open for the sessions: <p style="color:blue;">French I, French II, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin II, Portuguese, Spanish and Traditional Chinese (Taiwan)</p>
 * The following sessions are in preparation and the corresponding webpages are under construction: <p style="color:blue;">Bengali, English, German I, German II, Mandarin I, Marathi</p>
