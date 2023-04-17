@@ -3,7 +3,7 @@ title: "Kids Review: Japanese 2023 - 知りたい？脳の中の高速道路"
 # description: "The Japanese edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
+image: images/OHBM2023/thumbnails/Japanese_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
