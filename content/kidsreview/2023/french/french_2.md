@@ -53,7 +53,7 @@ Our brains are incredibly impressive organs that allow us to do what we do and b
     <figure> 
             <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_rampinini/GB_headshotwider.jpg" alt="Sandhya Mylabathula, Presenter and Moderator" width="250"> -->
         <figcaption>
-            <b>Nader Allam</b>, and Moderator.
+            <b>Nader Allam</b>, Moderator.
             <span style="font-size: 16px">
                 <p>University of Toronto, MSc Candidate</p>
             </span>

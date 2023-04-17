@@ -25,12 +25,11 @@ Intanto, ecco qualche parola su di noi.
 {{< gallery class="content-gallery" >}}
     <figure> 
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_rampinini/Rampinini.jpg" alt="Alessandra Rampinini, Presenter" width="250">
-            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
         <figcaption>
             <b>Alessandra Rampinini</b>, Presenter.
-            <!-- and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators. -->
-            <!-- <p><sup>1</sup> </p> -->
-            <!-- <sup>2</sup>Yale University (Associate Research Scientist); <sup>3</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow). -->
+            <span style="font-size: 16px">
+                <p>Brain&Language Lab, University of Geneva, Switzerland</p>
+            </span>
         </figcaption>
     </figure>
 {{< /gallery >}}  
@@ -40,12 +39,11 @@ Linguista di formazione, dopo essere cresciuta a Gallarate in Lombardia, mi sono
 {{< gallery class="content-gallery" >}}
     <figure> 
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_rampinini/GB_headshotwider.jpg" alt="Giulia Baracchini, Moderator" width="250">
-            <!-- <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/korean/Yoo.jpg" alt="Dr. Kwangsun Ray Yoo, Moderator" width="250"> -->
         <figcaption>
             <b>Giulia Baracchini</b>, Moderator.
-            <!-- and <b>Dr. Kwangsun Ray Yoo</b><sup>2</sup> and <b>Dr. Younghye Judy Kwon</b><sup>3</sup> as Moderators. -->
-            <!-- <p><sup>1</sup> </p> -->
-            <!-- <sup>2</sup>Yale University (Associate Research Scientist); <sup>3</sup>Northwestern University Feinberg School of Medicine (Post-Doctoral Fellow). -->
+            <span style="font-size: 16px">
+                <p>PhD student, McGill University, Montreal, Canada</p>
+            </span>
         </figcaption>
     </figure>
 {{< /gallery >}}  
