@@ -1,9 +1,7 @@
 ---
 title: "Kids Review: 2023 - Event Registration"
-menu: Kids Review
+menu: Kids Review:2023
 weight: 50
-image: images/OHBM2023/ohbm2023_kidsreview.png
-aliases: [/kidsreview/2023/registration/]
 ---
 
 
