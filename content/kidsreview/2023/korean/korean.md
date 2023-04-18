@@ -35,6 +35,8 @@ To answer this question, we placed the mouse that lived alone in a new house whe
   
 **Location:** *[Online]* Zoom: https://usc.zoom.us/j/99705530690?pwd=VlpKK0cvQXM5K0tzZUlVV0lOY2pnQT09
 
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link)**
+
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}}
