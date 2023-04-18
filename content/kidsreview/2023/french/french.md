@@ -9,13 +9,13 @@ sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/french/]
 ---
 
-<!-- MISSING TITLE IN FRENCH -->
-
 <!-- MISSING INTRO IN FRENCH -->
 
 <!--###  MISSING TITLE IN ENGLISH -->
 
 <!-- MISSING INTRO IN ENGLISH -->
+
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-EkYgyS46Ig/viewform?usp=sf_link)**
 
 ### Presenter and organizers
 

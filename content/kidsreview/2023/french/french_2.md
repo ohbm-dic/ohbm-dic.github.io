@@ -17,6 +17,8 @@ Nos cerveaux sont des organes incroyablement impressionnants qui nous permettent
 
 **Contactez-nous à *s.mylabathula@mail.utoronto.ca* pour toute question!**
 
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSf4mMMnMWliye-e4CsUuiCHZy0CrmVBJ6VpK3Mp8QVXGbGFzQ/viewform?usp=sf_link)**
+
 ### Notre équipe
 
 {{< gallery class="content-gallery" >}}

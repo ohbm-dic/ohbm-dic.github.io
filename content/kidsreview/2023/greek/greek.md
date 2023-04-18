@@ -23,6 +23,8 @@ Have you ever walked into your dark bedroom fearing a ghost in the shadows only 
   
 If you wish to learn more about how the brain helps us understand what our eyes are looking at and why sometimes things go wrong, come to our session "Ghosts in the bedroom: seeing things that are not there" organised by OHBM Multilingual Kids 2023! 
 
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSe8hVJ_qfTnAzpV_92LYVQvntAI3tya6CPkLtgTdMAtA8ng4w/viewform?usp=sf_link)**
+
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}}
