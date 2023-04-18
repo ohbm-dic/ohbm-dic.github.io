@@ -37,7 +37,9 @@ This event is suitable for third graders and above, as well as anyone interested
 - Time: 14:30-15:30	
 - Location: Training Room, 11F, Taipei Public Library 
                 (No. 125, Sec. 2, Jianguo S. Rd., Taipei City, Taiwan, R.O.C. 106210)
-
+  
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSeMTtsnAfwpCRxFaFhRWl9R586DilSwNyxWfCmqiKLL1kXm4g/viewform?usp=sf_link)**
+  
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->

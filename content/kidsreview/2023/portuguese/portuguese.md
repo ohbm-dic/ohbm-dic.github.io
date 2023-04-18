@@ -21,7 +21,7 @@ A palestra será ministrada pelo **Dr. Victor Souza**, pesquisador da Universida
 
 Às vezes a gente nem percebe que o nosso corpo está o tempo todo em movimento, piscando, respirando ou mexendo os braços. Mas o nosso cérebro está o tempo todo atento a todos esses detalhes. Cada parte do cérebro é responsável por funções específicas, como a memória, se você lembra de uma questão da prova ou do nome de alguém; emoções, se você está feliz, ansioso, animado e também pelo controle dos nossos movimentos, para executarmos todas as nossas atividades do dia-a-dia. Curiosos para saber sobre como o cérebro funciona?
 
-Faça sua inscrição preenchendo o formulário neste link: https://forms.gle/tVU5Xpxxxhwhpai49
+**Faça sua inscrição preenchendo o formulário neste *[link](https://forms.gle/tVU5Xpxxxhwhpai49)***
 
 - **Data e horário:** 14/Junho/2023, 10:00 AM
 - **Local:** Este evento será apresentado ao vivo e virtualmente.
@@ -67,11 +67,11 @@ The lecture will be given by **Dr. Victor Souza**, researcher at Aalto Universit
 
 Sometimes we don't even realize that our body is moving all the time, blinking, breathing or moving our arms. But our brain is attentive to all these details all the time. Each part of the brain is responsible for specific functions, such as memory, whether you remember an exam question or someone's name; emotions, if you are happy, anxious, excited and also in control of our movements, to perform all our day-to-day activities. Curious to know about how the brain works?
 
-Register by filling out the form at this link: https://forms.gle/tVU5Xpxxxhwhpai49
+**Register by filling out the form at this *[link](https://forms.gle/tVU5Xpxxxhwhpai49)***
 
 - **Date and time:** 14/June/2023, 10:00 AM
 - **Venue:** This event will be presented live and virtually.
-
+  
 Detailed information to connect to the event page will be emailed to you after registering for the event via this form.
 
 Contact for questions: *victor.souza@aalto.fi* or *mairaspinto@gmail.com*

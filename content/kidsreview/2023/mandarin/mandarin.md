@@ -17,7 +17,9 @@ summary: "大脑作为人体中很重要且复杂的器官，它的结构会随�
   
 ### Title: Mapping Changes of Human Brain Structures Across the Human Lifespan  
   
-Our brain, which is the most complex organ in our body, changes its structure as we grow older. Since the structure of our brain has a profound impact on how we think and behave, it's important to know how it changes over time. In this presentation, I will explain to our young audience how we can take pictures of our living brains using MRI technology; I will talk about a recent study our group did that looked at how the brain structure changes from early childhood to late adulthood.
+Our brain, which is the most complex organ in our body, changes its structure as we grow older. Since the structure of our brain has a profound impact on how we think and behave, it's important to know how it changes over time. In this presentation, I will explain to our young audience how we can take pictures of our living brains using MRI technology; I will talk about a recent study our group did that looked at how the brain structure changes from early childhood to late adulthood.  
+  
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform?usp=sf_link)**
 
 ### Presenter and organizers
 
