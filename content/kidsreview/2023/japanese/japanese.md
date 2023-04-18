@@ -87,4 +87,6 @@ Moderator：Yasuyo Minagawa, PhD
 Moderator: Yuri Terasawa, PhD
 (Department of Psychology, Keio University) 
 
-{{< youtube id="e85HJYy3qDw" >}}
+### Official Trailer
+
+{{< youtube id="XfC6OhYCpMM" >}}

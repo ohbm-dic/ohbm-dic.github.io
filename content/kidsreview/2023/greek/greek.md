@@ -39,7 +39,6 @@ If you wish to learn more about how the brain helps us understand what our eyes 
     </figure>
 {{< /gallery >}}
 
+### Official Trailer
 
-<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}-->
-
+{{< youtube id="nRrJlruH9-0" >}}

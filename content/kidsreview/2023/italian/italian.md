@@ -92,3 +92,7 @@ A linguist by training, after growing up in Gallarate in Lombardy, I graduated f
 {{< /gallery >}}  
   
 Giulia graduated from the University of Padua and the FreieUniversität Berlin, and later specialised at the same university and the Rotman Research Institute in Toronto. Today she is a PhD student at McGill University in Canada. Her research focuses on building multimodal neuroimaging and behavioural models to predict the trajectories of healthy ageing. She is also currently working to derive potential biomarkers of neuropathological changes in the pre-clinical stages of Alzheimer's disease. Giulia is a sportswoman who runs and cycles, but above all, she is concerned about inclusivity in the scientific community and relations with the general public. She is part of the Women NeuroNet, a team of female neuroscientists working on these issues to improve collaboration and academic excellence among women. She is part of the Québec Bioimaging Network, which offers a blog where readers from the general public can get involved in neuroscience topics, and is passionate about popularising science. Giulia is in her third year of participation in OHBM's activities dedicated to children and teenagers.
+
+### Official Trailer
+
+{{< youtube id="ZMObWryXkYw" >}}

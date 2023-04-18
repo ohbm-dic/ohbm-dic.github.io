@@ -45,10 +45,10 @@ Food is our energy source, and thanks to it, we can do many activities during th
     </figure>
 {{< /gallery >}}
 
-<!-- <div class="row"> for future atempts of a inline gallery -->
-<!-- </div class="row"> -->
+### Official Trailer
 
+#### English subtitles
+{{< youtube id="K0KTYkPsfIY" >}}
 
-<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}-->
-
+#### Spanish subtitles
+{{< youtube id="WanxfnNWJwg" >}}

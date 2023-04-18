@@ -54,7 +54,10 @@ And if we need memory to learn a new language, how hard is it to learn a new one
     </figure>
 {{< /gallery >}}
 
+### Official Trailer
 
-<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}
--->
+#### English subtitles
+{{< youtube id="h02EFmRmLDY" >}}
+
+#### Italian subtitles
+{{< youtube id="JeIQBXy5dLs" >}}
