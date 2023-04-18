@@ -33,8 +33,8 @@ To answer this question, we placed the mouse that lived alone in a new house whe
   
 **Date & Time:** *[Korea]* May 20 (Sat), 9:00-10:00am / *[EDT]* May 19 (Fri), 8:00-9:00pm / *[CDT]* May 19 (Fri), 7:00-8:00pm / *[PDT]* May 19 (Fri), 5:00-6:00pm  
   
-**Location:** *[Online]* Zoom: https://usc.zoom.us/j/99705530690?pwd=VlpKK0cvQXM5K0tzZUlVV0lOY2pnQT09
-
+**Location:** *[Online]* Zoom: https://usc.zoom.us/j/99705530690?pwd=VlpKK0cvQXM5K0tzZUlVV0lOY2pnQT09  
+  
 **[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link)**
 
 ### Presenter and organizers
