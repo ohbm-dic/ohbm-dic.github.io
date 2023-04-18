@@ -3,7 +3,7 @@ title: "Kids Review: Mandarin 2023 - 构筑彩巢、探密青春、关爱脑智"
 # description: "The Mandarin edition of our kids review"
 menu: Kids Review
 weight: 50
-image: images/OHBM2023/thumbnails/Mandarin2_session_logo.png
+image: images/OHBM2023/thumbnails/Mandarin1_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
