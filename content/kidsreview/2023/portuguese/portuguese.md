@@ -11,34 +11,34 @@ aliases: /kidsreview/2023/portuguese_session
 url: /kidsreview/2023/portuguese_session
 ---
 
-Quer ensinar mais sobre o cérebro e o corpo humano para seus filhos(as) ou alunos(as)?
-
-Estaremos online e ao vivo para apresentar especialmente para crianças entre 8 e 15 anos de idade sobre como o cérebro funciona e como ele controla nossos movimentos. As crianças terão a oportunidade de conversar com experientes pesquisadores sobre ciência e o cérebro!
-
-Convidamos professores e diretores de escola a inscreverem suas turmas de alunos, e pais e mães para inscreverem seus filhos. O evento será apresentado de forma virtual e os apresentadores estarão conectados ao vivo durante todo o tempo.
-
-A palestra será ministrada pelo **Dr. Victor Souza**, pesquisador da Universidade Aalto na Finlândia, e moderada pela doutoranda **Maíra Pinto** (Universidade de Antwerp, Bélgica) e pelo **Dr. Renan Matsuda** (Universidade de São Paulo, Brasil).
-
-Às vezes a gente nem percebe que o nosso corpo está o tempo todo em movimento, piscando, respirando ou mexendo os braços. Mas o nosso cérebro está o tempo todo atento a todos esses detalhes. Cada parte do cérebro é responsável por funções específicas, como a memória, se você lembra de uma questão da prova ou do nome de alguém; emoções, se você está feliz, ansioso, animado e também pelo controle dos nossos movimentos, para executarmos todas as nossas atividades do dia-a-dia. Curiosos para saber sobre como o cérebro funciona?
-
-**Faça sua inscrição preenchendo o formulário neste *[link](https://forms.gle/tVU5Xpxxxhwhpai49)***
-
-- **Data e horário:** 14/Junho/2023, 10:00 AM
-- **Local:** Este evento será apresentado ao vivo e virtualmente.
-
-Informações detalhadas para se conectar à página do evento serão enviadas por email após a inscrição no evento por este formulário.
-
-Contato para dúvidas: *victor.souza@aalto.fi* ou *mairaspinto@gmail.com*
-
-Este ano, em 2023, teremos sessões em 12 línguas diferentes, incluindo Bengali, Inglês, Francês, Alemão, Italiano, Japonês, Coreano, Mandarin, Marathi, Portugues e Espanhol.
-
-A Organização para o Mapeamento do Cérebro (OHBM) é uma das maiores organizações internacionais de cientistas que buscam entender mais sobre o cérebro humano e o seu comportamento. Desde 2020, o evento anual Multilingual Kids Live Review é organizado e apresentado em várias línguas para conectar cientistas da OHBM e crianças e adolescentes (8-15 anos de idade) de todo o mundo!
-
-Os cientistas da OHBM estão ansiosos para explorar como o cérebro funciona com você!
-Os(as) cientistas de hoje conhecendo os(as) cientistas do futuro!
-
-Uma iniciativa do Comitê de Diversidade e Inclusividade da Organização para o Mapeamento do Cérebro (OHBM)
-
+Quer ensinar mais sobre o cérebro e o corpo humano para seus filhos(as) ou alunos(as)?  
+  
+Estaremos online e ao vivo para apresentar especialmente para crianças entre 8 e 15 anos de idade sobre como o cérebro funciona e como ele controla nossos movimentos. As crianças terão a oportunidade de conversar com experientes pesquisadores sobre ciência e o cérebro!  
+  
+Convidamos professores e diretores de escola a inscreverem suas turmas de alunos, e pais e mães para inscreverem seus filhos. O evento será apresentado de forma virtual e os apresentadores estarão conectados ao vivo durante todo o tempo.  
+  
+A palestra será ministrada pelo **Dr. Victor Souza**, pesquisador da Universidade Aalto na Finlândia, e moderada pela doutoranda **Maíra Pinto** (Universidade de Antwerp, Bélgica) e pelo **Dr. Renan Matsuda** (Universidade de São Paulo, Brasil).  
+  
+Às vezes a gente nem percebe que o nosso corpo está o tempo todo em movimento, piscando, respirando ou mexendo os braços. Mas o nosso cérebro está o tempo todo atento a todos esses detalhes. Cada parte do cérebro é responsável por funções específicas, como a memória, se você lembra de uma questão da prova ou do nome de alguém; emoções, se você está feliz, ansioso, animado e também pelo controle dos nossos movimentos, para executarmos todas as nossas atividades do dia-a-dia. Curiosos para saber sobre como o cérebro funciona?  
+  
+**Faça sua inscrição preenchendo o formulário neste *[link](https://forms.gle/tVU5Xpxxxhwhpai49)***  
+  
+- **Data e horário:** 14/Junho/2023, 10:00 AM  
+- **Local:** Este evento será apresentado ao vivo e virtualmente.  
+  
+Informações detalhadas para se conectar à página do evento serão enviadas por email após a inscrição no evento por este formulário.  
+  
+Contato para dúvidas: *victor.souza@aalto.fi* ou *mairaspinto@gmail.com*  
+  
+Este ano, em 2023, teremos sessões em 12 línguas diferentes, incluindo Bengali, Inglês, Francês, Alemão, Italiano, Japonês, Coreano, Mandarin, Marathi, Portugues e Espanhol.  
+  
+A Organização para o Mapeamento do Cérebro (OHBM) é uma das maiores organizações internacionais de cientistas que buscam entender mais sobre o cérebro humano e o seu comportamento. Desde 2020, o evento anual Multilingual Kids Live Review é organizado e apresentado em várias línguas para conectar cientistas da OHBM e crianças e adolescentes (8-15 anos de idade) de todo o mundo!  
+  
+Os cientistas da OHBM estão ansiosos para explorar como o cérebro funciona com você!  
+Os(as) cientistas de hoje conhecendo os(as) cientistas do futuro!  
+  
+Uma iniciativa do Comitê de Diversidade e Inclusividade da Organização para o Mapeamento do Cérebro (OHBM).  
+  
 ### Apresentadores e organizadores
 
 {{< gallery class="content-gallery" >}}
@@ -57,8 +57,8 @@ Uma iniciativa do Comitê de Diversidade e Inclusividade da Organização para o
 
 ### The Brain and Our Movements
 
-Do you want to teach more about the brain and the human body to your children or students?
-
+Do you want to teach more about the brain and the human body to your children or students?  
+  
 We will be online and live to present especially to children between 8 and 15 years old about how the brain works and how it controls our movements. Children will have the opportunity to talk with experienced researchers about science and the brain!
 
 We invite teachers and school principals to enroll their groups of students, and parents to enroll their children. The event will be presented virtually and presenters will be connected live at all times.

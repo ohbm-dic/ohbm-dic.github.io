@@ -25,6 +25,7 @@ At this event, researchers will give a presentation in Japanese on brain researc
   
 **Date:** June 24th (Sat), 3PM-4PM (Japan Standard Time)  
 **Venue:** Online (Zoom)  
+  
 **[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB59plYKn4hw/viewform?usp=sf_link)**
 
 ### Presenter and organizers
