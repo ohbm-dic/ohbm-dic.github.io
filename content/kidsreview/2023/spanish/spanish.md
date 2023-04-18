@@ -7,14 +7,16 @@ image: images/OHBM2023/thumbnails/Spanish_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/spanish/]
-url: [/kidsreview/2023/spanish/]
+aliases: /kidsreview/2023/spanish_session
+url: /kidsreview/2023/spanish_session
 summary: "La comida es nuestra fuente de energía, gracias a ella podemos hacer muchas actividades en el día, como estudiar, ver la tele o jugar, pero ¿cómo la comida se convierte en energía? y ¿cómo funciona nuestro cerebro según lo que comamos? Los científicos se están encargando de describir qué pasa en nuestro cerebro. Ahora sabemos que nuestro cerebro puede estar saludable o tener malos momentos por lo que comemos, esto podría afectar nuestros pensamientos o incluso si ponemos atención en clase."
 ---
 
 <!-- # ¿Cómo la comida afecta a nuestro cerebro? -->
 
 La comida es nuestra fuente de energía, gracias a ella podemos hacer muchas actividades en el día, como estudiar, ver la tele o jugar, pero ¿cómo la comida se convierte en energía? y ¿cómo funciona nuestro cerebro según lo que comamos? Los científicos se están encargando de describir qué pasa en nuestro cerebro. Ahora sabemos que nuestro cerebro puede estar saludable o tener malos momentos por lo que comemos, esto podría afectar nuestros pensamientos o incluso si ponemos atención en clase. Si quieres saber más, eres bienvenido a asistir en la charla *¿Cómo la comida afecta a nuestro cerebro?*, organizada por **OHBM Multilingual kids 2023**. ¡No faltes!
+
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSeK3f8_zIYpk8f9F8V7qq9MmONzrcIDTCcpajYYxg1GiqkYDQ/viewform?usp=sf_link)**
 
 ### Does food affect how our brain works?
 
@@ -45,10 +47,12 @@ Food is our energy source, and thanks to it, we can do many activities during th
     </figure>
 {{< /gallery >}}
 
-<!-- <div class="row"> for future atempts of a inline gallery -->
-<!-- </div class="row"> -->
+### REGISTRATION
 
+### Official Trailer
 
-<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}-->
+#### English subtitles
+{{< youtube id="K0KTYkPsfIY" >}}
 
+#### Spanish subtitles
+{{< youtube id="WanxfnNWJwg" >}}

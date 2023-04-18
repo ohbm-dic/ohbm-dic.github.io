@@ -9,13 +9,13 @@ sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/french/]
 ---
 
-<!-- MISSING TITLE IN FRENCH -->
-
 <!-- MISSING INTRO IN FRENCH -->
 
 <!--###  MISSING TITLE IN ENGLISH -->
 
 <!-- MISSING INTRO IN ENGLISH -->
+
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-EkYgyS46Ig/viewform?usp=sf_link)**
 
 ### Presenter and organizers
 
@@ -79,4 +79,9 @@ Dr. Sridar Narayanan obtained a PhD in Neuroscience from McGill University. He i
   
 La Dre. AmanPreet Badhwar a grandi en Inde, où elle aimait grimper aux manguiers et s'occuper des singes. Elle est arrivée au Canada à l'adolescence et a obtenu son doctorat à l'Université McGill. Elle est actuellement professeure adjointe au département de pharmacologie et de physiologie de l'Université de Montréal à Montréal, Canada. La Dre. Badhwar combine différentes méthodes pour mieux comprendre la maladie d'Alzheimer. Ces méthodes vont de l'examen du cerveau entier par imagerie, à l'examen de petites molécules qui composent le cerveau. La Dre. Badhwar explique également la science à l'aide de ses peintures. *amanpreet.badhwar@umontreal.ca
 
-Dr. AmanPreet Badhwar grew up in India, where she loved climbing mango trees and caring for monkeys. She came to Canada as a teenager and went on to get her PhD from McGill University. She is currently an Assistant Professor in the Department of Pharmacology and Physiology at the University of Montreal in Montreal, Canada. Dr. Badhwar combines different methods to better understand Alzheimer’s disease. These methods vary from looking at the entire brain using imaging to looking at small molecules that make up the brain. Dr. Badhwar also explains science using her paintings. *amanpreet.badhwar@umontreal.ca
+Dr. AmanPreet Badhwar grew up in India, where she loved climbing mango trees and caring for monkeys. She came to Canada as a teenager and went on to get her PhD from McGill University. She is currently an Assistant Professor in the Department of Pharmacology and Physiology at the University of Montreal in Montreal, Canada. Dr. Badhwar combines different methods to better understand Alzheimer’s disease. These methods vary from looking at the entire brain using imaging to looking at small molecules that make up the brain. Dr. Badhwar also explains science using her paintings.  
+*amanpreet.badhwar@umontreal.ca
+
+### Official Trailer
+
+{{< youtube id="dilEN1MzXAU" >}}

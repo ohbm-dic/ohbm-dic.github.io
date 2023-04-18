@@ -7,8 +7,8 @@ image: images/OHBM2023/thumbnails/Taiwanese_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/traditionalchinese_taiwan/]
-url: [/kidsreview/2023/traditionalchinese_taiwan/]
+aliases: /kidsreview/2023/traditionalchinese_taiwan_session
+url: /kidsreview/2023/traditionalchinese_taiwan_session
 summary: "你知道我們的大腦是宇宙中最複雜的東西之一嗎？它像是超級電腦一樣運作，由許多零件組成，當我們思考或學習時，所有零件和諧地運作著。但是，精神疾病就好像大腦中某些零件遵循了不同的規律，使得大腦難以正常運作。在這次的演講中，我們將介紹科學家們如何使用功能性磁共振成像(fMRI)研究大腦，揭開思覺失調症大腦的複雜性。透過了解大腦如何運作，可以為精神疾患開發新的治療方法，並幫助患者更健康地生活##"
 ---
 
@@ -29,7 +29,7 @@ summary: "你知道我們的大腦是宇宙中最複雜的東西之一嗎？它�
 
 Do you know that our brain is one of the most complex things in the universe? It works like a supercomputer, composed of many parts that work harmoniously when we think or learn. However, mental illnesses are like certain parts of the brain following different rules, making it difficult for the brain to function normally. In this speech, we will introduce how scientists use functional magnetic resonance imaging (fMRI) to study the complexity of the brain with schizophrenia. By understanding how the brain works, new treatment methods can be developed for mental illnesses, and help patients live healthier lives.
 
-In the second part of the speech, we will discuss news literacy related to mental illnesses. Mental illnesses, like colds and cancers, require treatment, and news reports may provide incorrect or incomplete information that can affect our views and understanding. In addition to understanding the illness and  respecting patients, we should also correctly interpret news reports and know when to seek professional help, to create a more friendly and harmonious society.
+In the second part of the speech, we will discuss news literacy related to mental illnesses. Mental illnesses, like colds and cancers, require treatment, and news reports may provide incorrect or incomplete information that can affect our views and understanding. In addition to understanding the illness and respecting patients, we should also correctly interpret news reports and know when to seek professional help, to create a more friendly and harmonious society.
 
 This event is suitable for third graders and above, as well as anyone interested in the brain. Let's explore the mysterious world of the brain together!
 

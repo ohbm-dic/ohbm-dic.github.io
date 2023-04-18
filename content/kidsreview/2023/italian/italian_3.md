@@ -11,8 +11,6 @@ aliases: [/kidsreview/2023/italian_3/]
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
 
-<!-- ## Title in italian -->
-
 Ciao,  
   
 siamo Antea, Laura e Roberto e facciamo parte del MAMBO, un gruppo di ricerca dell’Università di Chieti che studia il funzionamento del cervello.
@@ -43,6 +41,8 @@ Roberto is a computer engineer and he is studying how machine learning technique
   
 In this OHBM Kids Session, Roberto will talk precisely about this! He will talk about how the communications of neurons can be used to read the subject’s brain. For example, he will talk about the study in which he discovered, with his colleagues, that the functional connectivity can be used to understand whether a buddhist monk is meditating or not and which meditation style is performing.
 But don’t worry, he is not going to read your brain!! But he will introduce how the machine learning techniques are helping scientists to unveil how the brain varies given a particular task we are involved in.
+
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScxnEIDJFVPkoorq2nQXL1MUthqzXDzoQDTHo-Sr79OeRKhfA/viewform?usp=sf_link)**
 
 ### Presenter and organizers
 

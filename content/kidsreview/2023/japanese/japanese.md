@@ -7,8 +7,8 @@ image: images/OHBM2023/thumbnails/Japanese_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/japanese/]
-url: [/kidsreview/2023/japanese/]
+aliases: /kidsreview/2023/japanese_session
+url: /kidsreview/2023/japanese_session
 summary: "このイベントでは、８歳から14歳ぐらいの子供たちを対象に、脳（のう）の研究についての紹介を研究者が日本語で行います。今年のイベントでは、MRI（えむあーるあい）という機械を使った脳の研究の紹介を竹村　浩昌（たけむら　ひろまさ）先生が行います。脳の中には、遠く離れた場所どうしをつないでいる高速道路のような線維（せんい）の束があります。今回、MRIを使って生きているヒトの脳から線維の束を見る方法やこの高速道路がどんなふうに使われているのかを皆さんにご紹介します！竹村先生からのお話の後に、皆さんからの質問コーナーも用意しています。脳の中の高速道路のはたらきや、脳について知りたいな、と思っていることについて、一緒にお話しましょう！"
 ---
 
@@ -17,7 +17,7 @@ summary: "このイベントでは、８歳から14歳ぐらいの子供たち�
 
 **日時:** 2023年6月24日（土） 15:00〜16:00ごろ（日本時間）
 **場所：**オンライン（Zoom）
-**参加登録方法：**後日案内
+**参加登録方法** https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB59plYKn4hw/viewform?usp=sf_link
 
 ### Looking into brains!
 
@@ -25,7 +25,7 @@ At this event, researchers will give a presentation in Japanese on brain researc
   
 **Date:** June 24th (Sat), 3PM-4PM (Japan Standard Time)  
 **Venue:** Online (Zoom)  
-**Registration procedure:** To be announced  
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB59plYKn4hw/viewform?usp=sf_link)**
 
 ### Presenter and organizers
 
@@ -87,4 +87,6 @@ Moderator：Yasuyo Minagawa, PhD
 Moderator: Yuri Terasawa, PhD
 (Department of Psychology, Keio University) 
 
-{{< youtube id="e85HJYy3qDw" >}}
+### Official Trailer
+
+{{< youtube id="XfC6OhYCpMM" >}}

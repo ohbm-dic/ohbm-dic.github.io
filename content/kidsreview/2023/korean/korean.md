@@ -7,8 +7,8 @@ image: images/OHBM2023/thumbnails/Korean_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
-aliases: [/kidsreview/2023/korean/]
-url: [/kidsreview/2023/korean/]
+aliases: /kidsreview/2023/korean_session
+url: /kidsreview/2023/korean_session
 summary: "오랜 시간 다른 사람들과 함께하지 못하고 혼자서 생활하는 것이 우리의 머리와 마음에 어떤 영향을 줄까요? 사람과 같이 사회적 동물인 쥐를 이용한 실험을 통해 이 질문에 대해 알아보았어요. 실험 결과, 혼자 오래 생활한 쥐들은 긴장을 많이 하고 공격적인 행동을 하면서, 다른 쥐들과 같이 있지 않으려고 했어요. 그리고 행동뿐만 아니라 쥐의 머릿속 뇌에서도 커다란 변화를 관찰할 수 있었어요. 그럼 이렇게 혼자 생활한 쥐들이 다시 다른 쥐들과 함께 생활하게 되면 다시 성격이 돌아올까요? 뇌도 다시 변할까요?"
 ---
 
@@ -35,6 +35,8 @@ To answer this question, we placed the mouse that lived alone in a new house whe
   
 **Location:** *[Online]* Zoom: https://usc.zoom.us/j/99705530690?pwd=VlpKK0cvQXM5K0tzZUlVV0lOY2pnQT09
 
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link)**
+
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}}
@@ -50,3 +52,7 @@ To answer this question, we placed the mouse that lived alone in a new house whe
         </figcaption>
     </figure>
 {{< /gallery >}}
+
+### Official Trailer
+
+{{< youtube id="c_Gy1bTadYU" >}}
