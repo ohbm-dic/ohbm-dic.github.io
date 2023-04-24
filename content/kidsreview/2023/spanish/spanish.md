@@ -47,7 +47,6 @@ Food is our energy source, and thanks to it, we can do many activities during th
     </figure>
 {{< /gallery >}}
 
-### REGISTRATION
 
 ### Official Trailer
 

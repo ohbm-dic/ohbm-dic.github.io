@@ -2,7 +2,7 @@
 title: "Kids Review: Italian 2023 - Leggere la mente usando le interazioni cerebrali funzionali"
 # description: "The Italian edition of our kids review"
 menu: Kids Review
-weight: 50
+weight: 52
 image: images/OHBM2023/thumbnails/Italian3_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]

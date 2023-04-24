@@ -2,7 +2,7 @@
 title: "Kids Review: Mandarin 2023 - 构筑彩巢、探密青春、关爱脑智"
 # description: "The Mandarin edition of our kids review"
 menu: Kids Review
-weight: 50
+weight: 51
 image: images/OHBM2023/thumbnails/Mandarin2_session_logo.png
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
@@ -19,7 +19,7 @@ aliases: [/kidsreview/2023/mandarin2/]
 
 Every brain matters. In this talk, you will get to know a household legendary character from traditional Chinese myth, Ne Zha, also known as “Lotus Prince”, whose growing up story will give you a glimpse into the fascinating development of brain and mind. Over the past decade, our research team have devoted to collecting data on brain and mind across different stages of the human lifespan (6-85 years old) in China. You will also know more about the “Chinese Color Nest Project”, exploring growing-up pains and gains in youth from the neuroscience perspective. Most importantly, we are hoping to raise the awareness of individual family, the whole society and all schools to care for brain health. Let’s BRAIN together for a better future!  
   
-**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link)**
+**[Registration is not available yet](https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform)**
 
 ### Presenter and organizers
 

@@ -19,13 +19,19 @@ summary: "大脑作为人体中很重要且复杂的器官，它的结构会随�
   
 Our brain, which is the most complex organ in our body, changes its structure as we grow older. Since the structure of our brain has a profound impact on how we think and behave, it's important to know how it changes over time. In this presentation, I will explain to our young audience how we can take pictures of our living brains using MRI technology; I will talk about a recent study our group did that looked at how the brain structure changes from early childhood to late adulthood.  
   
-**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform?usp=sf_link)**
+**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSeNzWnZd3H5nYhhhSSA1zjvZxZRqxXolJNNm0DnU-c5Bb0iuw/viewform)**
 
 ### Presenter and organizers
 
 {{< gallery class="content-gallery" >}}
   {{< figure src="/images/OHBM2023/kidsreview_2023/mandarim_ruiyang/Picture1.png" width="800">}}
 {{< /gallery >}}
+
+### Official Trailer
+
+{{< youtube id="zx-Q-TDSQxc" >}}
+
+
 
 <!-- <div class="row"> for future atempts of a inline gallery -->
 <!-- </div class="row"> -->
