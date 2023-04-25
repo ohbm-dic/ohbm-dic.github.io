@@ -9,7 +9,9 @@ sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/french/]
 ---
 
-<!-- MISSING INTRO IN FRENCH -->
+Vous êtes-vous déjà demandé ce qui se passe dans votre cerveau et dans le reste de votre corps lorsque vous vieillissez ? Quelles sont les réactions chimiques nocives qui se produisent dans votre corps avec l'âge ? Est-il possible de mesurer ces changements chimiques dans le cerveau et le sang ?  
+  
+Si vous souhaitez en savoir plus sur la façon dont le cerveau et le reste de votre corps se protègent contre ces réactions chimiques nocives grâce à des composés chimiques super-héros appelés antioxydants, venez à notre session « Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ? » organisée par l'OHBM pendant la Revue Multilingue en Direct des Enfants 2023 !
 
 <!--###  MISSING TITLE IN ENGLISH -->
 
