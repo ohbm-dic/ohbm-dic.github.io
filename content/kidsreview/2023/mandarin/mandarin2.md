@@ -17,6 +17,8 @@ aliases: [/kidsreview/2023/mandarin2/]
 
 ### Theme: Building Color Nests, Probing Youth, Caring Brain & Mind
 
+我们每个人都头顶一个独一无二的大脑。在讲座中，我将带领大家通过一个在中国家喻户晓的传统神话人物，脚踏风火轮，手拿金刚戟的“莲花童子”—哪吒。通过他的成长故事，与大家一起分享脑智发育的科学规律，介绍我们中国人的彩巢计划，带你一起探秘青春成长的烦恼，呼吁我们家庭、社会和学校来共同关爱儿童脑智健康, 关心他们未来的一生成长。 
+
 Every brain matters. In this talk, you will get to know a household legendary character from traditional Chinese myth, Ne Zha, also known as “Lotus Prince”, whose growing up story will give you a glimpse into the fascinating development of brain and mind. Over the past decade, our research team have devoted to collecting data on brain and mind across different stages of the human lifespan (6-85 years old) in China. You will also know more about the “Chinese Color Nest Project”, exploring growing-up pains and gains in youth from the neuroscience perspective. Most importantly, we are hoping to raise the awareness of individual family, the whole society and all schools to care for brain health. Let’s BRAIN together for a better future!  
   
 **[Registration is not available yet](https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform)**
