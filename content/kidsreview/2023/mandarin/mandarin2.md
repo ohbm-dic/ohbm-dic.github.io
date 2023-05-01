@@ -69,6 +69,12 @@ Professor Zuo is the brain behind the “Chinese Color Nest Project (CCNP) -- Gr
 
 As a psychology major student, I have developed a keen interest in the fields of cognition and neuroscience. Studying the research about brain structure and function has not only expanded my knowledge but also deepened my passion for this field. I am eager to continue learning and exploring the complexities of the brain. (我目前就读于加拿大麦吉尔大学心理系，是一名大二学生。我对认知和神经科学领域有着浓厚的兴趣。学习有关大脑结构和功能的研究不仅帮助我扩大了知识面，也加深了我对这个领域的热情。我渴望继续学习并探索大脑的复杂性。)
 
+
+### Official Trailer
+
+{{< youtube id="-Zkox7wzCRA" >}}
+
+
 <!-- ## Message from organizers
 Message here
 -->
