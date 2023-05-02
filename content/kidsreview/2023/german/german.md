@@ -10,9 +10,8 @@ aliases: [/kidsreview/2023/german/]
 ---
 
 
-
-* Currently registrations are open for the sessions: French I, French II, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin II, Portuguese, Spanish and Traditional Chinese (Taiwan)
-* The following sessions are in preparation and the corresponding webpages are under construction: Bengali, English, German I, German II, Mandarin I, Marathi
+* Currently registrations are open for the sessions: French I, French II, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Spanish and Traditional Chinese (Taiwan)
+* The following sessions are in preparation and the corresponding webpages are under construction: Bengali, English, German I, German II, Marathi
 
 
 <!-- ## Presenters and organizers
