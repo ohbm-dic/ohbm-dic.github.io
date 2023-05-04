@@ -39,7 +39,7 @@ Starting with the story of this famous patient, Isotta will talk about how we bu
   
 And if we need memory to learn a new language, how hard is it to learn a new one? Why can some people learn better and faster than others? Irene will answer these questions, taking you to the world of multilingualism, where we can find people who do not speak just one language, not two, but even more than ten!  
 
-**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)**
+**[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)**
 
 ### Presenter and organizers
 
