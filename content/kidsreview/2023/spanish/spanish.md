@@ -16,7 +16,7 @@ summary: "La comida es nuestra fuente de energía, gracias a ella podemos hacer 
 
 La comida es nuestra fuente de energía, gracias a ella podemos hacer muchas actividades en el día, como estudiar, ver la tele o jugar, pero ¿cómo la comida se convierte en energía? y ¿cómo funciona nuestro cerebro según lo que comamos? Los científicos se están encargando de describir qué pasa en nuestro cerebro. Ahora sabemos que nuestro cerebro puede estar saludable o tener malos momentos por lo que comemos, esto podría afectar nuestros pensamientos o incluso si ponemos atención en clase. Si quieres saber más, eres bienvenido a asistir en la charla *¿Cómo la comida afecta a nuestro cerebro?*, organizada por **OHBM Multilingual kids 2023**. ¡No faltes!  
   
-**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSeK3f8_zIYpk8f9F8V7qq9MmONzrcIDTCcpajYYxg1GiqkYDQ/viewform?usp=sf_link)**
+**[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLSeK3f8_zIYpk8f9F8V7qq9MmONzrcIDTCcpajYYxg1GiqkYDQ/viewform?usp=sf_link)**
 
 ### Does food affect how our brain works?
 
