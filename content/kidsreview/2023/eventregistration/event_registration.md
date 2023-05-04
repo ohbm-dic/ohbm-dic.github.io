@@ -38,7 +38,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSe8hVJ_qfTnAzpV_92LYVQvntAI3tya6CPkLtgT
 ## Italian I (May 29, 2023): Quante lingue parli? Lo dice il tuo cervello! [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLScOv-VwgiVH41WiIxbjKXya7iUdDIPQ1ZDDMcp8hkkjeI5xnQ/viewform?usp=sf_link
 
-## Italian II (May 2-3, 2023): Cos’è la memoria? E come la usiamo per imparare una nuova lingua [Registration OPEN]
+## Italian II (May 2-3, 2023): Cos’è la memoria? E come la usiamo per imparare una nuova lingua [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link
 
 ## Italian III (May 23, 2023): Leggere la mente usando le interazioni cerebrali funzionali [Registration OPEN]
@@ -62,7 +62,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSc7ct2yyNxeYV0gZoeSwv7kfnBeowxXM2tGwa4x
 ## Portuguese (June 14, 2023): O Cérebro e Nossos Movimentos [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSdouldf9kq1dL8k99Wnt7n0qJH899z7TQ4h6KDMIt13z3FguQ/viewform?usp=sf_link
 
-## Spanish (April 26 and May 5, 2023): ¿Cómo la comida afecta a nuestro cerebro? [Registration OPEN]
+## Spanish (April 26 and May 5, 2023): ¿Cómo la comida afecta a nuestro cerebro? [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSeK3f8_zIYpk8f9F8V7qq9MmONzrcIDTCcpajYYxg1GiqkYDQ/viewform?usp=sf_link
 
 ## Traditional Chinese (Taiwan) (June 10, 2023): 跟著我們探索思覺失調症，解密變幻莫測的大腦活動！[Registration OPEN]
