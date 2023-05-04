@@ -11,9 +11,7 @@ url: /kidsreview/2023/bengali_session
 # summary: "INSERT SUMMARY TEXT HERE!"
 ---
 
-* Currently registrations are open for the sessions: French I, French II, Greek, Italian I, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Spanish and Traditional Chinese (Taiwan)
-* Registration CLOSED: Italian II abd Spanish
-* The following sessions are in preparation and the corresponding webpages are under construction: Bengali, English, German I, German II, Marathi
+* This session are in preparation and the corresponding webpages are under construction.
 
 
 <!-- ## Presenters and organizers
