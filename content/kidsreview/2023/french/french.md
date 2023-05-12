@@ -58,7 +58,7 @@ Sneha Senthil is currently a PhD student in Neuroscience at McGill University, w
         <figcaption>
             <b>Dr. Sridar Narayanan</b><sup>4, 5</sup></b>, Moderator.
             <p><sup>4</sup>Department of Neurology and Neurosurgery, Faculty of Medicine, McGill University, Montreal, QC, Canada;
-            <sup>5</sup>McConnell Brain Imaging Centre, Montreal Neurological Institute-Hospital, Montreal, QC, Canad.</p>
+            <sup>5</sup>McConnell Brain Imaging Centre, Montreal Neurological Institute-Hospital, Montreal, QC, Canada.</p>
         </figcaption>
     </figure>
 {{< /gallery >}}  
