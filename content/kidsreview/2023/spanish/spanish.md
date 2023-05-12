@@ -55,3 +55,16 @@ Food is our energy source, and thanks to it, we can do many activities during th
 
 #### Spanish subtitles
 {{< youtube id="WanxfnNWJwg" >}}
+  
+
+## The presentation
+
+{{< gallery class="content-gallery" >}} 
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/spanish/Spanish3.png" alt="Photo from the presentation" width="500">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/spanish/Spanish4.png" alt="Photo from the presentation" width="500">
+        <!-- <figcaption>
+            <b>Pictures from the presentation.
+        </figcaption> -->
+    </figure>
+{{< /gallery >}}
