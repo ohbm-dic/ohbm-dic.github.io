@@ -51,10 +51,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB
 ## Korean (May 20 (Korea)/May 19(US), 2023): 우리는 왜 친구들과 사이좋게 지내야 할까요? [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link
 
-## Mandarin I (May 15 or 19, 2023): 绘制从儿童到老年大脑结构的变化 [Registration OPEN]
+## Mandarin I (May 259, 2023): 绘制从儿童到老年大脑结构的变化 [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSeNzWnZd3H5nYhhhSSA1zjvZxZRqxXolJNNm0DnU-c5Bb0iuw/viewform?usp=sf_link
 
-## Mandarin II (May 25, 2023): 构筑彩巢、探密青春、关爱脑智 [In preparation]
+## Mandarin II: 构筑彩巢、探密青春、关爱脑智 [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform?usp=sf_link
 
 ## Marathi [In preparation]
