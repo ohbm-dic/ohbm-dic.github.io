@@ -18,7 +18,7 @@ url: /kidsreview/2023/registration
 ## Bengali [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSeTPJIjjuPtcWM7Z9CTDNADjKeF35I4BAUNPrvGl5qAor-tow/viewform?usp=sf_link
 
-## English [In preparation]
+## English/Ghana (May 26, 2023) [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScI1W3TmdJNuFuFI5DPV09Il3TMYlHEHSyUXFBvBl8VBy5jlg/viewform?usp=sf_link
 
 ## French I: Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ? [Registration OPEN] 
