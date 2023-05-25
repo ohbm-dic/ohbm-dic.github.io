@@ -11,7 +11,7 @@ url: /kidsreview/2023/bengali_session
 # summary: "INSERT SUMMARY TEXT HERE!"
 ---
 
-* This session are in preparation and the corresponding webpages are under construction.
+* This session is in preparation. We will update this page as soon as the registration is open.
 
 
 <!-- ## Presenters and organizers
