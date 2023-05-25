@@ -72,7 +72,7 @@ But don’t worry, he is not going to read your brain!! But he will introduce ho
 
 {{< gallery class="content-gallery" >}} 
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_Guidotti/Italian3.jpg" alt="Photo from the presentation" width="500">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_Guidotti/Italian3.jpg" alt="Photo from the presentation" width="1000">
         <!-- <figcaption>
             <b>Pictures from the presentation.
         </figcaption> -->
