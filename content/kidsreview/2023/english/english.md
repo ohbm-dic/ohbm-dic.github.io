@@ -19,7 +19,7 @@ Every decision counts! Decision-making is very important and can be studied in e
 
 <!-- **[Registration here!]()** -->
 
-#### Presenter and organizers
+#### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure> 

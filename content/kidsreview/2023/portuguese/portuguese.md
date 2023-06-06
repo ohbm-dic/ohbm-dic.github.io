@@ -86,7 +86,7 @@ The scientists of today meeting the scientists of the future!
 
 An initiative of the Diversity and Inclusiveness Committee of the Organization for Human Brain Mapping (OHBM).
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
 <figure>

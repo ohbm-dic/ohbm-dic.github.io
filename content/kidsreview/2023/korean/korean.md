@@ -37,7 +37,7 @@ To answer this question, we placed the mouse that lived alone in a new house whe
   
 **[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link)**
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure> 

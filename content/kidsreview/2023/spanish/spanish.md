@@ -22,7 +22,7 @@ La comida es nuestra fuente de energía, gracias a ella podemos hacer muchas act
 
 Food is our energy source, and thanks to it, we can do many activities during the day, such as studying, watching TV, or playing, but how does food become energy, and how does our brain work according to what we eat? Scientists are studying what happens in our brain. We know that our brain can be healthy or have bad moments because of what we eat; this could affect our thoughts or even if we pay attention in class. If you want to know more, you can attend the talk: *How food affects our brain?* organized by **OHBM Multilingual kids 2023**. Take it!
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure>
