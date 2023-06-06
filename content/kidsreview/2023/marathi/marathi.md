@@ -69,8 +69,7 @@ Mrinmayi's main interest is in understanding how we process, store and retrieve 
 
 <!-- ### Official Trailer
 
-#### English subtitles
-{{< youtube id="K0KTYkPsfIY" >}} -->
+* This session are in preparation and the corresponding webpages are under construction.
 
 <!-- #### Spanish subtitles
 {{< youtube id="WanxfnNWJwg" >}}

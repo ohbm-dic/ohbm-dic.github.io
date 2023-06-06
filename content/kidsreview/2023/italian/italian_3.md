@@ -42,7 +42,7 @@ Roberto is a computer engineer and he is studying how machine learning technique
 In this OHBM Kids Session, Roberto will talk precisely about this! He will talk about how the communications of neurons can be used to read the subject’s brain. For example, he will talk about the study in which he discovered, with his colleagues, that the functional connectivity can be used to understand whether a buddhist monk is meditating or not and which meditation style is performing.
 But don’t worry, he is not going to read your brain!! But he will introduce how the machine learning techniques are helping scientists to unveil how the brain varies given a particular task we are involved in.
 
-**[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScxnEIDJFVPkoorq2nQXL1MUthqzXDzoQDTHo-Sr79OeRKhfA/viewform?usp=sf_link)**
+**[Registration CLOSED](https://docs.google.com/forms/d/e/1FAIpQLScxnEIDJFVPkoorq2nQXL1MUthqzXDzoQDTHo-Sr79OeRKhfA/viewform?usp=sf_link)**
 
 ### Presenters and organizers
 
@@ -63,3 +63,18 @@ But don’t worry, he is not going to read your brain!! But he will introduce ho
 <!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
 {{< youtube w7Ft2ymGmfc >}}
 -->
+
+
+
+
+
+## Gallery
+
+{{< gallery class="content-gallery" >}} 
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_Guidotti/Italian3.jpg" alt="Photo from the presentation" width="1000">
+        <!-- <figcaption>
+            <b>Pictures from the presentation.
+        </figcaption> -->
+    </figure>
+{{< /gallery >}}

@@ -10,9 +10,7 @@ aliases: [/kidsreview/2023/german/]
 ---
 
 
-
-* This session are in preparation and the corresponding webpages are under construction.
-
+* This session is in preparation. We will update this page as soon as the registration is open.
 
 <!-- ## Presenters and organizers
 1. Name 1 ![Example image](/images/image.png)
