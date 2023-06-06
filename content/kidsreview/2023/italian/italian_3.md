@@ -44,7 +44,7 @@ But don’t worry, he is not going to read your brain!! But he will introduce ho
 
 **[Registration CLOSED](https://docs.google.com/forms/d/e/1FAIpQLScxnEIDJFVPkoorq2nQXL1MUthqzXDzoQDTHo-Sr79OeRKhfA/viewform?usp=sf_link)**
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure> 

@@ -25,7 +25,7 @@ If you wish to learn more about how the brain helps us understand what our eyes 
 
 **[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSe8hVJ_qfTnAzpV_92LYVQvntAI3tya6CPkLtgTdMAtA8ng4w/viewform?usp=sf_link)**
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure>

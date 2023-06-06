@@ -28,7 +28,7 @@ At this event, researchers will give a presentation in Japanese on brain researc
   
 **[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB59plYKn4hw/viewform?usp=sf_link)**
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure>

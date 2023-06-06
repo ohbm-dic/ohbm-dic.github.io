@@ -19,7 +19,7 @@ Si vous souhaitez en savoir plus sur la façon dont le cerveau et le reste de vo
 
 **[Registration here!](https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-EkYgyS46Ig/viewform?usp=sf_link)**
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure> 

@@ -23,7 +23,7 @@ Every brain matters. In this talk, you will get to know a household legendary ch
   
 **[Registration is not available yet](https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform)**
 
-### Presenter and organizers
+### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure>
