@@ -10,9 +10,9 @@ url: /kidsreview/2023/registration
 * No registration fee.
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
 
-* Registration OPEN: French I, French II, Greek, Italian I, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Traditional Chinese (Taiwan)
-* Registration CLOSED: Italian II, Spanish
-* Registration IN PREPARATION: Bengali, English, German I, German II, Marathi
+* Registration OPEN: French I, French II, Japanese, Portuguese, Traditional Chinese (Taiwan)
+* Registration CLOSED: English, Greek, Italian I, Italian II, Italian III, Korean, Mandarin I, Mandarin II, Spanish
+* Registration IN PREPARATION: Bengali, German I, German II, Marathi
 
 
 ## Bengali [In preparation]
@@ -33,28 +33,28 @@ https://docs.google.com/forms/d/e/1FAIpQLSe77eU0Xo-8U38FO3OJ-8-fXtaJqrAJZuZL0Z6n
 ## German II [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSccDPG5ZUykufOrNt3mgj4iFEZMGEI3TZkgVkLDtY-g-EXraQ/viewform?usp=sf_link
 
-## Greek (May 23, 2023): Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί [Registration OPEN]
+## Greek (May 23, 2023): Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSe8hVJ_qfTnAzpV_92LYVQvntAI3tya6CPkLtgTdMAtA8ng4w/viewform?usp=sf_link
 
-## Italian I (May 29, 2023): Quante lingue parli? Lo dice il tuo cervello! [Registration OPEN]
+## Italian I (May 29, 2023): Quante lingue parli? Lo dice il tuo cervello! [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScOv-VwgiVH41WiIxbjKXya7iUdDIPQ1ZDDMcp8hkkjeI5xnQ/viewform?usp=sf_link
 
 ## Italian II (May 2-3, 2023): Cos’è la memoria? E come la usiamo per imparare una nuova lingua [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link
 
-## Italian III (May 23, 2023): Leggere la mente usando le interazioni cerebrali funzionali [Registration OPEN]
+## Italian III (May 23, 2023): Leggere la mente usando le interazioni cerebrali funzionali [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScxnEIDJFVPkoorq2nQXL1MUthqzXDzoQDTHo-Sr79OeRKhfA/viewform?usp=sf_link
 
 ## Japanese (June 24, 2023): 知りたい？脳の中の高速道路 [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB59plYKn4hw/viewform?usp=sf_link
 
-## Korean (May 20 (Korea)/May 19(US), 2023): 우리는 왜 친구들과 사이좋게 지내야 할까요? [Registration OPEN]
+## Korean (May 20 (Korea)/May 19(US), 2023): 우리는 왜 친구들과 사이좋게 지내야 할까요? [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScB5MadVjVk3FwhgFT5OR9B8-5i323mry6QoQMUmI7nli422w/viewform?usp=sf_link
 
-## Mandarin I (May 25, 2023): 绘制从儿童到老年大脑结构的变化 [Registration OPEN]
+## Mandarin I (May 25, 2023): 绘制从儿童到老年大脑结构的变化 [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSeNzWnZd3H5nYhhhSSA1zjvZxZRqxXolJNNm0DnU-c5Bb0iuw/viewform?usp=sf_link
 
-## Mandarin II: 构筑彩巢、探密青春、关爱脑智 [In preparation]
+## Mandarin II: 构筑彩巢、探密青春、关爱脑智 [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYbQr_vzag9CA/viewform?usp=sf_link
 
 ## Marathi [In preparation]
