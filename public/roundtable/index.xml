@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roundtable on OHBM DIC</title>
+    <link>https://ohbm-dic.github.io/roundtable/</link>
+    <description>Recent content in Roundtable on OHBM DIC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Organization for Human Brain Mapping - Diversity and Inclusivity Committee. All rights reserved. | Contact OHBM-DIC</copyright><atom:link href="https://ohbm-dic.github.io/roundtable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIC Roundtable: 2023</title>
+      <link>https://ohbm-dic.github.io/roundtable/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ohbm-dic.github.io/roundtable/2023/</guid>
+      <description>Using technology to enhance diversity and inclusivity in neuroscience and neuroimaging Organizers: Lucina Q. Uddin, Rosanna Olsen, Kangjoo Lee and OHBM Diversity and Inclusivity Committee
+Timeliness, importance of topic and desired learning outcomes: OHBM initially launched a Diversity and Gender Task Force in 2017 to address the growing need to recognize and address multiple forms of inequity with respect to gender balance and geographical representation on the Council. Since 2017, this initiative has worked towards tackling a range of issues surrounding underrepresentation at OHBM.</description>
+    </item>
+    
+  </channel>
+</rss>
