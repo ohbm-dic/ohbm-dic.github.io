@@ -10,8 +10,8 @@ url: /kidsreview/2023/registration
 * No registration fee.
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
 
-* Registration OPEN: French I, French II, Japanese, Portuguese, Traditional Chinese (Taiwan)
-* Registration CLOSED: English, Greek, Italian I, Italian II, Italian III, Korean, Mandarin I, Mandarin II, Spanish
+* Registration OPEN: French I, French II, Traditional Chinese (Taiwan)
+* Registration CLOSED: English, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Spanish
 * Registration IN PREPARATION: Bengali, German I, German II, Marathi
 
 
@@ -45,7 +45,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4
 ## Italian III (May 23, 2023): Leggere la mente usando le interazioni cerebrali funzionali [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScxnEIDJFVPkoorq2nQXL1MUthqzXDzoQDTHo-Sr79OeRKhfA/viewform?usp=sf_link
 
-## Japanese (June 24, 2023): 知りたい？脳の中の高速道路 [Registration OPEN]
+## Japanese (June 24, 2023): 知りたい？脳の中の高速道路 [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSfOpV_BTbZQjPLqX-9FyAklqZilvu22O3w_-CgB59plYKn4hw/viewform?usp=sf_link
 
 ## Korean (May 20 (Korea)/May 19(US), 2023): 우리는 왜 친구들과 사이좋게 지내야 할까요? [Registration CLOSED]
@@ -60,7 +60,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdWXD_V1eyPSExGOVr8MmiYHwQsjM0s7RpoLnYb
 ## Marathi [In preparation]
 https://docs.google.com/forms/d/e/1FAIpQLSc7ct2yyNxeYV0gZoeSwv7kfnBeowxXM2tGwa4xIMRC614g4A/viewform?usp=sf_link
 
-## Portuguese (June 14, 2023): O Cérebro e Nossos Movimentos [Registration OPEN]
+## Portuguese (June 14, 2023): O Cérebro e Nossos Movimentos [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSdouldf9kq1dL8k99Wnt7n0qJH899z7TQ4h6KDMIt13z3FguQ/viewform?usp=sf_link
 
 ## Spanish (April 26 and May 5, 2023): ¿Cómo la comida afecta a nuestro cerebro? [Registration CLOSED]
