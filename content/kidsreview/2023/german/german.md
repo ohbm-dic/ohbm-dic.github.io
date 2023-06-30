@@ -38,6 +38,8 @@ dich hier für unsere virtuelle Session an: (place registration link here)
     </figure>
 {{< /gallery >}}   -->
 
+### Kerstin Alexandra Klotz, MD, Presenter.
+
 Unser Gehirn ist ein unglaublich spannendes Organ. Es ist zum Beispiel das einzige
 Organ das über sich selbst nachdenken kann! Zu verstehen wie unser Gehirn
 funktioniert, wie es sich weiterentwickelt wenn Kinder größer werden und was mit dem
