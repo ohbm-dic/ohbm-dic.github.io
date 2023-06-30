@@ -19,9 +19,7 @@ Il giorno del nostro incontro, avrete la possibilità di sperimentare di persona
   
 Alla fine, svolgeremo un voto segreto per vedere se l’articolo è stato accettato per la pubblicazione o meno.
 Intanto, ecco qualche parola su di noi.  
-
-Intanto, ecco qualche parola su di noi.
-  
+ 
 {{< gallery class="content-gallery" >}}
     <figure> 
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_rampinini/Rampinini.jpg" alt="Alessandra Rampinini, Presenter" width="250">
