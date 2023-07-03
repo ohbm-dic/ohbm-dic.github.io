@@ -29,16 +29,14 @@ dich hier für unsere virtuelle Session an: (place registration link here)
 
 ## Presenters and organizers
 
-<!-- {{< gallery class="content-gallery" >}}
+{{< gallery class="content-gallery" >}}
     <figure> 
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/german_julia/Klotz_Foto.tif" alt="Kerstin Alexandra Klotz, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/german_julia/Klotz_Foto.jpg" alt="Kerstin Alexandra Klotz, Presenter" width="250">
         <figcaption>
             <b>Kerstin Alexandra Klotz, MD</b>, Presenter.
         </figcaption>
     </figure>
-{{< /gallery >}}   -->
-
-### Kerstin Alexandra Klotz, MD, Presenter.
+{{< /gallery >}}
 
 Unser Gehirn ist ein unglaublich spannendes Organ. Es ist zum Beispiel das einzige
 Organ das über sich selbst nachdenken kann! Zu verstehen wie unser Gehirn
