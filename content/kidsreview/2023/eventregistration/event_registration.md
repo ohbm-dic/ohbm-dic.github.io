@@ -10,9 +10,9 @@ url: /kidsreview/2023/registration
 * No registration fee.
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
 
-* Registration OPEN: French I, French II, Traditional Chinese (Taiwan)
+* Registration OPEN: French I, French II, German I, Traditional Chinese (Taiwan)
 * Registration CLOSED: English, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Spanish
-* Registration IN PREPARATION: Bengali, German I, German II, Marathi
+* Registration IN PREPARATION: Bengali, German II, Marathi
 
 
 ## Bengali [In preparation]
