@@ -27,7 +27,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-
 ## French II (May 20, 2023): Les Commotions Cérébrales [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSf4mMMnMWliye-e4CsUuiCHZy0CrmVBJ6VpK3Mp8QVXGbGFzQ/viewform?usp=sf_link
 
-## German I [In preparation]
+## German I (July 6, 2023):Wie unsere Hirnzellen miteinander kommunzieren – von langsamen Wellen und schnellen Oszillationen [Registration OPEN]
 https://docs.google.com/forms/d/e/1FAIpQLSe77eU0Xo-8U38FO3OJ-8-fXtaJqrAJZuZL0Z6nz_ZnhOcgug/viewform?usp=sf_link
 
 ## German II [In preparation]
