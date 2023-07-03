@@ -24,7 +24,7 @@ https://docs.google.com/forms/d/e/1FAIpQLScI1W3TmdJNuFuFI5DPV09Il3TMYlHEHSyUXFBv
 ## French I: Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ? [Registration OPEN] 
 https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-EkYgyS46Ig/viewform?usp=sf_link
 
-## French II (May 20, 2023): Les Commotions Cérébrales [Registration OPEN]
+## French II (May 20, 2023): Les Commotions Cérébrales [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSf4mMMnMWliye-e4CsUuiCHZy0CrmVBJ6VpK3Mp8QVXGbGFzQ/viewform?usp=sf_link
 
 ## German I (July 6, 2023):Wie unsere Hirnzellen miteinander kommunzieren – von langsamen Wellen und schnellen Oszillationen [Registration OPEN]
