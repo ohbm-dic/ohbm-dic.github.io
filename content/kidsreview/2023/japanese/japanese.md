@@ -92,6 +92,6 @@ Moderator: Yuri Terasawa, PhD
 
 {{< youtube id="XfC6OhYCpMM" >}}
 
-### Presentation
+### Full Video
 
 {{< youtube id="kURdLu6fxnI" >}}
