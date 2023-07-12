@@ -91,3 +91,7 @@ Moderator: Yuri Terasawa, PhD
 ### Official Trailer
 
 {{< youtube id="XfC6OhYCpMM" >}}
+
+### Full Video
+
+{{< youtube id="kURdLu6fxnI" >}}

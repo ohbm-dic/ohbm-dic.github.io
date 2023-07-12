@@ -68,13 +68,8 @@ Mrinmayi's main interest is in understanding how we process, store and retrieve 
 
 Durjoy is a neurologist trained in Kolkata, India. Currently he is pursuing a Clinical Research Fellowship in Cognitive and Behavioral Neurology at the Baycre for Research and Education/ Rotman Research Institute affiliated with the University of Toronto. His research interests include Alzheimer's Disease biomarkers and the application of neuromodulation techniques in dementia. He recently received the Sandra Black Award for Clinical Dementia Research at the Temerty Faculty of Medicine, University of Toronto. 
 
-<!-- ### Official Trailer
-
-* This session are in preparation and the corresponding webpages are under construction.
-
-<!-- #### Spanish subtitles
-{{< youtube id="WanxfnNWJwg" >}}
-   -->
+### Official Trailer
+{{< youtube id="M-RAp2_QqtU" >}}
 
 <!-- ## The presentation -->
 
