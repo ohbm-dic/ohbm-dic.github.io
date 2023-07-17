@@ -73,12 +73,8 @@ As a psychology major student, I have developed a keen interest in the fields of
 ### Official Trailer
 
 {{< youtube id="-Zkox7wzCRA" >}}
+  
+  
+### Full Video
 
-
-<!-- ## Message from organizers
-Message here
--->
-
-<!-- Youtube link, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}
--->
+{{< youtube id="kfZcQboJUOE" >}}
