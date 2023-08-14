@@ -84,4 +84,6 @@ als Kinder-und Jugendmedienschutzbeauftragte und berate in dieser Funktion
 SchülerInnen und Eltern beim Umgang und Einsatz der digitalen Medien. Ich werde
 unsere Session als Moderatorin unterstützen.
 
-**[Registration here!](https://ohbm-dic.github.io/kidsreview/2023/registration/)**
+### Full Video
+
+{{< youtube id="UizUils36u8" >}}
