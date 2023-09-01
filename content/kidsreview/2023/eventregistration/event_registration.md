@@ -10,9 +10,9 @@ url: /kidsreview/2023/registration
 * No registration fee.
 * Event information can be found in : https://ohbm-dic.github.io/kidsreview/2023/
 
-* Registration OPEN: French I, French II, German I, Traditional Chinese (Taiwan)
-* Registration CLOSED: English, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Spanish
-* Registration IN PREPARATION: Bengali, German II, Marathi
+* Registration OPEN: None
+* Registration CLOSED: English, French I, French II, German I, German II, Greek, Italian I, Italian II, Italian III, Japanese, Korean, Mandarin I, Mandarin II, Portuguese, Spanish, Traditional Chinese (Taiwan)
+* Registration IN PREPARATION: Bengali, Marathi
 
 
 ## Bengali [In preparation]
@@ -21,16 +21,16 @@ https://docs.google.com/forms/d/e/1FAIpQLSeTPJIjjuPtcWM7Z9CTDNADjKeF35I4BAUNPrvG
 ## English/Ghana (May 26, 2023) [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScI1W3TmdJNuFuFI5DPV09Il3TMYlHEHSyUXFBvBl8VBy5jlg/viewform?usp=sf_link
 
-## French I: Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ? [Registration OPEN] 
+## French I: Est-ce que l'antioxydant glutathion varie avec l'âge, et comment ? [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLScpWBK6spXDsaLMYRRvJN2hj_288Maxq0RjkU_-EkYgyS46Ig/viewform?usp=sf_link
 
 ## French II (May 20, 2023): Les Commotions Cérébrales [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSf4mMMnMWliye-e4CsUuiCHZy0CrmVBJ6VpK3Mp8QVXGbGFzQ/viewform?usp=sf_link
 
-## German I (July 6, 2023):Wie unsere Hirnzellen miteinander kommunzieren – von langsamen Wellen und schnellen Oszillationen [Registration OPEN]
+## German I (July 6, 2023):Wie unsere Hirnzellen miteinander kommunzieren – von langsamen Wellen und schnellen Oszillationen [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSe77eU0Xo-8U38FO3OJ-8-fXtaJqrAJZuZL0Z6nz_ZnhOcgug/viewform?usp=sf_link
 
-## German II [In preparation]
+## German II [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSccDPG5ZUykufOrNt3mgj4iFEZMGEI3TZkgVkLDtY-g-EXraQ/viewform?usp=sf_link
 
 ## Greek (May 23, 2023): Φαντάσματα στο υπνοδωμάτιο: βλέποντας πράγματα που δεν είναι εκεί [Registration CLOSED]
@@ -66,7 +66,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdouldf9kq1dL8k99Wnt7n0qJH899z7TQ4h6KDM
 ## Spanish (April 26 and May 5, 2023): ¿Cómo la comida afecta a nuestro cerebro? [Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSeK3f8_zIYpk8f9F8V7qq9MmONzrcIDTCcpajYYxg1GiqkYDQ/viewform?usp=sf_link
 
-## Traditional Chinese (Taiwan) (June 10, 2023): 跟著我們探索思覺失調症，解密變幻莫測的大腦活動！[Registration OPEN]
+## Traditional Chinese (Taiwan) (June 10, 2023): 跟著我們探索思覺失調症，解密變幻莫測的大腦活動！[Registration CLOSED]
 https://docs.google.com/forms/d/e/1FAIpQLSeMTtsnAfwpCRxFaFhRWl9R586DilSwNyxWfCmqiKLL1kXm4g/viewform?usp=sf_link
 
 
