@@ -10,6 +10,34 @@ weight: 50
 aliases: [/about_us/pastmembers/]
 ---------------------------------
 
+
+
+
+|**2022-2023**                                 |                         	|
+|----------------------------------------------|---------------------------|
+| Lucina Uddin, *United States*       	       | Chair                 	|
+| Kangjoo Lee, *United States*                 | Chair-elect, OSSIG Liaison |
+| Rosanna Olsen, *Canada*                      | Past Chair             |
+| Athina Tzovara, *Switzerland*             	 | Ad Hoc Member          |
+| Julio Alejandro Yanes, *United States*       | Ad Hoc Member         	|
+| Laura Marzetti, *Italy*              	       | Ad Hoc Member         	|
+| Pradeep Reddy Raamana, *United States*       | Ad Hoc Member         	|
+| Tan Davynn, *Sri Lanka*                    	 | Ad Hoc Member         	|
+| Tilak Ratnanather, *United States*           | Ad Hoc Member         	|
+| Alexander Barnett, *Canada*                	 | Ad Hoc Member         	|
+| Maryam Ziaei, *Norway (Australia)*           | Ad Hoc Member         	|
+| Julia Kam, *Canada*                  	       | Ad Hoc Member         	|
+| Sharna Jamader, *Australia*          	       | Ad Hoc Member         	|
+| Fernanda Hansen Pacheco de Moraes, *Brazil*  | Ad Hoc Member         	|
+| Christienne Gonzales Damatac, *Netherlands*  | Ad Hoc Member         	|
+| Jessica Damoiseaux, *United States*          | Council Liaison        |
+| Beverly Setzer, *United States*              | SPSIG Liaison          |
+| Lena Oestreich, *Australia*                  | Brain Art SIG Liaison  |
+| Eduardo Garza-Villarreal, *Mexico*           | ComCom Liaison         |
+
+
+
+
 |**2021-2022**                          |                         	|
 |---------------------------------------|---------------------------|
 | Rosanna Olsen, *Canada*               | Chair                 	|
