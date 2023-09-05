@@ -22,7 +22,7 @@ aliases: [/about_us/pastmembers/]
 | Julio Alejandro Yanes, *United States*       | Ad Hoc Member         	|
 | Laura Marzetti, *Italy*              	       | Ad Hoc Member         	|
 | Pradeep Reddy Raamana, *United States*       | Ad Hoc Member         	|
-| Tan Davynn, *Sri Lanka*                    	 | Ad Hoc Member         	|
+| Tan Davynn, *Singapore*                    	 | Ad Hoc Member         	|
 | Tilak Ratnanather, *United States*           | Ad Hoc Member         	|
 | Alexander Barnett, *Canada*                	 | Ad Hoc Member         	|
 | Maryam Ziaei, *Norway (Australia)*           | Ad Hoc Member         	|
