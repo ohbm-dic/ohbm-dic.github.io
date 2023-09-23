@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/OHBM2024/OHBM2024_logo.jpeg"
+  image: "images/OHBM2024/OHBM2024_logo_main_banner.png"
   contents: "**OHBM DIC:** Brain Mappers of Tomorrow 2024 Event"
   button:
     contents: "Registration Closed"
