@@ -1,5 +1,5 @@
 ---
-title: Kids Review
+title: Brain Mappers of Tomorrow
 menu: main
 weight: 30
 ---
