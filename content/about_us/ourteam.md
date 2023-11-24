@@ -10,25 +10,30 @@ weight: 50
 aliases: [/about_us/ourteam/]
 ---
 
-### 2022-2023 Diversity and Inclusivity Committee
+### 2023-2024 Diversity and Inclusivity Committee
 
-- Lucina Uddin, United States - Chair  
-- Kangjoo Lee, United States - Chair-elect and Open Science SIG Liaison  
-- Rosanna Olsen, Canada - Past Chair  
-- Athina Tzovara, Switzerland - Ad-Hoc Member  
-- Julio Alejandro Yanes, United States - Ad-Hoc Member  
-- Laura Marzetti, Italy - Ad-Hoc Member  
-- Pradeep Reddy Raamana, United States - Ad-Hoc Member  
-- Tan Davynn, Singapore - Ad-Hoc Member  
-- Tilak Ratnanather, United States - Ad-Hoc Member  
-- Alexander Barnett, Canada - Ad-Hoc Member  
-- Maryam Ziaei, Norway (Australia) - Ad-Hoc Member  
-- Julia Kam, Canada - Ad-Hoc Member  
-- Sharna Jamader, Australia - Ad-Hoc Member  
-- Isaac Khobo, South Africa - Ad-Hoc Member  
-- Fernanda Hansen Pacheco de Moraes, Brazil - Ad-Hoc Member  
-- Christienne Gonzales Damatac, Netherlands - Ad-Hoc Member  
-- Jessica Damoiseaux, United States - Council Liaison  
-- Beverly Setzer, United States - Student and Postdoc SIG Liaison  
-- Lena Oestreich Australia - Brain Art SIG Liaison  
-- Eduardo Garza-Villarreal, Mexico - Communications Committee Liaison  
+- Kangjoo Lee, United States - Chair
+- Sharna Jamadar, Australia - Chair-Elect
+- Lucina Q. Uddin, United States - Past-Chair
+- Athina Tzovara, Switzerland - Subcommittee Chair - Gender
+- Tan Davynn, Singapore - Subcommittee Chair - Language and Culture
+- Tilak Ratnanather, United States - Subcommittee Chair - Accessibility
+- Alexander Barnett, Canada - Subcommittee Chair - Race and Ethnicity
+- Maryam Ziaei, Norway (Australia) - Subcommittee Chair - Career Level and Development
+- Christienne Gonzales Damatac, Netherlands - Subcommittee Chair - Socioeconomic Status
+- Lena Oestreich, Australia - Subcommittee Chair - Mental Illness and Neurodiversity, BrainArt SIG Liaison
+- Julia Kam, Canada - FYM Officer
+- Fernanda Hansen Pacheco de Moraes, Brazil - Event Communication Officer
+- Joana Cabral, Portugal - Graphic Design Officer
+- Jana Totzek, Canada - Social Media Officer
+- Leyla Loued-Khenissi, Switzerland - Ad-hoc Member
+- Alyssa Pozzobon, Canada - Ad-hoc Member
+- Hiromasa Takemura, Japan - Council Liaison
+- Caroline Ahn, United States - Student and Postdoc SIG Liaison
+- Elisa Guma, United States - Communications Committee Liaison
+- Anibal Solon, United States - Open Science SIG Liaison
+- Linda Mah, Canada - Women PI SIG Liaison
+- *Rosanna Olsen, Canada - Guest, 2021-2022 Chair
+- *AmanPreet Badhwar, Canada - Guest, 2020-2021 Chair
+
+*Guests are invited for a 1-year term when they are involved in the projects tied to the Committee. Guests are not eligible to participate in elections held by the Committee members. 
