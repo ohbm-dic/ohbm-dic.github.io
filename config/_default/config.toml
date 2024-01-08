@@ -12,9 +12,9 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
     show_post_dates = false
 
     [[params.social]]
-        title = "Twitter"
+        title = "DIC Twitter"
         icon = "fa-twitter"
-        url = "https://twitter.com/ohbm?lang=en"
+        url = "https://twitter.com/OHBM_DIC"
     [[params.social]]
         title = "Facebook"
         icon = "fa-facebook-f"
