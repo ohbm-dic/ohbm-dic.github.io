@@ -3,8 +3,8 @@ banner:
   image: "images/OHBM2024/OHBM2024_logo_main_banner.png"
   contents: "**OHBM DIC:** Brain Mappers of Tomorrow 2024 Event"
   button:
-    contents: "Registration OPEN (Korean Session)"
-    url: "https://forms.gle/vFUQqvAJVx65RUmx5"
+    contents: "Registration OPEN (All Sessions)"
+    url: /kidsreview/2024/
 items:
   - type: highlights
     items_per_row: 3
