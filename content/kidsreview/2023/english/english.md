@@ -71,6 +71,7 @@ Exposure to knowledge is the key to motivation, which leads to growth. Over the 
 
 ## Gallery
 
+### Gana session
 
 {{< gallery class="content-gallery" >}} 
     <figure> 
@@ -82,17 +83,24 @@ Exposure to knowledge is the key to motivation, which leads to growth. Over the 
     <figure> 
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA2.jpg" alt="Photo from the presentation" width="531">
     </figure>
+        <figcaption>
+            <b>Pictures from the presentation.</b>
+        </figcaption>
 {{< /gallery >}}
+
+### Toronto session
 
 {{< gallery class="content-gallery" >}} 
     <figure> 
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA3.jpg" alt="Photo from the presentation" height="350">
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA4.jpg" alt="Photo from the presentation" height="350">
         <figcaption>
-            <b>Pictures from the presentation (From: https://x.com/Mayboaten/status/1663247339505557505?s=20).</b.>
+            <b>Pictures from the presentation.</b>
         </figcaption>
     </figure>
 {{< /gallery >}}
+
+From [Mary Boating](https://x.com/Mayboaten/status/1663247339505557505?s=20).
 
 
 
