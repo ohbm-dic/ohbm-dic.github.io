@@ -69,6 +69,33 @@ I am a Senior Scientist at the Rotman Research Institute in Toronto, Canada. I s
   
 Exposure to knowledge is the key to motivation, which leads to growth. Over the past few years, I have been working with students in Ghana, West Africa to help transform their learning experience. I am the Senior Agreements Specialist at Baycrest Centre for Geriatric Care and also the Founder for OnPoint Education, a program which focuses on transforming the learning environment of learners with opportunities such as renovating of schools, mentorship, career development and community services. I have my Bachelors degree in  Chemistry and Masters in Health Service Administration. I am very passionate about exposing students to various professions and academic topics as it enables them to make informed decisions about their future academic, professional and personal development.
 
+## Gallery
+
+
+{{< gallery class="content-gallery" >}} 
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA.jpg" alt="Photo from the presentation" width="531">
+    </figure>
+{{< /gallery >}}
+
+{{< gallery class="content-gallery" >}} 
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA2.jpg" alt="Photo from the presentation" width="531">
+    </figure>
+{{< /gallery >}}
+
+{{< gallery class="content-gallery" >}} 
+    <figure> 
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA3.jpg" alt="Photo from the presentation" height="350">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/english/BMT2023GANA4.jpg" alt="Photo from the presentation" height="350">
+        <figcaption>
+            <b>Pictures from the presentation (From: https://x.com/Mayboaten/status/1663247339505557505?s=20).</b.>
+        </figcaption>
+    </figure>
+{{< /gallery >}}
+
+
+
 <!-- ### Official Trailer -->
 
 <!-- {{< youtube id="dilEN1MzXAU" >}} -->
