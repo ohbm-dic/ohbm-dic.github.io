@@ -74,7 +74,9 @@ And if we need memory to learn a new language, how hard is it to learn a new one
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_isotta/Fv2DznfXsAERTCS.jpg" alt="Photo from the presentation" width="350">
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2023/kidsreview_2023/italian_isotta/Fv2ENXsWIAEV1Ex.jpg" alt="Photo from the presentation" width="350">
         <figcaption>
-            <b>Pictures from the presentation (From: https://twitter.com/irene_balboni/status/1656627725308657664?s=20).
+            <b>Pictures from the presentation.</b>
         </figcaption>
     </figure>
 {{< /gallery >}}
+
+From [Irene Balboni](https://twitter.com/irene_balboni/status/1656627725308657664?s=20).
