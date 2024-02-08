@@ -10,6 +10,7 @@ aliases: /kidsreview/2023/marathi_session
 url: /kidsreview/2023/marathi_session
 ---
 
+### Update: Regrettably, the scheduled event had to be canceled as the speaker was unavailable for the planned date and time.
 ## Talk 1
 ## आपला मेंदू आणि त्यात साठवलेल्या स्मृती
 
