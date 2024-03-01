@@ -10,7 +10,7 @@ weight: 50
 aliases: [/about_us/ourteam/]
 ---
 
-### 2023-2024 Diversity and Inclusivity Committee
+### 2023-2024 Diversity and Inclusivity Committee (DIC)
 
 - Kangjoo Lee, United States - Chair
 - Sharna Jamadar, Australia - Chair-Elect
