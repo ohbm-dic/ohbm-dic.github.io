@@ -24,9 +24,9 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
         icon = "fa-github"
         url = "https://github.com/ohbmdic"
     [[params.social]]
-        title = "LinkedIn"
+        title = "DIC LinkedIn"
         icon = "fa-linkedin-in"
-        url = "https://www.linkedin.com/company/organization-for-human-brain-mapping/about/"
+        url = "https://www.linkedin.com/company/ohbmdic"
     [[params.social]]
         title = "YouTube"
         icon = "fa-youtube"
