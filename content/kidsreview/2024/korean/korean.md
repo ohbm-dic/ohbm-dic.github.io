@@ -57,3 +57,10 @@ While smartphone offer convenience and entertainment, excessive usage can weaken
     </figure>
 {{< /gallery >}}
 
+### Session information
+
+This session will happen live during the 2024 OHBM Annual Meeting in Seoul, Korea. Register here for the meeting: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229
+
+**Wednesday, June 26, 2024: 12:00 PM - 1:00 PM**  
+**COEX**  
+**Room: Grand Ballroom 101-102**
