@@ -3,7 +3,7 @@ title: "Kids Review: French 2023 - Les commotions cérébrales!"
 description: "The French edition of our kids review"
 weight: 50
 image: images/OHBM2023/thumbnails/French2_session_logo.png
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/french2/]

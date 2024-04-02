@@ -4,7 +4,7 @@ title: "Kids Review: Mandarin 2023 - 绘制从儿童到老年大脑结构的变�
 menu: Kids Review
 weight: 50
 image: images/OHBM2023/thumbnails/Mandarin1_session_logo.png
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
 aliases: [/kidsreview/2023/mandarin/]

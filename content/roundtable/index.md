@@ -4,7 +4,7 @@ description: "The DIC annual Roundtable"
 menu: Symposia
 weight: 50
 image: images/OHBM2023/OHBM_2023_logo_horiz_2.jpg
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # sidebar_left: sidebar1
 aliases: [/roundtable/2023/]
 ---
