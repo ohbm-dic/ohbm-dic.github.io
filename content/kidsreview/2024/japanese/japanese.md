@@ -46,7 +46,7 @@ Please note that this year's event will be held onsite and will not be available
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/japanese/Yasuyo_Minagawa.jpg" alt="Yasuyo Minagawa, Presenter (講演者：皆川　泰代)" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/japanese/Yasuyo_Minagawa.png" alt="Yasuyo Minagawa, Presenter (講演者：皆川　泰代)" width="250">
         <figcaption>
             <b>Yasuyo Minagawa, PhD </b>, Presenter (講演者).
             <span style="font-size: 16px">
@@ -63,7 +63,7 @@ Please note that this year's event will be held onsite and will not be available
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/japanese/Hiromasa_Takemura.png" alt="Hiromasa Takemura, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/japanese/Hiromasa_Takemura.jpg" alt="Hiromasa Takemura, Moderator" width="250">
         <figcaption>
             <b>Hiromasa Takemura, PhD </b>, Moderator (モデレーター).
             <span style="font-size: 16px">
