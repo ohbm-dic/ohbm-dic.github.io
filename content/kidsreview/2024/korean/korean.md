@@ -7,8 +7,8 @@ weight: 50
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2024
-aliases: /kidsreview/2024/korean_session
-url: /kidsreview/2024/korean_session
+aliases: /kidsreview/2024/korean
+url: /kidsreview/2024/korean
 # summary: "More information soon!"
 ---
 
