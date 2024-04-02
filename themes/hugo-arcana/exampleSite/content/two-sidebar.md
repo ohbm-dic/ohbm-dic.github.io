@@ -4,7 +4,7 @@ description: "Yup. Two sidebars at the same time."
 menu: main
 weight: 70
 image: images/banner.jpg
-image_alt: "Hello!"
+# image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar1
 sidebar_right: sidebar2

@@ -4,7 +4,7 @@ description: "Sidebar on the right, content on the left."
 menu: main
 weight: 60
 image: images/banner.jpg
-image_alt: "Hello!"
+# image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_right: sidebar1
 ---

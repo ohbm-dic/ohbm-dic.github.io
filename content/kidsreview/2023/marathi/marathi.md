@@ -3,7 +3,7 @@ title: "Kids Review: Marathi and English 2023 - Memories in the Brain: How we Re
 description: "The Marathi and English edition of our kids review"
 weight: 50
 image: images/OHBM2023/thumbnails/Marathi_session_logo.png
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
 aliases: /kidsreview/2023/marathi_session

@@ -4,7 +4,7 @@ description: "The Portguese (Português) edition of our kids review"
 menu: Kids Review
 weight: 50
 image: images/OHBM2023/thumbnails/Portuguese_session_logo.png
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2023
 aliases: /kidsreview/2023/portuguese_session

@@ -4,7 +4,7 @@ description: "Past Members"
 menu: About Us
 weight: 50
 # image: images/banner.jpg
-# image_alt: "Hello!"
+# # image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 # sidebar_left: sidebar1
 aliases: [/about_us/pastmembers/]

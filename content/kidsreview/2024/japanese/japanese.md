@@ -4,7 +4,7 @@ title: "Kids Review: Japanese 2024 - 知りたい？脳の中の高速道路"
 menu: Kids Review
 weight: 50
 # image: images/OHBM2024/thumbnails/Japanese_session_logo.png
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2024
 aliases: /kidsreview/2024/japanese
