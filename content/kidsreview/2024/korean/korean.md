@@ -12,7 +12,7 @@ url: /kidsreview/2024/korean_session
 # summary: "More information soon!"
 ---
 
-## 연결된 우리, 보호되어야 하는 우리: 디지털 시대에서의 건강한 뇌 발달을 위해
+### 연결된 우리, 보호되어야 하는 우리: 디지털 시대에서의 건강한 뇌 발달을 위해
 
 여러분은 항상 작은 스마트폰을 가지고 어디에서든 친구들과 이야기를 나누고 게임을 즐기며 재미있는 영상을 시청할 수 있어요. 클릭 몇 번만으로도 우리는 언제 어디서나 친구, 사회, 세계와 연결될 수 있죠. 그러나 스마트폰을 너무 많이 사용하면 우리 마음과 머릿속에서는 어떤 일이 일어날까요?
 친구의 표정을 잘 읽는 것은 친구관계에서 아주 중요합니다. 하지만 스마트폰을 너무 많이 사용하면 또래 친구들보다 친구나 가족들의 얼굴표정에서 감정의 변화를 잘 알아차리기 어려울 수도 있어요. 얼굴표정을 통해 다른 사람의 감정을 알아차리는 동안 뇌 활동이 다르게 나타나기 때문입니다.
@@ -33,7 +33,7 @@ url: /kidsreview/2024/korean_session
     </figure>
 {{< /gallery >}}
 
-## Connected but Protected: Guiding Healthy Brain Development in the Digital Age
+### Connected but Protected: Guiding Healthy Brain Development in the Digital Age
 
 You always have a handy smartphone on you, allowing you to chat with friends, play games, and watch YouTube videos wherever you are. With just a few taps, we can stay connected with friends and the world at large, regardless of the time or place. However, what happens to our minds and brains when we use smartphones too much?
 Being able to accurately interpret your friends’ facial expressions is crucial. However, excessive smartphone users may find it harder to notice changes in emotions on the faces of friends or family members compared to their peers. This is because their brain activity differs when perceiving emotions through facial expression.
@@ -41,7 +41,7 @@ Furthermore, heavy smartphone users may experience difficulty concentrating on t
 Lastly, the brains of teenagers who frequently use smartphones show differences even during a resting state. The connection between brain areas responsible for emotions like pleasure and fear, and those controlling thoughts and behaviors, is weakened. On the other hand, the connectivity in the brain areas seeking rewards is strengthened.
 While smartphone offer convenience and entertainment, excessive usage can weaken relationships with friends, attention, and emotional control. Especially since the brains of adolescents are not fully developed yet, excessive smartphone use can easily affect aspects of how teenagers feel, behave, and control themselves. Therefore, to foster healthy brain development, it’s important to protect ourselves from excessive smartphone use and wisely cultivate ourselves in the digital age.
 
-### Presenters and organizers
+#### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure> 
