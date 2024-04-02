@@ -7,8 +7,8 @@ weight: 50
 image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2024
-aliases: /kidsreview/2024/japanese_session
-url: /kidsreview/2024/japanese_session
+aliases: /kidsreview/2024/japanese
+url: /kidsreview/2024/japanese
 # summary: "このイベントでは、８歳から14歳ぐらいの子供たちを対象に、脳（のう）の研究についての紹介を研究者が日本語で行います。今年のイベントでは、MRI（えむあーるあい）という機械を使った脳の研究の紹介を竹村　浩昌（たけむら　ひろまさ）先生が行います。脳の中には、遠く離れた場所どうしをつないでいる高速道路のような線維（せんい）の束があります。今回、MRIを使って生きているヒトの脳から線維の束を見る方法やこの高速道路がどんなふうに使われているのかを皆さんにご紹介します！竹村先生からのお話の後に、皆さんからの質問コーナーも用意しています。脳の中の高速道路のはたらきや、脳について知りたいな、と思っていることについて、一緒にお話しましょう！"
 ---
 
