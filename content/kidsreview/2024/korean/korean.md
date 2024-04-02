@@ -4,7 +4,7 @@ description: "The Korean (한국어) edition of our kids review"
 menu: Kids Review
 weight: 50
 # image: images/OHBM2023/thumbnails/Korean_session_logo.png
-image_alt: "Hello!"
+# image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2024
 aliases: /kidsreview/2024/korean
