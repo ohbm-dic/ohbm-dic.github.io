@@ -18,14 +18,14 @@ url: /kidsreview/2024/japanese
 なお、今年はオンサイトでの開催を予定しており、リモートでの視聴はできませんので、ご了承のほどお願いします。会場の都合上定員がありますので、定員に達し次第、受付を終了させていただきます。
 
 
-**日時:**  2024年6月1日（土） 14:00〜15:00ごろ 
+**日時:**  2024年6月1日（土） 14:00〜15:00ごろ   
 **場所:** 開智日本橋学園中学・高等学校　地下１階セミナールーム
-（住所：東京都中央区日本橋馬喰町２−７−６）
-**参加定員:** 35名
-**参加対象者:** １１歳から１８歳で脳の研究に興味のある方および保護者や教育関係者の方
-**参加費:** 無料
-**参加登録方法:** [**Insert URL**]よりオンライン登録
-**参加申込締め切り:** 2024年5月25日（土）。（ただし定員に達した場合は、予定より早く参加登録を終了する可能性あり）
+（住所：東京都中央区日本橋馬喰町２−７−６）  
+**参加定員:** 35名  
+**参加対象者:** １１歳から１８歳で脳の研究に興味のある方および保護者や教育関係者の方  
+**参加費:** 無料  
+**参加登録方法:** 参加登録フォームの公開までお待ちください   <!--  [**Insert URL**]   -->  
+**参加申込締め切り:** 2024年5月25日（土）。（ただし定員に達した場合は、予定より早く参加登録を終了する可能性あり）    
 
 ### How do baby brains work?
 
@@ -33,13 +33,13 @@ The Organization for Human Brain Mapping (OHBM) Diversity and Inclusivity Commit
 At this event, researchers will give a presentation in Japanese on brain research for children aged around 11 to 18 years old. Are you curious about how baby brains develop? This year, Dr. Yasuyo Minagawa will introduce brain research on baby’s brains. After Dr. Minagawa’s presentation, there will be a question-and-answer session for everyone. Let’s talk together about how baby brains develop and anything else you might be curious about regarding the brain!
 Please note that this year's event will be held onsite and will not be available for remote viewing. Due to the limited availability of the venue, registration will be closed when the number of participants reaches the maximum capacity.
 
-**Date:** Saturday, June 1, 2024,  14:00-15:00 
+**Date:** Saturday, June 1, 2024,  14:00-15:00  
 **Place:** Seminar Room on the 1st basement floor of Kaichi Nihonbashi Gakuen Junior & Senior High School 
-(Address: 2-7-6 Nihonbashi Bakurocho, Chuo-ku, Tokyo) Capacity: 35 participants 
-**Eligibility:** People with 11-18 year olds interested in brain research and their parents or educators are eligible to register this event.
-**egistration Fee:** Free
-**How to register:** Registration form soon. <!--  Register online at [**Insert URL**]. -->
-**Registration deadline:** Saturday, May 25, 2024. (However, registration may be closed earlier than planned if capacity is reached.) 
+(Address: 2-7-6 Nihonbashi Bakurocho, Chuo-ku, Tokyo) Capacity: 35 participants  
+**Eligibility:** People with 11-18 year olds interested in brain research and their parents or educators are eligible to register this event.  
+**Registration Fee:** Free  
+**How to register:** Registration form soon. <!--  Register online at [**Insert URL**]. -->   
+**Registration deadline:** Saturday, May 25, 2024. (However, registration may be closed earlier than planned if capacity is reached.)   
 
 ### Presenters and organizers
 
