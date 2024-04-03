@@ -49,7 +49,7 @@ While smartphone offer convenience and entertainment, excessive usage can weaken
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/korean/Jihye_Choi.jpg" alt="Jihye Choi, Moderator" width="250">
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/korean/Min_Kyung_Hu.png" alt="Min Kyung Hu, Moderator" width="250">
         <figcaption>
-            <b>Ji-Won Chun</b><sup>1</sup>, Presenter and <b>Dr. Jihye Choi</b><sup>2</sup> and <b>Dr. Min Kyung Hu</b><sup>3</sup> as Moderators.
+            <b>Ji-Won Chun</b><sup>1</sup>, Presenter and <b>Jihye Choi</b><sup>2</sup> and <b>Min Kyung Hu</b><sup>3</sup> as Moderators.
             <span style="font-size: 14px">
                 <p><sup>1</sup>Research Assistant Professor, Department of Medical Informatics, The Catholic University of Korea College of Medicine, Seoul, Republic of Korea; <sup>2</sup>Researcher, Department of Radiology, Severance Hospital, Yonsei University College of Medicine, Seoul, Republic of Korea <sup>3</sup>Researcher, Department of Psychiatry, Seoul St. Mary’s Hospital, The Catholic University of Korea College of Medicine, Seoul, Republic of Korea.</p>
             </span>
