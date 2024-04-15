@@ -7,8 +7,8 @@ weight: 51
 # image_alt: "Hello!"
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2024
-aliases: [/kidsreview/2024/italian/]
-url: /kidsreview/2024/italian
+aliases: [/kidsreview/2024/italian_session/]
+url: /kidsreview/2024/italian_session
 
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
