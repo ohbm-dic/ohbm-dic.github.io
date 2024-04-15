@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: Italian 2024 - Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
+title: "Brain Mappers of Tomorrow: Italian 2024 - Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
 # description: "Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
 menu: Kids Review
 weight: 51

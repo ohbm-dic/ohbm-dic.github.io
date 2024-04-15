@@ -1,6 +1,6 @@
 ---
-title: "Kids Review: Korean (한국어) 2024"
-description: "The Korean (한국어) edition of our kids review"
+title: "Brain Mappers of Tomorrow Live: Korean (한국어) 2024"
+description: "The Korean (한국어) live edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 50
 # image: images/OHBM2023/thumbnails/Korean_session_logo.png

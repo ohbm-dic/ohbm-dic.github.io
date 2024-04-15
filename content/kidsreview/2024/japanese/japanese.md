@@ -1,5 +1,5 @@
 ---
-title: "Kids Review: Japanese 2024 - 知りたい？脳の中の高速道路"
+title: "Brain Mappers of Tomorrow: Japanese 2024 - 知りたい？脳の中の高速道路"
 # description: "The Japanese edition of our kids review"
 menu: Kids Review
 weight: 50
