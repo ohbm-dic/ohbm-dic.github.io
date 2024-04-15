@@ -36,7 +36,7 @@ If you want to know more, you can watch the video of our talk: Learning programm
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/kidsreview_2024/portuguese/caroline_jordao_presenter.jpeg" alt="Caroline Jordão, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/portuguese/caroline_jordao_presenter.jpeg" alt="Caroline Jordão, Presenter" width="250">
         <figcaption>
             <b>Caroline Jordão </b>, Presenter.
         </figcaption>
@@ -48,7 +48,7 @@ Caroline Jordão is a PhD student in Biomedical Engineering at the Faculty of Sc
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/kidsreview_2024/portuguese/joao_castelhano_moderator.jpeg" alt="João Castelhano, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/portuguese/joao_castelhano_moderator.jpeg" alt="João Castelhano, Moderator" width="250">
         <figcaption>
             <b>João Castelhano </b>, Moderator.
         </figcaption>
@@ -60,7 +60,7 @@ João Castelhano is a researcher in multimodal medical and molecular imaging in 
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/kidsreview_2024/portuguese/ines_bernardino_moderator.jpeg" alt="Inês Bernardino, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/portuguese/ines_bernardino_moderator.jpeg" alt="Inês Bernardino, Moderator" width="250">
         <figcaption>
             <b>Inês Bernardino </b>, Moderator.
         </figcaption>
