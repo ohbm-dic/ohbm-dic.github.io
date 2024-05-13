@@ -24,7 +24,7 @@ url: /kidsreview/2024/japanese_session
 **参加定員:** 35名  
 **参加対象者:** １１歳から１８歳で脳の研究に興味のある方および保護者や教育関係者の方  
 **参加費:** 無料  
-**参加登録方法:** 参加登録フォームの公開までお待ちください   <!--  [**Insert URL**]   -->  
+**参加登録方法:** https://docs.google.com/forms/d/e/1FAIpQLSei-pJfuV8kkxbBMkhyrpZtUXEKZf7U1py7jwb-2eTAtYd1jw/viewfor
 **参加申込締め切り:** 2024年5月25日（土）。（ただし定員に達した場合は、予定より早く参加登録を終了する可能性あり）    
 
 ### How do baby brains work?
@@ -38,7 +38,7 @@ Please note that this year's event will be held onsite and will not be available
 (Address: 2-7-6 Nihonbashi Bakurocho, Chuo-ku, Tokyo) Capacity: 35 participants  
 **Eligibility:** People with 11-18 year olds interested in brain research and their parents or educators are eligible to register this event.  
 **Registration Fee:** Free  
-**How to register:** Registration form soon. <!--  Register online at [**Insert URL**]. -->   
+**How to register:** https://docs.google.com/forms/d/e/1FAIpQLSei-pJfuV8kkxbBMkhyrpZtUXEKZf7U1py7jwb-2eTAtYd1jw/viewform
 **Registration deadline:** Saturday, May 25, 2024. (However, registration may be closed earlier than planned if capacity is reached.)   
 
 ### Presenters and organizers
