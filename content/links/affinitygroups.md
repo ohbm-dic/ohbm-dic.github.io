@@ -2,7 +2,7 @@
 title: "Affinity Groups"
 menu: Links
 weight: 50
-image: images/na.png
+image: images/OHBM2024/equalityequitycurbgraphic2022.jpg
 ---
 
 

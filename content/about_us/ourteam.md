@@ -24,7 +24,6 @@ aliases: [/about_us/ourteam/]
 - Lena Oestreich, Australia - Subcommittee Chair - Mental Illness and Neurodiversity, BrainArt SIG Liaison
 - Julia Kam, Canada - FYM Officer
 - Fernanda Hansen Pacheco de Moraes, Brazil - Event Communication Officer
-- Joana Cabral, Portugal - Graphic Design Officer
 - Jana Totzek, Canada - Social Media Officer
 - Leyla Loued-Khenissi, Switzerland - Ad-hoc Member
 - Alyssa Pozzobon, Canada - Ad-hoc Member
