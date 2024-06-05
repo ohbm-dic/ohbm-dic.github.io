@@ -1,6 +1,6 @@
 ---
 title: "Brain Mappers of Tomorrow: Portuguese 2024 - A aprendizagem da programação e o seu impacto no neurodesenvolvimento"
-# description: "Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
+description: "The Portuguese edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
 # image: images/OHBM2024/thumbnails/Italian2_session_logo.png

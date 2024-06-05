@@ -1,6 +1,6 @@
 ---
 title: "Brain Mappers of Tomorrow: Italian 2024 - Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
-# description: "Cos’è la memoria? E come la usiamo per imparare una nuova lingua"
+description: "The Italian edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
 # image: images/OHBM2024/thumbnails/Italian2_session_logo.png
