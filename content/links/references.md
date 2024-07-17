@@ -12,3 +12,5 @@ image: images/OHBM2024/equalityequitycurbgraphic2022.jpg
 3. Joyce, J. A., Masina, S., Michalik, L., Pot, C., Sempoux, C., & Amati, F. (2024). Closing the scissor-shaped curve: Strategies to promote gender equality in academia. Cell, 187(6), 1335-1342. <p style="color:blue;">https://doi.org/10.1016/j.cell.2024.01.050 </p>
 
 4. Gauld, C., Jurek, L., & Fourneret, P. (2024). Diversity, epistemic injustice and medicalization. Cortex. <p style="color:blue;">https://doi.org/10.1016/j.cortex.2024.03.003 </p>
+
+5. Ebrahimi, O. V. (2022). Why scientific conferences must mitigate structural barriers. Nature Human Behaviour, 6(8), 1032-1033. <p style="color:blue;">https://doi.org/10.1038/s41562-022-01417-4 </p>
