@@ -14,3 +14,5 @@ image: images/OHBM2024/equalityequitycurbgraphic2022.jpg
 4. Gauld, C., Jurek, L., & Fourneret, P. (2024). Diversity, epistemic injustice and medicalization. Cortex. <p style="color:blue;">https://doi.org/10.1016/j.cortex.2024.03.003 </p>
 
 5. Ebrahimi, O. V. (2022). Why scientific conferences must mitigate structural barriers. Nature Human Behaviour, 6(8), 1032-1033. <p style="color:blue;">https://doi.org/10.1038/s41562-022-01417-4 </p>
+
+6. Lagisz, M., Rutkowska, J., Aich, U., Ross, R. M., Santana, M. S., Wang, J., ... & Nakagawa, S. (2024). “Best Paper” awards lack transparency, inclusivity, and support for Open Science. PLoS Biology, 22(7), e3002715. <p style="color:blue;">https://doi.org/10.1371/journal.pbio.3002715 </p>
