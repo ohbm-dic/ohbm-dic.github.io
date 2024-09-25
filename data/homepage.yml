@@ -1,9 +1,9 @@
 banner:
   enable: true
   image: "images/OHBM2024/Lee_et_al_2024_Publication.jpg"
-  contents: "**OHBM DIC:** Brain Mappers of Tomorrow 2024 Event"
+  contents: "**OHBM DIC:** Brain Mappers of Tomorrow 2025 Event"
   button:
-    contents: "Registration OPEN (All Sessions)"
+    contents: "Registration opening soon!"
     url: /kidsreview/2024/
 items:
   - type: highlights
