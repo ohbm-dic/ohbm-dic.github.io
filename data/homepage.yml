@@ -4,7 +4,7 @@ banner:
   contents: "**OHBM DIC:** Brain Mappers of Tomorrow 2025 Event"
   button:
     contents: "Registration opening soon!"
-    url: /kidsreview/2024/
+    url: /kidsreview/2025/
 items:
   - type: highlights
     items_per_row: 3
@@ -21,7 +21,7 @@ items:
       icon: fa-wrench
       content: >
         We host the DIC roundtable in the annual OHBM meetings to cover different topics and share ideas.
-    - title: Brain mappers of Tomorrow
+    - title: Brain Mappers of Tomorrow
       icon: fa-pencil-alt
       content: >
         Our signature project "Brain Mappers of Tomorrow (formerly Multilingual Kids Live Review)" is taking place every year in both in-person and visual formats. Last year (2023), we hosted 17 sessions in 12 languages!

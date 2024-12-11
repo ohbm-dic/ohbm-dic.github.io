@@ -37,23 +37,28 @@
 [[main]]
     parent = "Brain Mappers of Tomorrow"
     name = "2021"
-    weight = 54
+    weight = 55
     url = "https://youtube.com/playlist?list=PLocwiMktiT-6qUcqfP1qronR16EHLW3NM"
 [[main]]
     parent = "Brain Mappers of Tomorrow"
     name = "2022"
-    weight = 53
+    weight = 54
     url = "https://youtube.com/playlist?list=PLocwiMktiT-5w99sH6XGSWwsMyj2TMlm_"
 [[main]]
     parent = "Brain Mappers of Tomorrow"
     name = "2023"
-    weight = 52
+    weight = 53
     url = "/kidsreview/2023/"
 [[main]]
     parent = "Brain Mappers of Tomorrow"
     name = "2024"
-    weight = 51
+    weight = 52
     url = "/kidsreview/2024/"
+[[main]]
+    parent = "Brain Mappers of Tomorrow"
+    name = "2025"
+    weight = 51
+    url = "/kidsreview/2025/"
 [[main]]
     name = "Posts"
     weight = 60 
