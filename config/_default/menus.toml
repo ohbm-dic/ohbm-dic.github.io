@@ -9,7 +9,7 @@
     url = "/about_us/ourmission/"    
 [[main]]
     parent = "About Us"
-    name = "Our team 2023-24"
+    name = "Our team 2024-25"
     weight = 22
     url = "/about_us/ourteam/"    
 [[main]]
