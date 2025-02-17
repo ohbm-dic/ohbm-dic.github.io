@@ -13,6 +13,33 @@ aliases: [/about_us/pastmembers/]
 
 
 
+|**2023-2024**                                 |                         	|
+|----------------------------------------------|---------------------------|
+| Kangjoo Lee, *United States*       	         | Chair                 	|
+| Sharna Jamadar, *Australia*                  | Chair-Elect            |
+| Lucina Q. Uddin, *United States*             | Past-Chair             |
+| Athina Tzovara, *Switzerland*             	 | Subcommittee Chair - Gender       |
+| Tan Davynn, *Singapore*                      | Subcommittee Chair - Language and Culture          |
+| Tilak Ratnanather, *United States*           | Subcommittee Chair - Accessibility         	      |
+| Alexander Barnett, *Canada*                  | Subcommittee Chair - Race and Ethnicity         	  |
+| Maryam Ziaei, *Norway (Australia)*           | Subcommittee Chair - Career Level and Development  |
+| Christienne Gonzales Damatac, *Netherlands*  | Subcommittee Chair - Socioeconomic Status          |
+| Lena Oestreich, *Australia*                	 | Subcommittee Chair - Mental Illness and Neurodiversity, BrainArt SIG Liaison |
+| Julia Kam, *Canada*                          | FYM Officer         	  |
+| Fernanda Hansen Pacheco de Moraes, *Brazil*  | Event Communication Officer       |
+| Jana Totzek, *Canada*          	             | Social Media Officer   |
+| Leyla Loued-Khenissi, *Switzerland*          | Ad Hoc Member         	|
+| Alyssa Pozzobon, *Canada*                    | Ad Hoc Member         	|
+| Hiromasa Takemura, *Japan*                   | Council Liaison        |
+| Caroline Ahn, *United States*                | Student and Postdoc SIG Liaison   |
+| Elisa Guma, *United States*                  | Communications Committee Liaison  |
+| Anibal Solon, *United States*                | Open Science SIG Liaison          |
+| Rosanna Olsen, *Canada*                      | Guest, 2021-2022 Chair            |
+| AmanPreet Badhwar, *Canada*                  | Guest, 2020-2021 Chair            |
+
+
+
+
 |**2022-2023**                                 |                         	|
 |----------------------------------------------|---------------------------|
 | Lucina Uddin, *United States*       	       | Chair                 	|
