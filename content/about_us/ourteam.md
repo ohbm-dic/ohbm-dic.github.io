@@ -1,6 +1,6 @@
 ---
 title: "Our team"
-# description: "Our team 2023-24"
+# description: "Our team 2024-25"
 menu: About Us
 weight: 50
 # image: images/banner.jpg
