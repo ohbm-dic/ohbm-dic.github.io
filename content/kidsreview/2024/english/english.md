@@ -65,7 +65,7 @@ Chloe Scholten BSc, is an incoming master's student supervised by Dr. Catherine 
     </figure>
 {{< /gallery >}}
 
-Martina Min BSc, is an incoming Master’s student in Neuroscience at the Cumming School of Medicine, University of Calgary. Her research focuses on maternal psychological distress during pregnancy and children’s brain white matter and language development.s
+Martina Min BSc, is an incoming Master’s student in Neuroscience at the Cumming School of Medicine, University of Calgary. Her research focuses on maternal psychological distress during pregnancy and children’s brain white matter and language developments.
 
 <!-- ### Official Trailer
 
