@@ -33,39 +33,32 @@ If you want to know more, you can watch the video of our talk: Learning programm
 
 ### Presenters and organizers
 
-{{< gallery class="content-gallery" >}}
-    <figure>
-        <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="Images/ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira, Presenter" width="250">
-        <figcaption>
-            <b>Rita Oliveira </b>, Presenter.
-        </figcaption>
-    </figure>
-{{< /gallery >}}
+<div class="content-gallery">
+  <figure>
+    <img src="Images/ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira" width="250">
+    <figcaption><b>Rita Oliveira</b>, Presenter.</figcaption>
+  </figure>
+</div>
+
 
 Rita Oliveira is a Post-doctoral research fellow at the Microstructure Mapping Laboratory, Department of Radiology, CHUV/Université de Lausanne. 
 
-{{< gallery class="content-gallery" >}}
-    <figure>
-        <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="Images/giulia.jpg" alt="Giulia Di Domenticantonio, Moderator" width="250">
-        <figcaption>
-            <b>Giulia di Domenticantonio </b>, Moderator.
-        </figcaption>
-    </figure>
-{{< /gallery >}}
+<div class="content-gallery">
+  <figure>
+    <img src="Images/giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
+    <figcaption><b>Giulia Di Domenticantonio</b>, Presenter.</figcaption>
+  </figure>
+</div>
 
 Giulia Di Domenticantonio is a researcher at the  In Vivo Imaging Facility, CHUV/Université de Lausanne.
 
-{{< gallery class="content-gallery" >}}
-    <figure>
-        <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="Images/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
-        <figcaption>
-            <b>Joāo Jorge </b>, Moderator.
-        </figcaption>
-    </figure>
-{{< /gallery >}}
+<div class="content-gallery">
+  <figure>
+    <img src="Images/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
+    <figcaption><b>Joāo Jorge</b>, Presenter.</figcaption>
+  </figure>
+</div>
+
 
 Joāo Jorge is an SNSF Ambizione Research Fellow at the Swiss Center for Electronics and Microtechnology at the Université de Lausanne.
 <!-- ### Official Trailer
