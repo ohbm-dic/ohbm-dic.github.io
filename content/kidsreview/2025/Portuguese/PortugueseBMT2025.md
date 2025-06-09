@@ -36,7 +36,7 @@ If you want to know more, you can watch the video of our talk: Learning programm
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/ohbm-dic.github.io/content/kidsreview/2025/Images/ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira, Presenter" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="./Images/ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira, Presenter" width="250">
         <figcaption>
             <b>Rita Oliveira </b>, Presenter.
         </figcaption>
@@ -48,7 +48,7 @@ Rita Oliveira is a Post-doctoral research fellow at the Microstructure Mapping L
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/ohbm-dic.github.io/content/kidsreview/2025/Images/giulia.jpg" alt="Giulia Di Domenticantonio, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="./Images/giulia.jpg" alt="Giulia Di Domenticantonio, Moderator" width="250">
         <figcaption>
             <b>Giulia di Domenticantonio </b>, Moderator.
         </figcaption>
@@ -60,7 +60,7 @@ Giulia Di Domenticantonio is a researcher at the  In Vivo Imaging Facility, CHUV
 {{< gallery class="content-gallery" >}}
     <figure>
         <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/ohbm-dic.github.io/content/kidsreview/2025/Images/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="./Images/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
         <figcaption>
             <b>Joāo Jorge </b>, Moderator.
         </figcaption>
