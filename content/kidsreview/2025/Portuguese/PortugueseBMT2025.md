@@ -35,7 +35,7 @@ If you want to know more, you can watch the video of our talk: Learning programm
 
 <div class="content-gallery">
   <figure>
-    <img src="images/ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira" width="250">
+    <img src="ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira" width="250">
     <figcaption><b>Rita Oliveira</b>, Presenter.</figcaption>
   </figure>
 </div>
@@ -45,7 +45,7 @@ Rita Oliveira is a Post-doctoral research fellow at the Microstructure Mapping L
 
 <div class="content-gallery">
   <figure>
-    <img src="images/giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
+    <img src="giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
     <figcaption><b>Giulia Di Domenticantonio</b>, Presenter.</figcaption>
   </figure>
 </div>
@@ -54,7 +54,7 @@ Giulia Di Domenticantonio is a researcher at the  In Vivo Imaging Facility, CHUV
 
 <div class="content-gallery">
   <figure>
-    <img src="images/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
+    <img src="JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
     <figcaption><b>Joāo Jorge</b>, Presenter.</figcaption>
   </figure>
 </div>
