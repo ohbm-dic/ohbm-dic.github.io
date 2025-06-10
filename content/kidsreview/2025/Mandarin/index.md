@@ -8,7 +8,7 @@ weight: 51
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2025
 aliases: [/kidsreview/2025/mandarin_session/]
-url: /kidsreview/2025/mandarin_session
+url: /kidsreview/2025/Mandarin/
 
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
