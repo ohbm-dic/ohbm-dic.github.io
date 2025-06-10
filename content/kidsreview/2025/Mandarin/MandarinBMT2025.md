@@ -29,8 +29,8 @@ native language and another sound from a foreign language.
 
 <div class="content-gallery">
   <figure>
-    <img src="/kidsreview/2025/Mandarin/TSENG.jpg" alt="Tzuyi Tseng" width="250">
-    <figcaption><b>Rita Oliveira</b>, Presenter.</figcaption>
+    <img src="TSENG.jpg" alt="Tzuyi Tseng" width="250">
+    <figcaption><b>Tzuyi Tseng</b>, Presenter.</figcaption>
   </figure>
 </div>
 
