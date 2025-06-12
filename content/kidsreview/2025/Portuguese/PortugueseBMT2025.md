@@ -1,5 +1,5 @@
 ---
-title: "Brain Mappers of Tomorrow: Portuguese 2025 - "
+title: "Brain Mappers of Tomorrow: Portuguese 2025"
 description: "The Portuguese edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
@@ -12,22 +12,13 @@ url: /kidsreview/2025/portuguese_session
 
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
+### De Mais Perto: Explorar os Caminhos Internos do Cérebro
 
+Esta apresentação mostra como técnicas avançadas de ressonância magnética, como a imagiologia microestrutural, permitem-nos observar o cérebro para além do que os exames tradicionais conseguem mostrar. Ao revelar estruturas microscópicas como os axónios — as “estradas” internas do cérebro — os investigadores obtêm novas pistas sobre o seu funcionamento, a sua comunicação e as alterações associadas a doenças.
 
-A aprendizagem de programação tem vários benefícios entre eles estímulo do raciocínio lógico, desafios constantes à criatividade, melhor aproveitamento do tempo dispensado nos dispositivos digitais. Contudo, qual é o impacto desta atividade no desenvolvimento do cérebro das crianças? Qual é o efeito da introdução da programação nos programas escolares nas capacidades cognitivas das crianças? Qual o seu impacto no desempenho escolar nas áreas da matemática e linguística? Ocorrem alterações morfológicas e funcionais cerebrais associadas a aprendizagem da programação no ensino básico?
+### Zooming In: Exploring the Brain’s Inner Pathways 
 
-Neste projeto pretende-se investigar a relação entre o ensino da linguagem de programação Scratch e a capacidade de resolução de problemas de alunos que começam a aprender programação no ensino básico, recorrendo a técnicas de neuroimagem e avaliação neuropsicológica.
-
-Se quiser saber mais, pode assistir o vídeo da nossa palestra: A aprendizagem da programação e o seu impacto no neurodesenvolvimento organizada por *OHBM Brain Mappers of Tomorrow 2024*. Aproveitem!
-
-### Learning programming and their impact on neurodevelopment
-
-Programming has many benefits, including stimulating logical thinking, constantly challenging creativity and making better use of the time spent on digital devices. However, what is the impact of this activity on children's brain development? What is the effect of introducing programming into school programs on children's cognitive abilities? What impact does it have on school performance in the areas of mathematics and linguistics? Are there morphological and functional brain changes associated with learning programming in elementary school?
-
-The aim of this project is to investigate the relationship between the teaching of the Scratch programming language and the problem-solving skills of students who start learning programming in elementary school, using neuroimaging techniques and neuropsychological assessment.
-
-If you want to know more, you can watch the video of our talk: Learning programming and its impact on neurodevelopment organized by OHBM Brain Mappers of Tomorrow 2024. Enjoy!
-
+This presentation explores how advanced MRI techniques, such as microstructure imaging, allow us to see deeper into the brain than traditional scans. By revealing microscopic structures like axons — the brain’s internal “roads” — researchers gain new insights into how the brain functions, communicates, and changes in disease.
 
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
 
