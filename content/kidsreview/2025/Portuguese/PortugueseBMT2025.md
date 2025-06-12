@@ -26,7 +26,7 @@ This presentation explores how advanced MRI techniques, such as microstructure i
 
 <div class="content-gallery">
   <figure>
-    <img src="ProfilePicture1-edited-1Rita.jpg" alt="Rita Oliveira" width="250">
+    <img src="Rita.png" alt="Rita Oliveira" width="250">
     <figcaption><b>Rita Oliveira</b>, Presenter.</figcaption>
   </figure>
 </div>
@@ -36,7 +36,7 @@ Rita Oliveira is a Post-doctoral research fellow at the Microstructure Mapping L
 
 <div class="content-gallery">
   <figure>
-    <img src="giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
+    <img src="Giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
     <figcaption><b>Giulia Di Domenticantonio</b>, Presenter.</figcaption>
   </figure>
 </div>
