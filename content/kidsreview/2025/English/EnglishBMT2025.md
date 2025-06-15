@@ -19,27 +19,21 @@ How can we create images of the pathways connecting different areas of the brain
 
 ### Presenters and organizers
 
-{{< gallery class="content-gallery" >}}
-    <figure>
-        <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/english/Aliza_Jaffer.jpg" alt="Aliza Jaffer, Presenter" width="250">
-        <figcaption>
-            <b>Tanja Schmidt</b>, Presenter.
-        </figcaption>
-    </figure>
-{{< /gallery >}}
+<div class="content-gallery">
+  <figure>
+    <img src="Tanja_Schmidt.jpeg" alt="Tanja Schmidt " width="250">
+    <figcaption><b>Tanja Schmidt </b>, Presenter.</figcaption>
+  </figure>
+</div>
 
-Tatjana Schmidt is a PhD candidate in Clinical Neurosciences at the University of Cambridge and a Gates Cambridge Scholar. Her research focuses on using quantitative MRI and computational models to improve diagnosis and understanding of neurodegenerative diseases in memory clinic populations.
+Tanja Schmidt is a PhD candidate in Clinical Neurosciences at the University of Cambridge and a Gates Cambridge Scholar. Her research focuses on using quantitative MRI and computational models to improve diagnosis and understanding of neurodegenerative diseases in memory clinic populations.
 
-{{< gallery class="content-gallery" >}}
-    <figure>
-        <!-- <figure> -->
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2024/bmt_2024/english/Meaghan_Perdue.jpeg" alt="Meaghan Perdue, Moderator" width="250">
-        <figcaption>
-            <b>Iryna Vlasiuk</b>, Presenter.
-        </figcaption>
-    </figure>
-{{< /gallery >}}
+<div class="content-gallery">
+  <figure>
+    <img src="Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk " width="250">
+    <figcaption><b>Iryna Vlasiuk </b>, Moderator.</figcaption>
+  </figure>
+</div>
 
 Iryna Vlasiuk is a PhD candidate in Clinical Neurosciences at the University of Cambridge, working in Dr. Timothy Rittman's Neurodegeneration Informatics Laboratory. Her research investigates memory impairment and cognitive decline in neurodegenerative conditions, such as Progressive Supranuclear Palsy, combining behavioral assessment and neuroimaging to map regional brain changes
 
