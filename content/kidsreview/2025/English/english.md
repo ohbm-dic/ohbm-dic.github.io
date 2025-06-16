@@ -24,8 +24,8 @@ How can we create images of the pathways connecting different areas of the brain
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/Tanja_Schmidt.jpeg" alt="Tanja Schmidt" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk" width="250">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Tanja_Schmidt.jpeg" alt="Tanja Schmidt" width="250">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk" width="250">
         <figcaption>
             <b>Tanja Schmidt</b>, Presenter.<br>
             <b>Iryna Vlasiuk</b>, Moderator.
@@ -39,7 +39,6 @@ Tanja Schmidt is a PhD candidate in Clinical Neurosciences at the University of 
 
 Iryna Vlasiuk is a PhD candidate in Clinical Neurosciences at the University of Cambridge, working in Dr. Timothy Rittman's Neurodegeneration Informatics Laboratory. Her research investigates memory impairment and cognitive decline in neurodegenerative conditions, such as Progressive Supranuclear Palsy, combining behavioral assessment and neuroimaging to map regional brain changes
 
-<img src="Tanja_Schmidt.jpeg" alt="Tanja Schmidt " width="250">
 
 <!-- ### Official Trailer
 
