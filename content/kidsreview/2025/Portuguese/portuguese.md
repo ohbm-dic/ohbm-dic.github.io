@@ -24,31 +24,22 @@ This presentation explores how advanced MRI techniques, such as microstructure i
 
 ### Presenters and organizers
 
-<div class="content-gallery">
-  <figure>
-    <img src="./Rita.png" alt="Rita Oliveira" width="250">
-    <figcaption><b>Rita Oliveira</b>, Presenter.</figcaption>
-  </figure>
-</div>
+{{< gallery class="content-gallery" >}}
+    <figure>
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/Rita.png" alt="Rita Oliveira" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/Giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
+            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
+        <figcaption>
+            <b>Rita Oliveira</b>, Presenter.<br>
+            <b>Giulia Di Domenticantonio</b>, Presenter.<br>
+            <b>Joāo Jorge</b>, Presenter.
+        </figcaption>
+    </figure>
+{{< /gallery >}}
 
 Rita Oliveira is a Post-doctoral research fellow at the Microstructure Mapping Laboratory, Department of Radiology, CHUV/Université de Lausanne. 
 
-
-<div class="content-gallery">
-  <figure>
-    <img src="./Giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
-    <figcaption><b>Giulia Di Domenticantonio</b>, Presenter.</figcaption>
-  </figure>
-</div>
-
 Giulia Di Domenticantonio is a researcher at the  In Vivo Imaging Facility, CHUV/Université de Lausanne.
-
-<div class="content-gallery">
-  <figure>
-    <img src="./JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
-    <figcaption><b>Joāo Jorge</b>, Presenter.</figcaption>
-  </figure>
-</div>
 
 Joāo Jorge is an SNSF Ambizione Research Fellow at the Swiss Center for Electronics and Microtechnology at the Université de Lausanne.
 
