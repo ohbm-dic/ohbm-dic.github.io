@@ -1,5 +1,5 @@
 ---
-title: "Brain Mappers of Tomorrow: Mandarin 2025 -  大腦語語工作坊"
+title: "Brain Mappers of Tomorrow: Mandarin 2025 - 大腦語語工作坊"
 description: "The Mandarin edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
@@ -8,7 +8,7 @@ weight: 51
 # tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar_kidsreviews2025
 aliases: [/kidsreview/2025/mandarin_session/]
-url: /kidsreview/2025/Mandarin/
+url: /kidsreview/2025/Mandarin/ 
 
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
