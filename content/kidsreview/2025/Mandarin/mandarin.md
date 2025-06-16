@@ -30,9 +30,9 @@ native language and another sound from a foreign language.
 
 {{< gallery class="content-gallery" >}}
   <figure>
-    <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/TSENG.jpg" alt="Tzuyi Tseng" width="250">
-    <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/ANSELME.jpg" alt="Rémi Anselme" width="250">
-    <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/SONG.jpg" alt="Jin-Ke Song" width="250">
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/TSENG.jpg" alt="Tzuyi Tseng" width="250">
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/ANSELME.jpg" alt="Rémi Anselme" width="250">
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/SONG.jpg" alt="Jin-Ke Song" width="250">
     <figcaption>
       <b>Tzuyi Tseng</b>, Presenter.<br>
       <b>Rémi Anselme</b>, Moderator.<br>
