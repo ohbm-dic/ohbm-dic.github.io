@@ -35,8 +35,8 @@ native language and another sound from a foreign language.
     <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/SONG.jpg" alt="Jin-Ke Song" width="250">
     <figcaption>
       <b>Tzuyi Tseng</b>, Presenter.<br>
-      <b>Rémi Anselme</b>, Presenter.<br>
-      <b>Jin-Ke Song</b>, Presenter.
+      <b>Rémi Anselme</b>, Moderator.<br>
+      <b>Jin-Ke Song</b>, Moderator.
     </figcaption>
   </figure>
 {{< /gallery >}}
