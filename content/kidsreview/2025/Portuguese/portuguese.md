@@ -26,9 +26,9 @@ This presentation explores how advanced MRI techniques, such as microstructure i
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/Rita.png" alt="Rita Oliveira" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/Giulia.jpg" alt="Giulia Di Domenticantonio" width="250">
-            <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Rita.png" alt="Rita Oliveira">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Giulia.jpg" alt="Giulia Di Domenticantonio">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/JoaoJorge.jpg" alt="Joāo Jorge, Moderator">
         <figcaption>
             <b>Rita Oliveira</b>, Presenter.<br>
             <b>Giulia Di Domenticantonio</b>, Moderator.<br>
@@ -36,6 +36,7 @@ This presentation explores how advanced MRI techniques, such as microstructure i
         </figcaption>
     </figure>
 {{< /gallery >}}
+
 
 Rita Oliveira is a Post-doctoral research fellow at the Microstructure Mapping Laboratory, Department of Radiology, CHUV/Université de Lausanne. 
 
