@@ -13,8 +13,7 @@ url: /kidsreview/2025/Mandarin/
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
 
-### 大腦語語工作坊
-在這個工作坊，我們將透過介紹、討論，以及實作活動來一起探索大腦和語言的關係。我們會一起認識大腦的結構、語言與認知，以及大腦是如何分辨不同語言的。
+
 
 
 ### The Brain Talks Seminar
