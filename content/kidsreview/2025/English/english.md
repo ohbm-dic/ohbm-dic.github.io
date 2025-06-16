@@ -17,22 +17,25 @@ A Road Trip down Memory Lane: Making Maps of the Brain’s Pathways with Diffusi
 
 How can we create images of the pathways connecting different areas of the brain without touching it? Diffusion magnetic resonance imaging makes this possible! In this presentation we explain how this technology works and share beautiful images of the brain.
 
-### Presenters and organizers
-
 
 ### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Tanja_Schmidt.jpeg" alt="Tanja Schmidt" width="250">
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk" width="250">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Tanja_Schmidt.jpeg" alt="Tanja Schmidt">
         <figcaption>
-            <b>Tanja Schmidt</b>, Presenter.<br>
+            <b>Tanja Schmidt</b>, Presenter.
+        </figcaption>
+    </figure>
+    <figure>
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk">
+        <figcaption>
             <b>Iryna Vlasiuk</b>, Moderator.
         </figcaption>
     </figure>
 {{< /gallery >}}
 
+<br>
 
 Tanja Schmidt is a PhD candidate in Clinical Neurosciences at the University of Cambridge and a Gates Cambridge Scholar. Her research focuses on using quantitative MRI and computational models to improve diagnosis and understanding of neurodegenerative diseases in memory clinic populations.
 
