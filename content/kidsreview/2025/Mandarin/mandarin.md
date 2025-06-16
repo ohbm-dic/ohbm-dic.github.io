@@ -28,29 +28,21 @@ native language and another sound from a foreign language.
 
 ### Presenters and organizers
 
-<div class="content-gallery">
+{{< gallery class="content-gallery" >}}
   <figure>
-    <img src="TSENG.jpg" alt="Tzuyi Tseng" width="250">
-    <figcaption><b>Tzuyi Tseng</b>, Presenter.</figcaption>
+    <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/TSENG.jpg" alt="Tzuyi Tseng" width="250">
+    <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/ANSELME.jpg" alt="Rémi Anselme" width="250">
+    <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/SONG.jpg" alt="Jin-Ke Song" width="250">
+    <figcaption>
+      <b>Tzuyi Tseng</b>, Presenter.<br>
+      <b>Rémi Anselme</b>, Presenter.<br>
+      <b>Jin-Ke Song</b>, Presenter.
+    </figcaption>
   </figure>
-</div>
-
+{{< /gallery >}}
+  
 Tzuyi Tseng is a post doctoral researcher at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
 
-<div class="content-gallery">
-  <figure>
-    <img src="ANSELME.jpg" alt="Rémi Anselme" width="250">
-    <figcaption><b>Rémi Anselme</b>, Presenter.</figcaption>
-  </figure>
-</div>
-
 Dr. Rémi Anselme is a Research officer at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
-
-<div class="content-gallery">
-  <figure>
-    <img src="SONG.jpg" alt="Jin-Ke Song" width="250">
-    <figcaption><b>Jin-Ke Song</b>, Presenter.</figcaption>
-  </figure>
-</div>
 
 Dr. Jin-Ke Song is a teaching and research associate at the Université Côte d'Azur.
