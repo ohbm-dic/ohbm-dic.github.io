@@ -31,8 +31,8 @@ This presentation explores how advanced MRI techniques, such as microstructure i
             <img style="margin: 0.1em 0.1em 0.1em 0.1em" src="/images/OHBM2025/BMT/JoaoJorge.jpg" alt="Joāo Jorge, Moderator" width="250">
         <figcaption>
             <b>Rita Oliveira</b>, Presenter.<br>
-            <b>Giulia Di Domenticantonio</b>, Presenter.<br>
-            <b>Joāo Jorge</b>, Presenter.
+            <b>Giulia Di Domenticantonio</b>, Moderator.<br>
+            <b>Joāo Jorge</b>, Moderator.
         </figcaption>
     </figure>
 {{< /gallery >}}
