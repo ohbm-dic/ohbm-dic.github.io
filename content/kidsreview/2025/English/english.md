@@ -37,7 +37,7 @@ Tanja Schmidt is a PhD candidate in Clinical Neurosciences at the University of 
 
 Iryna Vlasiuk is a PhD candidate in Clinical Neurosciences at the University of Cambridge, working in Dr. Timothy Rittman's Neurodegeneration Informatics Laboratory. Her research investigates memory impairment and cognitive decline in neurodegenerative conditions, such as Progressive Supranuclear Palsy, combining behavioral assessment and neuroimaging to map regional brain changes
 
-<img src="./Tanja_Schmidt.jpeg" alt="Tanja Schmidt " width="250">
+<img src="Tanja_Schmidt.jpeg" alt="Tanja Schmidt " width="250">
 
 <!-- ### Official Trailer
 
