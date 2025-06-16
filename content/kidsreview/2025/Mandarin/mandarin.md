@@ -28,18 +28,29 @@ native language and another sound from a foreign language.
 
 ### Presenters and organizers
 
+### Presenters and organizers
+
 {{< gallery class="content-gallery" >}}
   <figure>
-    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/TSENG.jpg" alt="Tzuyi Tseng" width="250">
-    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/ANSELME.jpg" alt="Rémi Anselme" width="250">
-    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/SONG.jpg" alt="Jin-Ke Song" width="250">
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/TSENG.jpg" alt="Tzuyi Tseng">
     <figcaption>
-      <b>Tzuyi Tseng</b>, Presenter.<br>
-      <b>Rémi Anselme</b>, Moderator.<br>
+      <b>Tzuyi Tseng</b>, Presenter.
+    </figcaption>
+  </figure>
+  <figure>
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/ANSELME.jpg" alt="Rémi Anselme">
+    <figcaption>
+      <b>Rémi Anselme</b>, Moderator.
+    </figcaption>
+  </figure>
+  <figure>
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/SONG.jpg" alt="Jin-Ke Song">
+    <figcaption>
       <b>Jin-Ke Song</b>, Moderator.
     </figcaption>
   </figure>
 {{< /gallery >}}
+
   
 Tzuyi Tseng is a post doctoral researcher at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
 
