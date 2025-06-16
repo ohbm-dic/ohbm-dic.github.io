@@ -21,7 +21,7 @@ How can we create images of the pathways connecting different areas of the brain
 
 <div class="content-gallery">
   <figure>
-    <img src="Tanja_Schmidt.jpeg" alt="Tanja Schmidt " width="250">
+    <img src="./Tanja_Schmidt.jpeg" alt="Tanja Schmidt " width="250">
     <figcaption><b>Tanja Schmidt </b>, Presenter.</figcaption>
   </figure>
 </div>
@@ -30,7 +30,7 @@ Tanja Schmidt is a PhD candidate in Clinical Neurosciences at the University of 
 
 <div class="content-gallery">
   <figure>
-    <img src="Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk " width="250">
+    <img src="./Iryna_Vlasiuk.jpeg" alt="Iryna Vlasiuk " width="250">
     <figcaption><b>Iryna Vlasiuk </b>, Moderator.</figcaption>
   </figure>
 </div>
