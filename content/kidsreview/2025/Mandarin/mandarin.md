@@ -1,5 +1,5 @@
 ---
-title: "Brain Mappers of Tomorrow: Mandarin 2025 -  大腦語語工作坊"
+title: "Brain Mappers of Tomorrow: Mandarin 2025 -  大腦語語工作坊"
 description: "The Mandarin edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
@@ -13,20 +13,15 @@ url: /kidsreview/2025/Mandarin/
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
 
-<!-- ## -->
 ### 大腦語語工作坊
 在這個工作坊，我們將透過介紹、討論，以及實作活動來一起探索大腦和語言的關係。我們會一起認識大腦的結構、語言與認知，以及大腦是如何分辨不同語言的。
 
 
 ### The Brain Talks Seminar
 
-In this event, we will explore the relationship between the brain and language through an introductory presentation, group discussions as well as 
-several hands-on activities. We will get to know the brain anatomy, brain and cognition, and how the brain recognizes a sound from a 
+In this event, we will explore the relationship between the brain and language through an introductory presentation, group discussions as well as 
+several hands-on activities. We will get to know the brain anatomy, brain and cognition, and how the brain recognizes a sound from a 
 native language and another sound from a foreign language.
-
-<!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
-
-### Presenters and organizers
 
 ### Presenters and organizers
 
@@ -51,9 +46,8 @@ native language and another sound from a foreign language.
   </figure>
 {{< /gallery >}}
 
-  
-Tzuyi Tseng is a post doctoral researcher at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
+Tzuyi Tseng is a post doctoral researcher at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
 
-Dr. Rémi Anselme is a Research officer at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
+Dr. Rémi Anselme is a Research officer at the Laboratoire Dynamique Du Langage,  Université Lumière Lyon 2.
 
 Dr. Jin-Ke Song is a teaching and research associate at the Université Côte d'Azur.
