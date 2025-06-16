@@ -1,5 +1,5 @@
 ---
-title: "Brain Mappers of Tomorrow: Mandarin 2025 - 大腦語語工作坊"
+title: "Brain Mappers of Tomorrow: Mandarin 2025"
 description: "The Mandarin edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
