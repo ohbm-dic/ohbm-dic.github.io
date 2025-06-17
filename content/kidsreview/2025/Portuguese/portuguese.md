@@ -20,6 +20,14 @@ Esta apresentação mostra como técnicas avançadas de ressonância magnética,
 
 This presentation explores how advanced MRI techniques, such as microstructure imaging, allow us to see deeper into the brain than traditional scans. By revealing microscopic structures like axons — the brain’s internal “roads” — researchers gain new insights into how the brain functions, communicates, and changes in disease.
 
+<div style="text-align: center;">
+  <video width="600" controls>
+    <source src="/videos/VideoApresentaçao.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
 
 ### Presenters and organizers
