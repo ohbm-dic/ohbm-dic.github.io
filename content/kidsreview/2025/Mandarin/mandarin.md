@@ -24,6 +24,8 @@ In this event, we will explore the relationship between the brain and language t
 several hands-on activities. We will get to know the brain anatomy, brain and cognition, and how the brain recognizes a sound from a 
 native language and another sound from a foreign language.
 
+{{< youtube id="6" >}}
+
 ### Presenters and organizers
 
 {{< gallery class="content-gallery" >}}
