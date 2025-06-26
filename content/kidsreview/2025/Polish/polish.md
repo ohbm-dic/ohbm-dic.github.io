@@ -40,6 +40,7 @@ In this presentation, we’ll explore how vision works - not like taking picture
 
 
 
+
 ### Presenters and organizers
 
 
