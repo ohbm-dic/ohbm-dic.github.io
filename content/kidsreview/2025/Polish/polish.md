@@ -27,7 +27,7 @@ nawet bardziej niż same bodźce zmysłowe.
 ### Visual processing as detective work
 
 In this presentation, we’ll explore how vision works - not like taking pictures with a camera, but more like a crime scene investigation, where the brain pieces together incomplete and ambiguous clues, in the form of visual information, to make sense of the world. We’ll demonstrate how noninvasive techniques such as functional magnetic resonance imaging, combined with modeling approaches like retinotopic mapping, can reveal how the brain processes visual input. Through metaphors and interactive demonstrations of visual illusions and perceptual biases, we’ll illustrate how factors such as context, prior knowledge, and expectations shape what we see - sometimes even more than the sensory input itself.
-{{< youtube id="5" >}}
+
 
 
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
