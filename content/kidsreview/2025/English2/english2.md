@@ -20,9 +20,9 @@ Our junior brain mappers will introduce one-of-a-kind lab-to-school research des
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Tanja_Schmidt.jpeg" alt="Tanja Schmidt">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/Photo.png" alt="Brain Mappers of China Team">
         <figcaption>
-            <b>Tanja Schmidt</b>, Presenter.
+            <b>Brain Mappers of China </b>, Presenters and Moderators.
         </figcaption>
     </figure>
 
