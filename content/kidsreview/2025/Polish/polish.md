@@ -32,6 +32,14 @@ In this presentation, we’ll explore how vision works - not like taking picture
 
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
 
+### Watch the trailer here
+
+{{< youtube S8n_2OvRXLo >}}
+
+
+
+
+
 ### Presenters and organizers
 
 
