@@ -1,6 +1,6 @@
 ---
 title: "Our team"
-# description: "Our team 2024-25"
+# description: "Our team 2025-26"
 menu: About Us
 weight: 50
 # image: images/banner.jpg
@@ -10,7 +10,7 @@ weight: 50
 aliases: [/about_us/ourteam/]
 ---
 
-### 2024-2025 Diversity and Inclusivity Committee (DIC)
+### 2025-2026 Diversity and Inclusivity Committee (DIC)
 
 - Sharna Jamadar, Australia - Chair
 - Kangjoo Lee, United States - Past-Chair
@@ -20,8 +20,7 @@ aliases: [/about_us/ourteam/]
 - Maryam Ziaei, Norway (Australia) - Subcommittee Chair - Career Level and Development, Council Liaison (Secretary-Elect)
 - *Lena Oestreich, Australia - Guest, Subcommittee Chair - Mental Illness and Neurodiversity
 - Julia Kam, Canada - FYM Officer
-- Leyla Loued-Khenissi, Switzerland - Ad-hoc Member, BMT Lead Organizer
-- Fernanda Hansen Pacheco de Moraes, Brazil - Event Communication Officer, BMT Lead Organizer
+- Leyla Loued-Khenissi, Switzerland - BMT Lead Organizer
 - Jana Totzek, Canada - Social Media Officer
 - Alyssa Pozzobon, Canada - Ad-hoc Member
 - Nikitas Koussis, Australia - Ad-hoc Member
