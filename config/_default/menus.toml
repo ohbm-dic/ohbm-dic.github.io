@@ -9,7 +9,7 @@
     url = "/about_us/ourmission/"    
 [[main]]
     parent = "About Us"
-    name = "Our team 2024-25"
+    name = "Our team 2025-26"
     weight = 22
     url = "/about_us/ourteam/"    
 [[main]]
@@ -59,6 +59,11 @@
     name = "2025"
     weight = 51
     url = "/kidsreview/2025/"
+[[main]]
+    parent = "Brain Mappers of Tomorrow"
+    name = "2026"
+    weight = 51
+    url = "/kidsreview/2026/"
 [[main]]
     name = "Posts"
     weight = 60 
