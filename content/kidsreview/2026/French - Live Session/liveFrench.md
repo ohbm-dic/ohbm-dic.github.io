@@ -24,7 +24,7 @@ We have discovered that some people can have very subtle symptoms that can stay 
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/EugenieCataldo.jpg" alt="Eugénie Cataldo">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/EugenieCataldo.jpeg" alt="Eugénie Cataldo">
         <figcaption>
             <b>Eugénie Cataldo</b>, Presenter.
         </figcaption>
