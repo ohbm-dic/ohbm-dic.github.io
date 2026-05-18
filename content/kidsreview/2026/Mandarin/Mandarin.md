@@ -25,7 +25,7 @@ In this presentation, our student-researchers (aged 13–15) will co-present fin
 
 {{< gallery class="content-gallery" >}}
   <figure>
-    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2025/BMT/MandarinTeam.jpg" alt="Mandarin Session Team">
+    <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/MandarinTeam.jpg" alt="Mandarin Session Team">
     <figcaption>
       <b>Mandarin Session Team</b>, Presenter.
     </figcaption>
