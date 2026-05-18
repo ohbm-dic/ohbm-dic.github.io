@@ -34,12 +34,14 @@ This presentation explores the basis of learning and memory, highlighting the hi
 {{< /gallery >}}
 
 
- <br>
+<br>
 
-Presenter 1: Trinidad Iturriaga, Florida International University
-Presenter 2 Magda: Escobar, Florida International University
-Moderator: Marian Navarro, Florida International University
-Moderator: Kangjoo Lee, PhD, Florida International University
+<ul>
+  <li>Presenter 1: Trinidad Iturriaga, Florida International University</li>
+  <li>Presenter 2: Magda Escobar, Florida International University</li>
+  <li>Moderator: Marian Navarro, Florida International University</li>
+  <li>Moderator: Kangjoo Lee, PhD, Florida International University</li>
+</ul>
 
 
 <!-- ### Official Trailer
