@@ -22,7 +22,7 @@ When you close your eyes and think, "I want to become an astronaut," how do you 
 
 {{< gallery class="content-gallery" >}}
   <figure>
-    <img src="/images/OHBM2026/StefaniaDeVito.jpg" alt="Stefania de Vito">
+    <img src="/images/OHBM2026/StefaniaDeVito.jpeg" alt="Stefania de Vito">
     <figcaption>
       <b>Stefania de Vito</b>, Presenter.
     </figcaption>
