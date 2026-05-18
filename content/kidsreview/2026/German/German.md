@@ -29,7 +29,7 @@ I want to discuss the role of the hippocampus in memory, its different subfields
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/BMT/Jana.jpg" alt="Jana Totzek">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/Jana.jpg" alt="Jana Totzek">
         <figcaption>
             <b>Jana Totzek</b>, Presenter.
         </figcaption>
