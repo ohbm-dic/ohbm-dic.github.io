@@ -15,7 +15,7 @@ url: /kidsreview/2026/english_session
 ### Remember! An Intro to Learning and Memory
 
 This presentation explores the basis of learning and memory, highlighting the hippocampus, cerebellum, and prefrontal cortex as core brain structures. We will be explaining how learning and memory function through a three-stage process: encoding, storage , and retrieval. Memory is classified into short-term (working) memory and long-term memory (declarative memory and procedural memory). https://pmc.ncbi.nlm.nih.gov/articles/PMC10410470/
-{{< youtube id="5" >}}
+<!--{{< youtube id="5" >}}-->
 
 
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
