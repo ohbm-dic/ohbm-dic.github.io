@@ -25,7 +25,7 @@ This presentation explores the basis of learning and memory, highlighting the hi
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/BMT/FIUTEAM.jpg" alt="FIU Team">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/FIUTEAM.jpg" alt="FIU Team">
         <figcaption>
             <b>FIU Team</b>, Presenter.
         </figcaption>
