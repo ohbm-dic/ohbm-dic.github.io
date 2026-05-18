@@ -26,7 +26,6 @@ Over the past year, these students conducted innovative educational neuroscience
 
 This youth participatory framework transforms students into research partners while advancing understanding of adolescent brain development.
 
----
 
 <!-- {{< youtube id="6" >}} -->
 
