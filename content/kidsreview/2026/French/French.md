@@ -18,7 +18,7 @@ Cette session mettra en lumière la latéralisation cérébrale dans les tâches
 ### Laterality in language: diversity in the human brain
 
 This session will highlight what is brain lateralization in functional tasks, what we knew about lateralization and the diversity we can observe in humans performing language tasks. We will cover how diversity may play an important role while taking decisions in treating patients and the link to personalized medicine.
-{{< youtube id="5" >}}
+<!-- {{< youtube id="5" >}} -->
 
 
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
