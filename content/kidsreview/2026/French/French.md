@@ -28,13 +28,13 @@ This session will highlight what is brain lateralization in functional tasks, wh
 
 {{< gallery class="content-gallery" >}}
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/BMT/Sandrine.jpg" alt="Sandrine Muller">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/SandrineMuller.jpg" alt="Sandrine Muller">
         <figcaption>
             <b>Sandrine Muller</b>, Presenter.
         </figcaption>
     </figure>
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/BMT/Mehdi.jpg" alt="Mohammed Mehdi Ketata">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/Mehdi.jpg" alt="Mohammed Mehdi Ketata">
         <figcaption>
             <b>Mohammed Mehdi Ketata</b>, Presenter.
         </figcaption>
