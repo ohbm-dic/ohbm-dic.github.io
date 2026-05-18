@@ -19,7 +19,7 @@ Ich möchte die Rolle des Hippocampus im Gedächtnis diskutieren, seine verschie
 ### What the Hippocampus can do - memory & neuroimaging
 
 I want to discuss the role of the hippocampus in memory, its different subfields and how they are related to different types of memory processes, as well as how we can look at these regions through neuroimaging and cell staining protocols. I also want to touch on hippocampal connectivity, how important it is that the hippocampus communicates with other brain regions, what could happen if the hippocampus is not functioning well, and how mental health can be influenced by memory and hippocampal dysfunction. 
-{{< youtube id="5" >}}
+<!-- {{< youtube id="5" >}} -->
 
 
 <!-- **[Registration is closed](https://docs.google.com/forms/d/e/1FAIpQLScSGwVp4u_BmJPfdx6EiwFffblTmG53RnQpQwb4B3_sg4XZYA/viewform?usp=sf_link)** -->
