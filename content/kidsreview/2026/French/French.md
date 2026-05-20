@@ -46,8 +46,7 @@ This session will highlight what is brain lateralization in functional tasks, wh
  <br>
 
 Presenter: Sandrine Muller is an Assistant Professor at the Université Grenoble-Alpes
-Moderator:  Mohammed Mehdi Ketata is a research engineer at the Université Grenoble-Alpes
-
+Moderator: Biomedical engineer specializing in AI for medical imaging, computational modeling, and biomechanics. I have experience in clinical data processing and machine learning model development. My work focuses on producing reproducible research and applying mathematical methods to biomedical problems in collaboration with clinicians and engineers. I am currently interested in medical imaging and AI for health.
 
 
 
