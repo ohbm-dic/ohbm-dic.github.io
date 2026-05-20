@@ -57,6 +57,7 @@ This presentation explores the basis of learning and memory, highlighting the hi
 
 {{< /gallery >}}
 
+---
 
 ### Presenter biographies
 
