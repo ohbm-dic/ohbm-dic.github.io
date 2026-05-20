@@ -61,15 +61,15 @@ This presentation explores the basis of learning and memory, highlighting the hi
 
 ### Presenter biographies
 
-- **Trinidad Iturriaga** is an undergraduate student majoring in Behavioral Neuroscience...
+- **Trinidad Iturriaga** Trinidad Iturriaga is an undergraduate student majoring in Behavioral Neuroscience with a minor in Psychology at Florida International University. She is currently working at The Wake Up Project, a vocational training and talent psychology program based on a methodology presented at Harvard, aimed at helping adolescents reach their full potential.
 
-- **Magda Escobar** is an undergraduate student in Biomedical Engineering...
+- **Magda Escobar** Magda Escobar is an undergraduate student in Biomedical Engineering at Florida International University with experience in MATLAB, SolidWorks, AutoCAD, experimental modeling, and data interpretation. She has hands-on work in wound vacuum (NPWT) system design. She has explored how integrating sensors and data-driven insights can enhance monitoring, reduce complications, and support more personalized care.
 
-- **Marian Navarro** is an undergraduate student in Biological Sciences...
+- **Marian Navarro**Marian Navarro is an undergraduate student in Biological Sciences at Florida International University. She is currently leading a study with NASA’s Analysis Working Groups (AWG) to investigate how mitochondrial dysfunction in spaceflight mirrors that in Alzheimer’s Disease.
 
-- **Dr. Kangjoo Lee** is an assistant professor of Biomedical Engineering...
+- **Dr. Kangjoo Lee** Dr. Kangjoo Lee is an assistant professor of Biomedical Engineering at Florida International University. She is also director of the Computational Neuroimaging of Brain Disorders Laboratory at the university’s College of Engineering and Computing.
 
-- **Lema Gilliard** is an award-winning educational leader...
+- **Lema Gilliard** Lema Gilliard is an award-winning educational leader, Assistant Principal at Campbell Drive K–8 Center, and Adjunct Biology Professor at Miami Dade College. Recognized as the 2025–2026 Homestead Feeder Pattern Assistant Principal of the Year, she is known for driving student achievement through innovative leadership, STEM and robotics expansion, and future-focused learning, including AI in education. Gilliard is passionate about building high-performing school cultures where students, teachers, and communities thrive.
 
 <!-- ### Official Trailer
 
