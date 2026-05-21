@@ -1,5 +1,5 @@
 ---
-title: "Brain Mappers of Tomorrow: French 2026 - The missing half: Using video games to find what’s hiding!"
+title: "Brain Mappers of Tomorrow: French 2026 - The missing half: How a stroke can make one side of the world disappear"
 description: "The French edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
@@ -12,6 +12,12 @@ url: /kidsreview/2026/liveFrench_session
 
 # summary: NOT NEEDED SINCE THE INTRO TEXT IS APPEARING OK
 ---
+### La moitié manquante : quand un AVC fait disparaître un côté du monde
+
+Imagine que c'est ton anniversaire et qu'un énorme et délicieux gâteau au chocolat est posé juste devant toi. Tu manges jusqu'au moindre morceau de glaçage et de vermicelles sur le côté droit... mais tu ignores complètement le côté gauche. Tu as encore faim, le gâteau est juste là, mais ton cerveau te dit simplement : "Non, il n'y a plus rien à manger ici !".
+Pour certaines personnes ayant subi une lésion cérébrale, comme un AVC, c'est toute une moitié de leur monde qui peut tout simplement disparaître ! Ce trouble s'appelle la négligence. Elle peut amener les patients à ne manger que la moitié de leur assiette, à ne dessiner que la moitié d'une image ou à ne remarquer qu'un seul côté du monde qui les entoure.
+Dans cette présentation, nous allons d'abord découvrir les mécanismes par lesquels un AVC se produit. Nous plongerons ensuite au cœur du cerveau pour voir comment un AVC peut modifier son fonctionnement. Enfin, nous explorerons comment ces changements peuvent mener à la négligence, ainsi que les nombreuses manières, aussi étranges que surprenantes, dont elle peut affecter la vie des patients.
+
 
 ### The missing half: How a stroke can make one side of the world disappear 
 
