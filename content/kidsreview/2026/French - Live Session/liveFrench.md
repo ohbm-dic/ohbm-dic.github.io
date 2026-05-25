@@ -1,5 +1,5 @@
 ---
-title: "Brain Mappers of Tomorrow: French 2026 - The missing half: How a stroke can make one side of the world disappear"
+title: "Brain Mappers of Tomorrow: French 2026 - La moitié manquante : quand un AVC fait disparaître un côté du monde"
 description: "The French edition of our Brain Mappers of Tomorrow"
 menu: Kids Review
 weight: 51
