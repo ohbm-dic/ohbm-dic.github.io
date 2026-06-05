@@ -66,7 +66,7 @@ This youth participatory framework transforms students into research partners wh
     </figure>
  <br>
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/StudentResearcherPresenters.jpg" alt="Student Presenters">
+            <img style="margin: 0.1em; width: 600px; height: 400px; object-fit: cover;" src="/images/OHBM2026/StudentResearcherPresenters.jpg" alt="Student Presenters">
         <figcaption>
             <b>Student Presenters</b>, Presenters.
         </figcaption>
