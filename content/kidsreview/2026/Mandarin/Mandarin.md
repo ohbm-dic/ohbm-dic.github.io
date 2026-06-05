@@ -45,7 +45,7 @@ This youth participatory framework transforms students into research partners wh
     </figure>
     <br>
     <figure>
-            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/QiuyuLu/QiuyuLu.jpg" alt="Qiuyu Lu">
+            <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/QiuyuLu.jpg" alt="Qiuyu Lu">
         <figcaption>
             <b>Qiuyu Lu</b>, Presenter.
         </figcaption>
