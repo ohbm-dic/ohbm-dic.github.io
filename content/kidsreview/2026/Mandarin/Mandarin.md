@@ -36,35 +36,35 @@ This youth participatory framework transforms students into research partners wh
             <b>Yu-Feng Zang</b>, Moderator.
         </figcaption>
     </figure>
-    
+    <br>
     <figure>
             <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/Xi-NianZuo.jpg" alt="Xi-Nian Zuo">
         <figcaption>
             <b>Xi-Nian Zuo</b>, Moderator.
         </figcaption>
     </figure>
-    
+    <br>
     <figure>
             <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/QiuyuLu/QiuyuLu.jpg" alt="Qiuyu Lu">
         <figcaption>
             <b>Qiuyu Lu</b>, Presenter.
         </figcaption>
     </figure>
-    
+    <br>
     <figure>
             <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/QiQiFu.jpg" alt="QiQi Fu">
         <figcaption>
             <b>QiQi Fu</b>, Presenter.
         </figcaption>
     </figure>
-    
+    <br>
     <figure>
             <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/MatthewLock.jpg" alt="Matthew Lock">
         <figcaption>
             <b>Matthew Lock</b>, Moderator.
         </figcaption>
     </figure>
-
+ <br>
     <figure>
             <img style="margin: 0.1em; width: 250px; height: 250px; object-fit: cover;" src="/images/OHBM2026/StudentResearcherPresenters.jpg" alt="Student Presenters">
         <figcaption>
@@ -76,7 +76,7 @@ This youth participatory framework transforms students into research partners wh
 {{< /gallery >}}
 
 
-
+<br>
 ### Presenter biographies
 
 **Yu-Feng Zang**
