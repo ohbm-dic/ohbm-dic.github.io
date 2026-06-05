@@ -25,14 +25,6 @@ This youth participatory framework transforms students into research partners wh
 
 <!-- {{< youtube id="6" >}} -->
 
-## Presenters and organizers
-
-{{< gallery class="content-gallery" >}}
-  <figure>
-    <img src="/images/OHBM2026/MandarinTeam.jpg" alt="Mandarin Session Team" style="width: 250px; height: 250px; object-fit: cover;">
-    <figcaption><b>Mandarin Session Team</b>, Presenter.</figcaption>
-  </figure>
-{{< /gallery >}}
 
 ### Presenters and organizers
 
@@ -87,20 +79,22 @@ This youth participatory framework transforms students into research partners wh
 
 ### Presenter biographies
 
+**Yu-Feng Zang**
 
-- ** Yu-Feng Zang
 Yu-Feng Zang is a professor and executive dean of the Institute of Psychological Sciences at Hangzhou Normal University, and director of the Center for Cognition and Brain Disorders at the Affiliated Hospital of Hangzhou Normal University. Dr. Zang’s research focuses primarily on functional magnetic resonance imaging methodology and its applications in brain disorders such as ADHD. In this program, he serves as the chief scientist, inspiring young people’s interest in brain and cognitive research, encouraging their participation in scientific inquiry, and fostering learning through inquiry-based education.
 
-- ** Xi-Nian Zuo
-Xi-Nian Zuo is a professor at Beijing Normal University, Fellow of the International Human Brain Mapping Organization. He pioneered the field of developmental population neuroscience, established the “Chinese Color Nest Project” longitudinal cohort study on brain and cognitive development in school-age children and adolescents, and contributed to mapping the human brain across lifespan. By revealing the imaging mechanisms underlying brain and cognitive development in primary and secondary school students, he has advanced the translation of population neuroscience toward personalized applications.
+**Xi-Nian Zuo**
 
-- ** Qiuyu Lu
-As a former middle-school teacher and current full-time PhD student at Beijing Normal University, Qiuyu Lu has a deep-rooted love for language teaching and educational neuroscience. She strives to translate brain research findings into practical classroom instructions to empower education. In the free time, she enjoys reading, swimming, hiking, and she is an avid fan of documentaries.
+Xi-Nian Zuo is a professor at Beijing Normal University and a Fellow of the International Human Brain Mapping Organization. He pioneered the field of developmental population neuroscience, established the “Chinese Color Nest Project” longitudinal cohort study on brain and cognitive development in school-age children and adolescents, and contributed to mapping the human brain across the lifespan. By revealing the imaging mechanisms underlying brain and cognitive development in primary and secondary school students, he has advanced the translation of population neuroscience toward personalized applications.
 
-- ** Qiqi Fu
-Qiqi Fu holds a master’s degree in cognitive neuroscience. Her research interests focus on Attention-Deficit/Hyperactivity Disorder (ADHD) and sustained attention mechanisms, with a commitment to exploring pathways for adolescent mental health development and support. Passionate about skiing, tennis, and immersive reading, she believes in the power of both movement and reflection, and aspires to empower youth with science and empathy. 
+**Qiuyu Lu**
 
-- ** Matthew Lock
-Matthew Lock is a current full time PhD student at Zhejiang University. With a strong interest in consciousness and attention, he hopes to improve current research methodology and work towards a holistic understanding of brain function. In his free time, Matt enjoys cooking, gaming, and various sports.
+As a former middle-school teacher and current full-time PhD student at Beijing Normal University, Qiuyu Lu has a deep-rooted love for language teaching and educational neuroscience. She strives to translate brain research findings into practical classroom instruction to empower education. In her free time, she enjoys reading, swimming, hiking, and is an avid fan of documentaries.
 
+**Qiqi Fu**
 
+Qiqi Fu holds a master’s degree in cognitive neuroscience. Her research interests focus on Attention-Deficit/Hyperactivity Disorder (ADHD) and sustained attention mechanisms, with a commitment to exploring pathways for adolescent mental health development and support. Passionate about skiing, tennis, and immersive reading, she believes in the power of both movement and reflection and aspires to empower youth with science and empathy.
+
+**Matthew Lock**
+
+Matthew Lock is a full-time PhD student at Zhejiang University. With a strong interest in consciousness and attention, he hopes to improve current research methodology and work toward a holistic understanding of brain function. In his free time, Matt enjoys cooking, gaming, and various sports.
